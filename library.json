@@ -1,13 +1,63 @@
 {
   "builtAt": "",
-  "cards": 13,
+  "cards": 24,
   "catalog": {
-    "bytes": 3168,
+    "bytes": 6355,
     "path": "catalog.json",
-    "sha256": "88fac7389b16597991581849ffa31a0698fad3286ccff660ef2aa7e078b3b057"
+    "sha256": "e2d9633366ae4ec13ee0dc7b3618e0ab1bce62270cac1fbe92c74839534ba785"
   },
-  "decks": 2,
+  "decks": 3,
   "files": [
+    {
+      "bytes": 208286,
+      "path": "images/Immagine 2024-08-13 001138.png",
+      "sha256": "8d3bda172c5c063841e9168e7942b137f64a9fcc31589a4e67e93063511fecf1"
+    },
+    {
+      "bytes": 175946,
+      "path": "images/Immagine 2024-08-13 001256.png",
+      "sha256": "fd94b02505c3ee14fabedb0a45ab7705582d6d45a2afe3e701040c18afd1a0d5"
+    },
+    {
+      "bytes": 121502,
+      "path": "images/Immagine 2024-08-13 001558.png",
+      "sha256": "35791addf571374d9badfed53dce7704a4f972516bb948b0c6415fa2ae806a2a"
+    },
+    {
+      "bytes": 74478,
+      "path": "images/Immagine 2024-08-13 001629.png",
+      "sha256": "be1305516c29783bd6cffebd9b1eb445a9a9af53055e2ef5301aa0cf5e67ada5"
+    },
+    {
+      "bytes": 137651,
+      "path": "images/Immagine 2024-08-13 001744.png",
+      "sha256": "e324492ebfbfef17692dd0c10dc65cfb17dd38a3195f553e1bcec9ec596b909d"
+    },
+    {
+      "bytes": 88326,
+      "path": "images/Immagine 2024-08-13 001810.png",
+      "sha256": "1db4f3333d79c1cf071395b32aad3a080f04e981db5f2b2c144a140d85aa03b4"
+    },
+    {
+      "bytes": 151869,
+      "path": "images/Immagine 2024-08-13 001906.png",
+      "sha256": "9d68bf161cf4b0c281b0eb33f85553b62f078e32eacd205b9b94b5b2ac72c044"
+    },
+    {
+      "bytes": 142771,
+      "path": "images/Immagine 2024-08-13 001931.png",
+      "sha256": "e5c961eb97b08da8b8afe8ebbd40d9d12a8aad37ff93b20ba2044190a24d6187"
+    },
+    {
+      "bytes": 66591,
+      "path": "images/Immagine 2024-08-13 002016.png",
+      "sha256": "a5a63aafaf88cc55affb613a2d39ad1030d69a0018f2a94c2192213e07ff5cb8"
+    },
+    {
+      "bytes": 163457,
+      "path": "images/Immagine 2024-08-13 002128.png",
+      "sha256": "f9e65bcbed496db80a31e6f605ef9ecb65b1c2f7d67cc27402a5fa200370d4a7"
+    },
     {
       "bytes": 1120360,
       "path": "images/acceso e spento/candela accesa.png",
@@ -72,6 +122,11 @@
       "bytes": 1416377,
       "path": "images/acceso e spento/torcia elettrica spenta.png",
       "sha256": "c5b1bd9a15950659046bb51485dfc0ee964e596cd95e6716f5ab2518353d3e6f"
+    },
+    {
+      "bytes": 1722572,
+      "path": "images/alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
+      "sha256": "516651f5672df0d943717de5ffcd55d4c0d867dc5137f8eb5d544610de417033"
     },
     {
       "bytes": 1293168,
@@ -862,9 +917,9 @@
     "posate",
     "vestiti"
   ],
-  "id": "6a8650b7667416e76eb0d104ec4093e97d8d3404cf694f80f58592b8da697644",
-  "images": 169,
+  "id": "99b9e12377d7f939995a16225f24b1b5ea94756f92f2017067450e3bb7944bf1",
+  "images": 180,
   "kind": "lexica-library-index",
-  "sha256": "6a8650b7667416e76eb0d104ec4093e97d8d3404cf694f80f58592b8da697644",
+  "sha256": "99b9e12377d7f939995a16225f24b1b5ea94756f92f2017067450e3bb7944bf1",
   "url": "."
 }
