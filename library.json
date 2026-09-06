@@ -1,24 +1,95 @@
 {
     "kind":  "lexica-library-index",
-    "id":  "774adc419f7ac27e5a456d3479d5c0b6bbfd199f90fc077aa15fac918404e966",
-    "builtAt":  "2026-09-06T01:22:34.5853845Z",
+    "id":  "8b40a2c36a137d09f37f96529a419d7e091b2d89404a391d5eef0c2182d02191",
+    "builtAt":  "2026-09-06T01:52:32.2443836Z",
     "url":  ".",
-    "sha256":  "774adc419f7ac27e5a456d3479d5c0b6bbfd199f90fc077aa15fac918404e966",
+    "sha256":  "8b40a2c36a137d09f37f96529a419d7e091b2d89404a391d5eef0c2182d02191",
     "cards":  13,
     "decks":  2,
-    "images":  142,
+    "images":  156,
     "catalog":  {
                     "path":  "catalog.json",
                     "sha256":  "88fac7389b16597991581849ffa31a0698fad3286ccff660ef2aa7e078b3b057",
                     "bytes":  3168
                 },
     "folders":  [
+                    "aperto e chiuso",
                     "frutta",
                     "immagini 1",
                     "posate",
                     "vestiti"
                 ],
     "files":  [
+                  {
+                      "path":  "images/aperto e chiuso/cassa aperta.png",
+                      "sha256":  "ef545e03de3144544623657e46b5381957a2e49ca2cc8d77c6bcfbf4330578c6",
+                      "bytes":  1293168
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/cassa chiusa.png",
+                      "sha256":  "8b411704ec09042e29d8e01c5e80004a1faf6e1b85d35d31efac1b4e378f6c78",
+                      "bytes":  960170
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/cassettiera aperta.png",
+                      "sha256":  "7d41ce19f21d4f6985dfa8bbf5551bddbf9320eb9257bee2b29c90d901fdc841",
+                      "bytes":  1845614
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/cassettiera chousa.png",
+                      "sha256":  "7c051b3d7b82b028028ecaf5ec903cbc6e6f5156f27a5afa639d5359b9ecd376",
+                      "bytes":  1979595
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/libro aperto.png",
+                      "sha256":  "b7539ac063a350b0bc0c063c1c196afb11bf71d0705023fece184525bda810fa",
+                      "bytes":  1842353
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/libro chiuso.png",
+                      "sha256":  "3c802cd549d6388be920016349b8f5f455db651d9e5b754ec70e94b31bf67437",
+                      "bytes":  1508112
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/ombrello aperto.png",
+                      "sha256":  "43dd215284ee5b481fcc7167dd52f12e89238728fd2a05bac62d101c1f961176",
+                      "bytes":  527304
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/ombrello chiuso.png",
+                      "sha256":  "363483f2d55f4258f81b3d00b31e332222dbe6602b87da11b77530ddf8eb811c",
+                      "bytes":  189698
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/porta aperta 2.png",
+                      "sha256":  "305c129a88dc1d1a1978954864b667bde546b029c6ade60062d67b249a22d645",
+                      "bytes":  1592681
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/porta aperta.png",
+                      "sha256":  "c8d3144ed3aeea1d98f63c529a18a85bf8523584e08206169909d3412b910c03",
+                      "bytes":  1768202
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/porta chiusa 2.png",
+                      "sha256":  "a2d9fc5c93f728111d17d306a94b57dcf50b3b589dcc729e0c59729d3180e824",
+                      "bytes":  1986330
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/porta chiusa.png",
+                      "sha256":  "8a4b76b2e28d4557e2f849b017edf511251e44d1b323a7aba19799b9f273eb88",
+                      "bytes":  1690859
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/scatola aperta.png",
+                      "sha256":  "2b01d6a5cb19a9496d6b541a6c9ff5486f6859434c34e3f8ca4d42715a8e9e35",
+                      "bytes":  588277
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/scatola chiusa.png",
+                      "sha256":  "42b96c1be1c370ad104ab3c909ce048ccc90a729bda0449e38b8d4884f7be3be",
+                      "bytes":  856027
+                  },
                   {
                       "path":  "images/immagini 1/aereo (11).png",
                       "sha256":  "0c3d4364b6691ebf224d662e9559f2f9ee3e23e1a881a9a1d4bf0750a58c1f8e",
