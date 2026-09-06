@@ -164,6 +164,76 @@
       "id": "c57843c6-4e57-4967-bdb6-5faa3ec4aa94",
       "imageFile": "Immagine 2024-08-13 002128.png",
       "name": "Immagine 2024-08-13 002128"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "7162eeb5-63bb-4270-8d14-623994728b02",
+      "imageFile": "numeri/0.jpg",
+      "name": "0"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "8418c319-cc02-4fc8-8c42-4bdf01f50796",
+      "imageFile": "numeri/1.jpg",
+      "name": "1"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "c563a4b7-1968-4437-bfb7-3a1ffb45298e",
+      "imageFile": "numeri/2.jpg",
+      "name": "2"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "1f0fe635-188d-4841-8933-18a4a7e8ae30",
+      "imageFile": "numeri/3.jpg",
+      "name": "3"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "a9616a30-b84f-475f-9d6b-d18e4ea63990",
+      "imageFile": "numeri/4.jpg",
+      "name": "4"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "64d9d1fc-bb21-475f-b5f5-d8f171aefb99",
+      "imageFile": "numeri/5.jpg",
+      "name": "5"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "fa7209a0-6225-4813-883a-718077bbc8ed",
+      "imageFile": "numeri/6.jpg",
+      "name": "6"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "f9833b9d-da28-4c6b-9d1c-662568f3a319",
+      "imageFile": "numeri/7.jpg",
+      "name": "7"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "5649a9a6-70bf-4d92-8c0c-37727982dc17",
+      "imageFile": "numeri/8.jpg",
+      "name": "8"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "5e1ff1d9-fd43-40fd-a1ca-00b378727659",
+      "imageFile": "numeri/9.jpg",
+      "name": "9"
     }
   ],
   "decks": [
@@ -181,6 +251,11 @@
       "createdAt": "2026-09-06T23:03:14.622Z",
       "id": "896edced-74c8-4862-861f-a463ad85d3c2",
       "name": "other computer"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "id": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "name": "numeri"
     }
   ]
 }

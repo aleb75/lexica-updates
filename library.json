@@ -1,12 +1,12 @@
 {
   "builtAt": "",
-  "cards": 24,
+  "cards": 34,
   "catalog": {
-    "bytes": 6355,
+    "bytes": 8700,
     "path": "catalog.json",
-    "sha256": "e2d9633366ae4ec13ee0dc7b3618e0ab1bce62270cac1fbe92c74839534ba785"
+    "sha256": "b59fc11a10d6b9089a15975e7b173832972884ee9e5ea802620efd88948b0772"
   },
-  "decks": 3,
+  "decks": 4,
   "files": [
     {
       "bytes": 34009,
@@ -879,6 +879,56 @@
       "sha256": "271525e8e5b2af3ce7ff69da065c77f57052079d825bf9389234c763c28e24d3"
     },
     {
+      "bytes": 34009,
+      "path": "images/numeri/0.jpg",
+      "sha256": "39235d5159a6a74894a786ab5365a1e7d8020ee1651d6080ab4b8f2a8dea84dd"
+    },
+    {
+      "bytes": 13400,
+      "path": "images/numeri/1.jpg",
+      "sha256": "2f85f72e49b3077f296c2988a70e3837d80d02457d28c2e4536d2072aca79083"
+    },
+    {
+      "bytes": 35989,
+      "path": "images/numeri/2.jpg",
+      "sha256": "c1593174b390a59fa73ea41dfbf6ab60970636fae5de4fe8b41ab4b23454ac09"
+    },
+    {
+      "bytes": 34849,
+      "path": "images/numeri/3.jpg",
+      "sha256": "855347fbdad4a73750a4367994a0d2efd138c9b1d260f9877356276c08d63d23"
+    },
+    {
+      "bytes": 26331,
+      "path": "images/numeri/4.jpg",
+      "sha256": "3ee2d47cbef7672444280d5badeaae69605edc08c4040e1a5e998fa026a22a86"
+    },
+    {
+      "bytes": 28840,
+      "path": "images/numeri/5.jpg",
+      "sha256": "689ed9bd94f0891e7c4f4512674bef0114489d4e264a321f3f7c84c67ca478b5"
+    },
+    {
+      "bytes": 35980,
+      "path": "images/numeri/6.jpg",
+      "sha256": "166f0cd3840220a3004405427159a44f230be15a87ca2c525b5aaa06ce2b3d63"
+    },
+    {
+      "bytes": 26519,
+      "path": "images/numeri/7.jpg",
+      "sha256": "13e29dccc163e1a7cdf7fb8bafaf70508f2f1cc488d21181c7dd6ca587a7550a"
+    },
+    {
+      "bytes": 45059,
+      "path": "images/numeri/8.jpg",
+      "sha256": "43f245aba6c7436a15d7eab8e5f2c2c1dca9bfbabe90bb6dea53ed57ca59f07b"
+    },
+    {
+      "bytes": 37242,
+      "path": "images/numeri/9.jpg",
+      "sha256": "387dde2af1dd1d30553e88ff455c15af23e2132607b5d2b4013868f7e6931e08"
+    },
+    {
       "bytes": 170928,
       "path": "images/posate/coltello.jpg",
       "sha256": "36ff43a399fd9985c7fc21399092fe76ac114cf94660e59b63f4a0254d5e0457"
@@ -964,12 +1014,13 @@
     "aperto e chiuso",
     "frutta",
     "immagini 1",
+    "numeri",
     "posate",
     "vestiti"
   ],
-  "id": "c3915e9aa7adbe428cac1b1af428fc3e0e41ac0f59779f1f893fdd27adacab42",
-  "images": 190,
+  "id": "dc81cce7ce33c31918440a01f210be2c621475556dcfc7c30d81d045aaa68251",
+  "images": 200,
   "kind": "lexica-library-index",
-  "sha256": "c3915e9aa7adbe428cac1b1af428fc3e0e41ac0f59779f1f893fdd27adacab42",
+  "sha256": "dc81cce7ce33c31918440a01f210be2c621475556dcfc7c30d81d045aaa68251",
   "url": "."
 }
