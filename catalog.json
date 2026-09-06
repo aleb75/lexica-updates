@@ -1,0 +1,104 @@
+{
+  "cards": [
+    {
+      "id": "e577e180-9062-4c4b-8799-674b0dfd1864",
+      "imageFile": "immagini 1/e577e180-9062-4c4b-8799-674b0dfd1864.png",
+      "name": "orange",
+      "createdAt": "2026-09-03T01:26:46.007Z"
+    },
+    {
+      "id": "44a85b14-6aee-4d9c-8598-5451168825d5",
+      "imageFile": "immagini 1/aereo (11).png",
+      "name": "aereo",
+      "createdAt": "2026-09-05T02:13:16.324Z"
+    },
+    {
+      "id": "4d034db3-1762-4cd9-be75-3649d2e516cb",
+      "imageFile": "immagini 1/altalena (3).png",
+      "name": "altalena",
+      "createdAt": "2026-09-05T02:13:16.324Z"
+    },
+    {
+      "id": "1f7feec2-b5ee-4b8d-9988-94121dc7894b",
+      "imageFile": "immagini 1/arancio (6).png",
+      "name": "arancio",
+      "createdAt": "2026-09-05T02:13:16.324Z"
+    },
+    {
+      "id": "acc4eddd-1df6-414e-8168-7099c5c74f3c",
+      "imageFile": "immagini 1/asciugamano (5).png",
+      "name": "asciugamano",
+      "createdAt": "2026-09-05T02:24:45.280Z"
+    },
+    {
+      "id": "6292fcc2-3285-46bd-acab-fff39a27ac29",
+      "imageFile": "immagini 1/aspirapolvere (8).png",
+      "name": "aspirapolvere",
+      "createdAt": "2026-09-05T02:24:45.280Z"
+    },
+    {
+      "id": "b022b190-dfc1-4835-97c0-4eafa4a80377",
+      "imageFile": "immagini 1/autobus.png",
+      "name": "autobus",
+      "createdAt": "2026-09-05T02:24:45.280Z"
+    },
+    {
+      "id": "a6ab32ba-8042-48d1-9e80-15dabe6c65e1",
+      "imageFile": "immagini 1/bagno (3).png",
+      "name": "bagno",
+      "createdAt": "2026-09-05T02:41:14.298Z",
+      "deckId": "55835f24-a0a4-4eda-ba03-eb93a82c856c"
+    },
+    {
+      "id": "c6e2975f-9ac3-4c66-ab8f-b97edec713e3",
+      "imageFile": "immagini 1/bambola (2).png",
+      "name": "bambola",
+      "createdAt": "2026-09-05T02:41:14.298Z",
+      "deckId": "55835f24-a0a4-4eda-ba03-eb93a82c856c"
+    },
+    {
+      "id": "d0f244ff-c38f-4fa0-b867-17c0264a6e94",
+      "imageFile": "immagini 1/banane (2).png",
+      "name": "banane",
+      "createdAt": "2026-09-05T02:41:14.298Z",
+      "deckId": "55835f24-a0a4-4eda-ba03-eb93a82c856c"
+    },
+    {
+      "id": "09c25adb-524c-49bd-9980-1ec3041c1e47",
+      "imageFile": "immagini 1/biscotti (3).png",
+      "name": "biscotti",
+      "createdAt": "2026-09-05T02:41:48.202Z",
+      "deckId": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635"
+    },
+    {
+      "id": "863e3d09-b10a-4022-8387-f63cc502b4ed",
+      "imageFile": "immagini 1/bolle (4).png",
+      "name": "bollicine",
+      "createdAt": "2026-09-05T02:41:48.202Z",
+      "deckId": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635",
+      "label": {
+        "x": 68.37650544459466,
+        "y": 31.544940839113178
+      }
+    },
+    {
+      "id": "865de5f5-5f8c-4167-bfb8-646a0fbd979f",
+      "imageFile": "immagini 1/burro (10).png",
+      "name": "burro",
+      "createdAt": "2026-09-05T02:41:48.202Z",
+      "deckId": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635"
+    }
+  ],
+  "decks": [
+    {
+      "id": "55835f24-a0a4-4eda-ba03-eb93a82c856c",
+      "name": "varie",
+      "createdAt": "2026-09-05T02:41:14.298Z"
+    },
+    {
+      "id": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635",
+      "name": "var 2",
+      "createdAt": "2026-09-05T02:41:48.202Z"
+    }
+  ]
+}
