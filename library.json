@@ -1,20 +1,21 @@
 {
     "kind":  "lexica-library-index",
-    "id":  "be2785ca48cdfcc9197f54abc5b6cf85fe6c4bb66e98b73393934453378dda1f",
-    "builtAt":  "2026-09-06T01:00:31.1378703Z",
+    "id":  "774adc419f7ac27e5a456d3479d5c0b6bbfd199f90fc077aa15fac918404e966",
+    "builtAt":  "2026-09-06T01:22:34.5853845Z",
     "url":  ".",
-    "sha256":  "be2785ca48cdfcc9197f54abc5b6cf85fe6c4bb66e98b73393934453378dda1f",
+    "sha256":  "774adc419f7ac27e5a456d3479d5c0b6bbfd199f90fc077aa15fac918404e966",
     "cards":  13,
     "decks":  2,
-    "images":  139,
+    "images":  142,
     "catalog":  {
                     "path":  "catalog.json",
-                    "sha256":  "5d2e1421db42290196275c0a5310859f985cb6fcf78c20b11ac735e662f039f2",
-                    "bytes":  3167
+                    "sha256":  "88fac7389b16597991581849ffa31a0698fad3286ccff660ef2aa7e078b3b057",
+                    "bytes":  3168
                 },
     "folders":  [
                     "frutta",
                     "immagini 1",
+                    "posate",
                     "vestiti"
                 ],
     "files":  [
@@ -647,6 +648,21 @@
                       "path":  "images/immagini 1/zebra (1).png",
                       "sha256":  "271525e8e5b2af3ce7ff69da065c77f57052079d825bf9389234c763c28e24d3",
                       "bytes":  2720007
+                  },
+                  {
+                      "path":  "images/posate/coltello.jpg",
+                      "sha256":  "36ff43a399fd9985c7fc21399092fe76ac114cf94660e59b63f4a0254d5e0457",
+                      "bytes":  170928
+                  },
+                  {
+                      "path":  "images/posate/cucchiaio.jpg",
+                      "sha256":  "86bb0cda0d933ed89743c4f6317679c731607ad57af18b4b76d86a6bfe77620a",
+                      "bytes":  105477
+                  },
+                  {
+                      "path":  "images/posate/forchetta 01 copia.jpg",
+                      "sha256":  "3af172dedb27a095f83429456faf7d5f13f7fdc7f3e314c954487a1490b65416",
+                      "bytes":  52852
                   },
                   {
                       "path":  "images/vestiti/calzini.png",
