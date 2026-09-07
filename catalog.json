@@ -67,7 +67,7 @@
       "createdAt": "2026-09-05T02:41:48.202Z",
       "deckId": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635",
       "id": "09c25adb-524c-49bd-9980-1ec3041c1e47",
-      "imageFile": "immagini 1/biscotti (3).png",
+      "imageFile": "oggetti/biscotti (3).png",
       "name": "biscotti"
     },
     {
@@ -85,8 +85,249 @@
       "createdAt": "2026-09-05T02:41:48.202Z",
       "deckId": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635",
       "id": "865de5f5-5f8c-4167-bfb8-646a0fbd979f",
-      "imageFile": "immagini 1/burro (10).png",
+      "imageFile": "oggetti/burro (10).png",
       "name": "burro"
+    },
+    {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "deckId": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "id": "00091880-df4e-4dcc-ac7a-65d6777612a9",
+      "imageFile": "immagini 1/cocomero (3).png",
+      "label": {
+        "x": 26.534770718581385,
+        "y": 17.697843373250617
+      },
+      "name": "Wassermelone"
+    },
+    {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "deckId": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "id": "c7039a7d-b3b1-41e0-8530-55c2017fed56",
+      "imageFile": "immagini 1/coltello (5).png",
+      "name": "Messer"
+    },
+    {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "deckId": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "id": "fdae93bc-7c55-4fbc-93ad-a6c5b8fd4de2",
+      "imageFile": "immagini 1/coniglio (1).png",
+      "name": "coniglio (1)"
+    },
+    {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "deckId": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "id": "955bdc88-e86a-4f40-b0a0-4331e920ef48",
+      "imageFile": "immagini 1/cucchiaio (10).png",
+      "name": "Löffel"
+    },
+    {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "deckId": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "id": "99102478-cd27-421e-915d-117ea2cfc75d",
+      "imageFile": "immagini 1/elefante (1).png",
+      "name": "elefante (1)"
+    },
+    {
+      "createdAt": "2026-09-06T16:56:30.693Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "8330c0f6-5dcd-4539-bc57-32a73d40f5af",
+      "imageFile": "oggetti/bicchiere05.png",
+      "label": {
+        "x": 30.688567988095755,
+        "y": 12.374101268301766
+      },
+      "name": "Ein Glas Wasser"
+    },
+    {
+      "createdAt": "2026-09-06T16:59:01.417Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "1e031b2d-afd4-4cd9-8460-6fc81fdffb96",
+      "imageFile": "immagini 1/mela.png",
+      "label": {
+        "x": 18.777590357357347,
+        "y": 12.230213082951607
+      },
+      "name": "Apfel"
+    },
+    {
+      "createdAt": "2026-09-06T16:59:01.417Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "e9aa39fc-1d7f-4f82-97ff-3a4d2b94e463",
+      "imageFile": "immagini 1/pane (3).png",
+      "label": {
+        "x": 19.53393444216629,
+        "y": 11.798559504447224
+      },
+      "name": "Brot"
+    },
+    {
+      "createdAt": "2026-09-06T16:59:01.417Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "84548971-2e2c-49db-9eff-07e5dd17c8a2",
+      "imageFile": "immagini 1/patatine (3).png",
+      "label": {
+        "x": 18.09352444801971,
+        "y": 10.50359602454755
+      },
+      "name": "Pommes"
+    },
+    {
+      "createdAt": "2026-09-06T16:59:01.417Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "1ed8e6d9-5623-4f92-ba5f-ba8bc53127c5",
+      "imageFile": "immagini 1/pomodori (3).png",
+      "label": {
+        "x": 4.664267853295489,
+        "y": 9.64028612315226
+      },
+      "name": "Tomaten"
+    },
+    {
+      "createdAt": "2026-09-06T16:59:01.417Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "b74253d1-9e88-4ef1-a40d-72ca89f099d9",
+      "imageFile": "immagini 1/spaghetti (2).png",
+      "label": {
+        "x": 48.40527724304931,
+        "y": 84.74820637874465
+      },
+      "name": "Spaghetti mit Tomatensauce"
+    },
+    {
+      "createdAt": "2026-09-06T16:59:01.417Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "57123ba2-acb5-4335-8b25-3dcd2e78366f",
+      "imageFile": "immagini 1/torta01.png",
+      "label": {
+        "x": 27.302159737054104,
+        "y": 8.633093525179856
+      },
+      "name": "Erdbeerkuchen"
+    },
+    {
+      "createdAt": "2026-09-06T16:59:01.417Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "cf2807a5-8e65-4a36-8b28-dd8a55905a55",
+      "imageFile": "immagini 1/uova02.png",
+      "label": {
+        "x": 18.856845570418074,
+        "y": 12.086330386374494
+      },
+      "name": "Eier"
+    },
+    {
+      "createdAt": "2026-09-06T16:59:01.417Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "fec27848-35bb-4400-a980-a4da72efba44",
+      "imageFile": "immagini 1/uva (5).png",
+      "label": {
+        "x": 20.49160964197392,
+        "y": 12.086330386374494
+      },
+      "name": "Trauben"
+    },
+    {
+      "createdAt": "2026-09-06T17:02:51.231Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "788e7a69-a54f-43dc-b507-0a75e566da66",
+      "imageFile": "immagini 1/pane (3).png",
+      "kind": "pair",
+      "name": "???",
+      "otherImageFile": "immagini 1/mela.png",
+      "otherName": "???"
+    },
+    {
+      "createdAt": "2026-09-06T17:04:50.251Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "b67b6411-291b-4916-99c7-1f8f9939ed6c",
+      "imageFile": "immagini 1/cocomero (3).png",
+      "kind": "pair",
+      "name": "???",
+      "otherImageFile": "immagini 1/carote (5).png",
+      "otherName": "???"
+    },
+    {
+      "createdAt": "2026-09-06T17:13:25.311Z",
+      "deckId": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "id": "7faa52f9-a623-4a3e-97fa-a93ab875dfae",
+      "imageFile": "acceso e spento/candela spenta.png",
+      "name": "candela spenta"
+    },
+    {
+      "createdAt": "2026-09-06T17:21:02.690Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "97c2f3f0-7aa4-4c33-b876-184043bd4cc9",
+      "imageFile": "acceso e spento/candela accesa.png",
+      "name": "candela accesa"
+    },
+    {
+      "createdAt": "2026-09-06T17:21:02.690Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "92625c80-ca67-45f5-b0c3-e43afb487ea6",
+      "imageFile": "acceso e spento/lampada accesa.png",
+      "name": "lampada accesa"
+    },
+    {
+      "createdAt": "2026-09-06T17:21:02.690Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "8dca34e6-ea6c-4f07-acb8-ea29e152298d",
+      "imageFile": "acceso e spento/lampadario acceso.png",
+      "name": "lampadario acceso"
+    },
+    {
+      "createdAt": "2026-09-06T17:24:17.562Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "07b85de1-e76c-43dc-a3b9-359ee974c1ea",
+      "imageFile": "arrabbiata donna 3.png",
+      "label": {
+        "x": 28.631660439644897,
+        "y": 9.208632544647877
+      },
+      "name": "wütend"
+    },
+    {
+      "createdAt": "2026-09-06T17:24:17.562Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "a8cfb76a-9109-4b47-b190-7a8626a74f41",
+      "imageFile": "donna felice 3.png",
+      "label": {
+        "x": 16.867940536700047,
+        "y": 9.496400682188623
+      },
+      "name": "froh"
+    },
+    {
+      "createdAt": "2026-09-06T17:24:17.562Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "3b645a46-b630-4210-97a4-d4993431f4cc",
+      "imageFile": "donna sorpresa 3.png",
+      "label": {
+        "x": 32.5538383837225,
+        "y": 10.79136690647482
+      },
+      "name": "erstaunt"
+    },
+    {
+      "createdAt": "2026-09-06T17:24:17.562Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "1f230a15-5d3e-4d16-82f2-399a8a678b12",
+      "imageFile": "donna spaventata 3.png",
+      "label": {
+        "x": 32.60293210176835,
+        "y": 7.482012741857296
+      },
+      "name": "erschreckt"
+    },
+    {
+      "createdAt": "2026-09-06T17:24:17.562Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "4bb9887e-9589-4614-bf3a-9154b8ffc175",
+      "imageFile": "donna triste 3.png",
+      "label": {
+        "x": 17.434505626635715,
+        "y": 8.77697622175697
+      },
+      "name": "traurig"
     },
     {
       "createdAt": "2026-09-06T23:03:14.623Z",
@@ -248,6 +489,16 @@
       "name": "var 2"
     },
     {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "id": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "name": "oggetti"
+    },
+    {
+      "createdAt": "2026-09-06T16:56:30.693Z",
+      "id": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "name": "tedesco"
+    },
+    {
       "createdAt": "2026-09-06T23:03:14.622Z",
       "id": "896edced-74c8-4862-861f-a463ad85d3c2",
       "name": "other computer"
@@ -257,5 +508,6 @@
       "id": "726a0a93-2b32-4169-8fa4-53678c5635c2",
       "name": "numeri"
     }
-  ]
+  ],
+  "cardFolders": []
 }

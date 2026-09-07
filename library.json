@@ -1,12 +1,12 @@
 {
   "builtAt": "",
-  "cards": 34,
+  "cards": 59,
   "catalog": {
-    "bytes": 8700,
+    "bytes": 16604,
     "path": "catalog.json",
-    "sha256": "b59fc11a10d6b9089a15975e7b173832972884ee9e5ea802620efd88948b0772"
+    "sha256": "c3385dfb13ab9304c2325976c6397e0a92cc4972fb662ccda34f208b6a3eaa7c"
   },
-  "decks": 4,
+  "decks": 6,
   "files": [
     {
       "bytes": 34009,
@@ -247,6 +247,71 @@
       "bytes": 856027,
       "path": "images/aperto e chiuso/scatola chiusa.png",
       "sha256": "42b96c1be1c370ad104ab3c909ce048ccc90a729bda0449e38b8d4884f7be3be"
+    },
+    {
+      "bytes": 1642619,
+      "path": "images/arrabbiata donna 3.png",
+      "sha256": "218eeb18cce1880f54073abedf7ffc2b41d383f661d9826cf448b8dbcf81218d"
+    },
+    {
+      "bytes": 1257334,
+      "path": "images/arrabbiato bambino 3.png",
+      "sha256": "833cb13f9ab366bbd257ee6ad42964a8c1df7193d75aa7ebc76a641d362d3aae"
+    },
+    {
+      "bytes": 1572230,
+      "path": "images/bambina arrabbiata 3.png",
+      "sha256": "77cd67974f6759d4fa3afc7cb573b33083a26deeee40192e84c8749e4e776bc2"
+    },
+    {
+      "bytes": 1563675,
+      "path": "images/bambina felice 3.png",
+      "sha256": "88e389efda14eb55f5eda05c8bf9c83ad0b7208aebff4689c67b4c91f4bb5a34"
+    },
+    {
+      "bytes": 1675197,
+      "path": "images/bambina sorpresa 3.png",
+      "sha256": "16130c9b8f9865313c0f17de4ae32b2c46e400f6ffe6e832f28e08dfeeeedd73"
+    },
+    {
+      "bytes": 1584466,
+      "path": "images/bambina spaventata 3.png",
+      "sha256": "31cdf57db263661aae29d02f0821af221021ed442a6b61c5dea4a0d74e9d487a"
+    },
+    {
+      "bytes": 1552163,
+      "path": "images/bambina triste 3.png",
+      "sha256": "bcf3f6870af4fdabfa301f1adf6fc2a5b3ea21d44cde424527f40279e8c97781"
+    },
+    {
+      "bytes": 1773836,
+      "path": "images/donna felice 3.png",
+      "sha256": "a6bc90adf7d2e9f3d2ee0924191025506287151485a2b3e34ac5485c09a75670"
+    },
+    {
+      "bytes": 1906403,
+      "path": "images/donna sorpresa 3.png",
+      "sha256": "2d22c105e24e80ed1207a2faa18ea2011371bc481989572e88d075de555b89de"
+    },
+    {
+      "bytes": 2312738,
+      "path": "images/donna spaventata 3.png",
+      "sha256": "03579b42d847cf76447c065222916a5a870052adc3824dd7841d8708a3396d07"
+    },
+    {
+      "bytes": 1816815,
+      "path": "images/donna triste 3.png",
+      "sha256": "9f7a1258cbbb4a456d6d5f7a2b705452c617199a025a3d3bfdf44ad1bd615f15"
+    },
+    {
+      "bytes": 1924108,
+      "path": "images/donna triste 5.png",
+      "sha256": "dfcee1ad03307402e0a92f292802f4cf085e9e834e9f61ad577010f582680fae"
+    },
+    {
+      "bytes": 1176499,
+      "path": "images/felice bambino 3.png",
+      "sha256": "ba2810580a1ca7b539d785d12b071cb9baf3bb73838f4899725b6e444db4e79f"
     },
     {
       "bytes": 2040337,
@@ -929,6 +994,56 @@
       "sha256": "387dde2af1dd1d30553e88ff455c15af23e2132607b5d2b4013868f7e6931e08"
     },
     {
+      "bytes": 1962729,
+      "path": "images/oggetti/bicchiere05.png",
+      "sha256": "4a2f901f640aef3071bafee27f8eed9e6ea5d46f64ddd674a41c8d5c387fe0eb"
+    },
+    {
+      "bytes": 2187752,
+      "path": "images/oggetti/bicicletta (5).png",
+      "sha256": "fa1d90cf25535ffe4b6f0cf23bfe72663cfa94138af26648854c40e0185252d2"
+    },
+    {
+      "bytes": 1756779,
+      "path": "images/oggetti/biscotti (3).png",
+      "sha256": "2fbf24f5a619f5d3c5fd178ed365925e2891ff73cfd671133a8131576e5d193e"
+    },
+    {
+      "bytes": 2228715,
+      "path": "images/oggetti/burro (10).png",
+      "sha256": "2de88454430abffcb65153d1334d4387218c62c355f339760786b7b94387fe3a"
+    },
+    {
+      "bytes": 2015978,
+      "path": "images/oggetti/calzini (6).png",
+      "sha256": "3974c406724e4322ed010e14924a5ac8194e9b78056ed03c4e543b4396b8fb24"
+    },
+    {
+      "bytes": 1908777,
+      "path": "images/oggetti/camion (4).png",
+      "sha256": "7f05f3865d33bbfabb8b1cc96b31314aa874ae462d10ae4e19b2fdf83cc053c7"
+    },
+    {
+      "bytes": 18889753,
+      "path": "images/oggetti/cane (1).png",
+      "sha256": "9861ca3f313477e85556c92b6c4dd54e3c02c25e99e4310b7d7eed4860890d69"
+    },
+    {
+      "bytes": 18387779,
+      "path": "images/oggetti/canguro (1).png",
+      "sha256": "032559f1f81299f1dbb160c729f5a3b58087f903f7830d8662fc66bb6f6979df"
+    },
+    {
+      "bytes": 13594554,
+      "path": "images/oggetti/cappello (1).png",
+      "sha256": "ebb7d027e111c1679a4e41c7474c5e0c17f10820e66c2bb73fb23415c003856f"
+    },
+    {
+      "bytes": 3103088,
+      "path": "images/oggetti/chiavi (5).png",
+      "sha256": "201c0776d6a4843af9d261085d42f491b3ccde608ebe47d3fe6cd5737b337162"
+    },
+    {
       "bytes": 170928,
       "path": "images/posate/coltello.jpg",
       "sha256": "36ff43a399fd9985c7fc21399092fe76ac114cf94660e59b63f4a0254d5e0457"
@@ -942,6 +1057,41 @@
       "bytes": 52852,
       "path": "images/posate/forchetta 01 copia.jpg",
       "sha256": "3af172dedb27a095f83429456faf7d5f13f7fdc7f3e314c954487a1490b65416"
+    },
+    {
+      "bytes": 1198064,
+      "path": "images/sopreso bambino 3.png",
+      "sha256": "2883b26a916853079990d9c43eac4531d3dd450a9668bf043b9dfad2aefc5410"
+    },
+    {
+      "bytes": 1288821,
+      "path": "images/spaventato bambino 3.png",
+      "sha256": "69cf792264b016a67f3f25d930d7f80c8271785e730c797e94567528661cdf34"
+    },
+    {
+      "bytes": 1224982,
+      "path": "images/triste bambino 3.png",
+      "sha256": "65a571212c1f07340e1f690b9502204de04cf1ebe0d9b995a1872ce29e42fe0d"
+    },
+    {
+      "bytes": 1552100,
+      "path": "images/uomo arrabbiato 3.png",
+      "sha256": "c5c626e5d4454c52c8020d5b4b8db34c08cfae69c465f4ed0e12d0f8bae4de11"
+    },
+    {
+      "bytes": 1633524,
+      "path": "images/uomo felice 3.png",
+      "sha256": "d80821cbc923da923b77a5af2bfe9f9b113d37c0d684851aa0eddd5e1c464308"
+    },
+    {
+      "bytes": 1408739,
+      "path": "images/uomo sorpreso 3.png",
+      "sha256": "eac9e4c1f327aff7b55c8227cacf1aef6033bf723620dc8a6ca5bc1dd890e97b"
+    },
+    {
+      "bytes": 1409153,
+      "path": "images/uomo triste 3.png",
+      "sha256": "68d67ab774db930625faafd4380751001d73900f958700a97ed3cacb3a0a4ab0"
     },
     {
       "bytes": 2678908,
@@ -1012,15 +1162,17 @@
   "folders": [
     "acceso e spento",
     "aperto e chiuso",
+    "emozioni",
     "frutta",
     "immagini 1",
     "numeri",
+    "oggetti",
     "posate",
     "vestiti"
   ],
-  "id": "dc81cce7ce33c31918440a01f210be2c621475556dcfc7c30d81d045aaa68251",
-  "images": 200,
+  "id": "81a57b234f1b838d25842e369dbc3be3fa6618c713bc7b4d8926bd08dd6ca381",
+  "images": 230,
   "kind": "lexica-library-index",
-  "sha256": "dc81cce7ce33c31918440a01f210be2c621475556dcfc7c30d81d045aaa68251",
+  "sha256": "81a57b234f1b838d25842e369dbc3be3fa6618c713bc7b4d8926bd08dd6ca381",
   "url": "."
 }
