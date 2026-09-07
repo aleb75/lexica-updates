@@ -67,7 +67,7 @@
       "createdAt": "2026-09-05T02:41:48.202Z",
       "deckId": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635",
       "id": "09c25adb-524c-49bd-9980-1ec3041c1e47",
-      "imageFile": "oggetti/biscotti (3).png",
+      "imageFile": "immagini 1/biscotti (3).png",
       "name": "biscotti"
     },
     {
@@ -85,8 +85,234 @@
       "createdAt": "2026-09-05T02:41:48.202Z",
       "deckId": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635",
       "id": "865de5f5-5f8c-4167-bfb8-646a0fbd979f",
-      "imageFile": "oggetti/burro (10).png",
+      "imageFile": "immagini 1/burro (10).png",
       "name": "burro"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "4b3c07c4-d1e7-4efa-bc72-2b2644bbc40d",
+      "imageFile": "alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
+      "name": "alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "9e343a25-5219-49d3-b7f2-6e8ddd721243",
+      "imageFile": "Immagine 2024-08-13 001138.png",
+      "name": "Immagine 2024-08-13 001138"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "6dfad1e8-2f3c-45ae-befa-a7fb7d1fbdd7",
+      "imageFile": "Immagine 2024-08-13 001256.png",
+      "name": "Immagine 2024-08-13 001256"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "bfc6f57d-19c1-47bd-b43a-7213864fa1fe",
+      "imageFile": "Immagine 2024-08-13 001558.png",
+      "name": "Immagine 2024-08-13 001558"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "5714b32f-7bf1-4caf-abed-27ca4945e655",
+      "imageFile": "Immagine 2024-08-13 001629.png",
+      "name": "Immagine 2024-08-13 001629"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "9b79ae8c-97dc-4b88-a21f-cef3276a8e41",
+      "imageFile": "Immagine 2024-08-13 001744.png",
+      "name": "Immagine 2024-08-13 001744"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "96a39efc-e6d6-418a-ad76-6c817522f585",
+      "imageFile": "Immagine 2024-08-13 001810.png",
+      "name": "Immagine 2024-08-13 001810"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "a44eb18f-d960-4074-8bba-29e7adfbc12c",
+      "imageFile": "Immagine 2024-08-13 001906.png",
+      "name": "Immagine 2024-08-13 001906"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "be50922e-4e9a-4047-83e1-6fe1799ffaed",
+      "imageFile": "Immagine 2024-08-13 001931.png",
+      "name": "Immagine 2024-08-13 001931"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "80b172db-1a9a-46e4-9560-7cf6a8ab1ff6",
+      "imageFile": "Immagine 2024-08-13 002016.png",
+      "name": "Immagine 2024-08-13 002016"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "c57843c6-4e57-4967-bdb6-5faa3ec4aa94",
+      "imageFile": "Immagine 2024-08-13 002128.png",
+      "name": "Immagine 2024-08-13 002128"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "7162eeb5-63bb-4270-8d14-623994728b02",
+      "imageFile": "numeri/0.jpg",
+      "name": "0"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "8418c319-cc02-4fc8-8c42-4bdf01f50796",
+      "imageFile": "numeri/1.jpg",
+      "name": "1"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "c563a4b7-1968-4437-bfb7-3a1ffb45298e",
+      "imageFile": "numeri/2.jpg",
+      "name": "2"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "1f0fe635-188d-4841-8933-18a4a7e8ae30",
+      "imageFile": "numeri/3.jpg",
+      "name": "3"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "a9616a30-b84f-475f-9d6b-d18e4ea63990",
+      "imageFile": "numeri/4.jpg",
+      "name": "4"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "64d9d1fc-bb21-475f-b5f5-d8f171aefb99",
+      "imageFile": "numeri/5.jpg",
+      "name": "5"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "fa7209a0-6225-4813-883a-718077bbc8ed",
+      "imageFile": "numeri/6.jpg",
+      "name": "6"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "f9833b9d-da28-4c6b-9d1c-662568f3a319",
+      "imageFile": "numeri/7.jpg",
+      "name": "7"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "5649a9a6-70bf-4d92-8c0c-37727982dc17",
+      "imageFile": "numeri/8.jpg",
+      "name": "8"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "id": "5e1ff1d9-fd43-40fd-a1ca-00b378727659",
+      "imageFile": "numeri/9.jpg",
+      "name": "9"
+    },
+    {
+      "cardFile": "d0a112c3-d8d1-4e79-8ed7-afb3e6b28d70.png",
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "d0a112c3-d8d1-4e79-8ed7-afb3e6b28d70",
+      "imageFile": "immagini 1/barca.png",
+      "name": "barca"
+    },
+    {
+      "cardFile": "6d8f1865-1331-48e0-8741-133835034640.png",
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "6d8f1865-1331-48e0-8741-133835034640",
+      "imageFile": "immagini 1/bicchiere05.png",
+      "name": "bicchiere"
+    },
+    {
+      "cardFile": "ab08e258-1cdd-48a3-9fa5-706773530ce8.png",
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "ab08e258-1cdd-48a3-9fa5-706773530ce8",
+      "imageFile": "immagini 1/bicicletta (5).png",
+      "name": "bicicletta"
+    },
+    {
+      "cardFile": "d2be8d2c-cea5-42c9-8782-89193f6888b9-a.png",
+      "createdAt": "2026-09-07T02:53:16.120Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "d2be8d2c-cea5-42c9-8782-89193f6888b9",
+      "imageFile": "Immagine 2024-08-13 001744.png",
+      "kind": "pair",
+      "name": "",
+      "otherCardFile": "d2be8d2c-cea5-42c9-8782-89193f6888b9-b.png",
+      "otherImageFile": "Immagine 2024-08-13 001558.png",
+      "prompt": "sshhh"
+    },
+    {
+      "cardFile": "c36ff809-173a-4feb-8405-1942e00ff005-a.png",
+      "createdAt": "2026-09-07T02:53:16.120Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "c36ff809-173a-4feb-8405-1942e00ff005",
+      "imageFile": "Immagine 2024-08-13 001256.png",
+      "kind": "pair",
+      "name": "Immagine 2024-08-13 001256",
+      "otherCardFile": "c36ff809-173a-4feb-8405-1942e00ff005-b.png",
+      "otherImageFile": "Immagine 2024-08-13 001629.png",
+      "otherName": "Immagine 2024-08-13 001629"
+    },
+    {
+      "cardFile": "5fd78c95-e01b-44d0-a57c-2a65a843abea-a.png",
+      "createdAt": "2026-09-07T03:21:18.048Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "5fd78c95-e01b-44d0-a57c-2a65a843abea",
+      "imageFile": "Immagine 2024-08-13 001138.png",
+      "kind": "pair",
+      "name": "Immagine 2024-08-13 001138",
+      "otherCardFile": "5fd78c95-e01b-44d0-a57c-2a65a843abea-b.png",
+      "otherImageFile": "Immagine 2024-08-13 001256.png",
+      "otherName": "Immagine 2024-08-13 001256"
+    },
+    {
+      "cardFile": "6339bdf2-808a-46d7-899a-81400049071e-a.png",
+      "createdAt": "2026-09-07T03:35:05.632Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "6339bdf2-808a-46d7-899a-81400049071e",
+      "imageFile": "Immagine 2024-08-13 001138.png",
+      "kind": "pair",
+      "name": "",
+      "otherCardFile": "6339bdf2-808a-46d7-899a-81400049071e-b.png",
+      "otherImageFile": "Immagine 2024-08-13 001256.png"
+    },
+    {
+      "cardFile": "3b41b649-1007-4002-8c92-e8899f09c6a8.png",
+      "createdAt": "2026-09-07T12:53:31.652Z",
+      "folder": "immagini 1",
+      "id": "3b41b649-1007-4002-8c92-e8899f09c6a8",
+      "imageFile": "immagini 1/burro (10).png",
+      "name": "burro (10)"
     },
     {
       "createdAt": "2026-09-06T16:48:49.320Z",
@@ -242,9 +468,9 @@
       "id": "b67b6411-291b-4916-99c7-1f8f9939ed6c",
       "imageFile": "immagini 1/cocomero (3).png",
       "kind": "pair",
-      "name": "???",
+      "name": "",
       "otherImageFile": "immagini 1/carote (5).png",
-      "otherName": "???"
+      "prompt": "Wassermelone"
     },
     {
       "createdAt": "2026-09-06T17:13:25.311Z",
@@ -330,151 +556,13 @@
       "name": "traurig"
     },
     {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "4b3c07c4-d1e7-4efa-bc72-2b2644bbc40d",
-      "imageFile": "alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
-      "name": "alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "9e343a25-5219-49d3-b7f2-6e8ddd721243",
-      "imageFile": "Immagine 2024-08-13 001138.png",
-      "name": "Immagine 2024-08-13 001138"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "6dfad1e8-2f3c-45ae-befa-a7fb7d1fbdd7",
-      "imageFile": "Immagine 2024-08-13 001256.png",
-      "name": "Immagine 2024-08-13 001256"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "bfc6f57d-19c1-47bd-b43a-7213864fa1fe",
-      "imageFile": "Immagine 2024-08-13 001558.png",
-      "name": "Immagine 2024-08-13 001558"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "5714b32f-7bf1-4caf-abed-27ca4945e655",
-      "imageFile": "Immagine 2024-08-13 001629.png",
-      "name": "Immagine 2024-08-13 001629"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "9b79ae8c-97dc-4b88-a21f-cef3276a8e41",
-      "imageFile": "Immagine 2024-08-13 001744.png",
-      "name": "Immagine 2024-08-13 001744"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "96a39efc-e6d6-418a-ad76-6c817522f585",
-      "imageFile": "Immagine 2024-08-13 001810.png",
-      "name": "Immagine 2024-08-13 001810"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "a44eb18f-d960-4074-8bba-29e7adfbc12c",
-      "imageFile": "Immagine 2024-08-13 001906.png",
-      "name": "Immagine 2024-08-13 001906"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "be50922e-4e9a-4047-83e1-6fe1799ffaed",
-      "imageFile": "Immagine 2024-08-13 001931.png",
-      "name": "Immagine 2024-08-13 001931"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "80b172db-1a9a-46e4-9560-7cf6a8ab1ff6",
-      "imageFile": "Immagine 2024-08-13 002016.png",
-      "name": "Immagine 2024-08-13 002016"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "c57843c6-4e57-4967-bdb6-5faa3ec4aa94",
-      "imageFile": "Immagine 2024-08-13 002128.png",
-      "name": "Immagine 2024-08-13 002128"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "7162eeb5-63bb-4270-8d14-623994728b02",
-      "imageFile": "numeri/0.jpg",
-      "name": "0"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "8418c319-cc02-4fc8-8c42-4bdf01f50796",
-      "imageFile": "numeri/1.jpg",
-      "name": "1"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "c563a4b7-1968-4437-bfb7-3a1ffb45298e",
-      "imageFile": "numeri/2.jpg",
-      "name": "2"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "1f0fe635-188d-4841-8933-18a4a7e8ae30",
-      "imageFile": "numeri/3.jpg",
-      "name": "3"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "a9616a30-b84f-475f-9d6b-d18e4ea63990",
-      "imageFile": "numeri/4.jpg",
-      "name": "4"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "64d9d1fc-bb21-475f-b5f5-d8f171aefb99",
-      "imageFile": "numeri/5.jpg",
-      "name": "5"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "fa7209a0-6225-4813-883a-718077bbc8ed",
-      "imageFile": "numeri/6.jpg",
-      "name": "6"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "f9833b9d-da28-4c6b-9d1c-662568f3a319",
-      "imageFile": "numeri/7.jpg",
-      "name": "7"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "5649a9a6-70bf-4d92-8c0c-37727982dc17",
-      "imageFile": "numeri/8.jpg",
-      "name": "8"
-    },
-    {
-      "createdAt": "2026-09-06T23:52:22.719Z",
-      "deckId": "726a0a93-2b32-4169-8fa4-53678c5635c2",
-      "id": "5e1ff1d9-fd43-40fd-a1ca-00b378727659",
-      "imageFile": "numeri/9.jpg",
-      "name": "9"
+      "cardFile": "0e87baee-3cbb-4603-910e-7a78abf8cf81.png",
+      "createdAt": "2026-09-07T13:06:54.638Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "folder": "immagini 1",
+      "id": "0e87baee-3cbb-4603-910e-7a78abf8cf81",
+      "imageFile": "immagini 1/cane (1).png",
+      "name": "cane"
     }
   ],
   "decks": [
@@ -489,16 +577,6 @@
       "name": "var 2"
     },
     {
-      "createdAt": "2026-09-06T16:48:49.320Z",
-      "id": "a291fe96-f435-4e01-9047-66a7bed87256",
-      "name": "oggetti"
-    },
-    {
-      "createdAt": "2026-09-06T16:56:30.693Z",
-      "id": "2e4291ef-cec4-46d6-aa11-665f50c12277",
-      "name": "tedesco"
-    },
-    {
       "createdAt": "2026-09-06T23:03:14.622Z",
       "id": "896edced-74c8-4862-861f-a463ad85d3c2",
       "name": "other computer"
@@ -507,6 +585,21 @@
       "createdAt": "2026-09-06T23:52:22.719Z",
       "id": "726a0a93-2b32-4169-8fa4-53678c5635c2",
       "name": "numeri"
+    },
+    {
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "id": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "name": "testing"
+    },
+    {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "id": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "name": "oggetti"
+    },
+    {
+      "createdAt": "2026-09-06T16:56:30.693Z",
+      "id": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "name": "tedesco"
     }
   ],
   "cardFolders": []
