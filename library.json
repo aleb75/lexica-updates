@@ -689,6 +689,41 @@
       "sha256": "bcf3f6870af4fdabfa301f1adf6fc2a5b3ea21d44cde424527f40279e8c97781"
     },
     {
+      "bytes": 11827,
+      "path": "images/colori/bianco.png",
+      "sha256": "6e21cdf77f5334014bf93de775ac656add798556d16b5730766fde48a0a19643"
+    },
+    {
+      "bytes": 360,
+      "path": "images/colori/blu.png",
+      "sha256": "0cae7b25129beae147b247142e8d221108646349986fd761c7b46597465bc1c6"
+    },
+    {
+      "bytes": 4146,
+      "path": "images/colori/giallo.jpg",
+      "sha256": "a0a7fc7a89a5b578a0e1b4fdc12bffb71c45760ee4f483d3c612b382eb6193e3"
+    },
+    {
+      "bytes": 13679,
+      "path": "images/colori/nero.jpg",
+      "sha256": "18be742d1276033d9293efde52edf887aba9c27a11ea22ebe2488522ea6440da"
+    },
+    {
+      "bytes": 17730,
+      "path": "images/colori/rosa.jpg",
+      "sha256": "236f65b2edec8dc3725495362796cb7f04452325b7a5cd494a4e4c4db7e520da"
+    },
+    {
+      "bytes": 16748,
+      "path": "images/colori/rosso.png",
+      "sha256": "72605ff73c7bb3d79710732354c0c986b702d1419ee707150e4f10655e9073da"
+    },
+    {
+      "bytes": 14503,
+      "path": "images/colori/verde.jpg",
+      "sha256": "a915207d0b968fb6fe2ab1cb5d347a17b9c18f4d38921dc4f1cee6088793ad7a"
+    },
+    {
       "bytes": 1773836,
       "path": "images/donna felice 3.png",
       "sha256": "a6bc90adf7d2e9f3d2ee0924191025506287151485a2b3e34ac5485c09a75670"
@@ -1773,6 +1808,7 @@
     "acceso e spento",
     "aperto e chiuso",
     "azioni",
+    "colori",
     "emozioni",
     "frutta",
     "gesti",
@@ -1782,9 +1818,9 @@
     "posate",
     "vestiti"
   ],
-  "id": "58df0326efb87e819a4404003d1e8491a5d3d76f2dc6e051615e1c6db4ed87c7",
-  "images": 352,
+  "id": "fa78f53c9b2187429e6808cca2aad17a1ca88400522d205ccb8933acd8c1bb11",
+  "images": 359,
   "kind": "lexica-library-index",
-  "sha256": "58df0326efb87e819a4404003d1e8491a5d3d76f2dc6e051615e1c6db4ed87c7",
+  "sha256": "fa78f53c9b2187429e6808cca2aad17a1ca88400522d205ccb8933acd8c1bb11",
   "url": "."
 }
