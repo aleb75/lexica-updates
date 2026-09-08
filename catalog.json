@@ -67,12 +67,8 @@
       "createdAt": "2026-09-05T02:41:48.202Z",
       "deckId": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635",
       "id": "09c25adb-524c-49bd-9980-1ec3041c1e47",
-      "imageFile": "biscotti (3).png",
-      "label": {
-        "x": 55.057315970258294,
-        "y": 86.33093799618509
-      },
-      "name": "kekse"
+      "imageFile": "immagini 1/biscotti (3).png",
+      "name": "biscotti"
     },
     {
       "createdAt": "2026-09-05T02:41:48.202Z",
@@ -89,8 +85,179 @@
       "createdAt": "2026-09-05T02:41:48.202Z",
       "deckId": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635",
       "id": "865de5f5-5f8c-4167-bfb8-646a0fbd979f",
-      "imageFile": "oggetti/burro (10).png",
+      "imageFile": "immagini 1/burro (10).png",
       "name": "burro"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "4b3c07c4-d1e7-4efa-bc72-2b2644bbc40d",
+      "imageFile": "gesti/alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
+      "name": "alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "9e343a25-5219-49d3-b7f2-6e8ddd721243",
+      "imageFile": "gesti/Immagine 2024-08-13 001138.png",
+      "name": "Immagine 2024-08-13 001138"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "6dfad1e8-2f3c-45ae-befa-a7fb7d1fbdd7",
+      "imageFile": "gesti/Immagine 2024-08-13 001256.png",
+      "name": "Immagine 2024-08-13 001256"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "bfc6f57d-19c1-47bd-b43a-7213864fa1fe",
+      "imageFile": "gesti/Immagine 2024-08-13 001558.png",
+      "name": "Immagine 2024-08-13 001558"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "5714b32f-7bf1-4caf-abed-27ca4945e655",
+      "imageFile": "gesti/Immagine 2024-08-13 001629.png",
+      "name": "Immagine 2024-08-13 001629"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "9b79ae8c-97dc-4b88-a21f-cef3276a8e41",
+      "imageFile": "gesti/Immagine 2024-08-13 001744.png",
+      "label": {
+        "x": 30.901971299846487,
+        "y": 56.99101429361787
+      },
+      "name": "Immagine 2024-08-13 001744"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "96a39efc-e6d6-418a-ad76-6c817522f585",
+      "imageFile": "gesti/Immagine 2024-08-13 001810.png",
+      "name": "Immagine 2024-08-13 001810"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "a44eb18f-d960-4074-8bba-29e7adfbc12c",
+      "imageFile": "gesti/Immagine 2024-08-13 001906.png",
+      "name": "Immagine 2024-08-13 001906"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "be50922e-4e9a-4047-83e1-6fe1799ffaed",
+      "imageFile": "gesti/Immagine 2024-08-13 001931.png",
+      "name": "Immagine 2024-08-13 001931"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "80b172db-1a9a-46e4-9560-7cf6a8ab1ff6",
+      "imageFile": "gesti/Immagine 2024-08-13 002016.png",
+      "name": "Immagine 2024-08-13 002016"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.623Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "c57843c6-4e57-4967-bdb6-5faa3ec4aa94",
+      "imageFile": "gesti/Immagine 2024-08-13 002128.png",
+      "name": "Immagine 2024-08-13 002128",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "530ef3ba-108e-4293-baa8-5323a0a3e754",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Immagine 2024-08-13 002128",
+          "x": 64.20208210372587,
+          "y": 73.29438106793103
+        }
+      ]
+    },
+    {
+      "cardFile": "d0a112c3-d8d1-4e79-8ed7-afb3e6b28d70.png",
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "d0a112c3-d8d1-4e79-8ed7-afb3e6b28d70",
+      "imageFile": "immagini 1/barca.png",
+      "name": "barca"
+    },
+    {
+      "cardFile": "6d8f1865-1331-48e0-8741-133835034640.png",
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "6d8f1865-1331-48e0-8741-133835034640",
+      "imageFile": "immagini 1/bicchiere05.png",
+      "name": "bicchiere"
+    },
+    {
+      "cardFile": "ab08e258-1cdd-48a3-9fa5-706773530ce8.png",
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "ab08e258-1cdd-48a3-9fa5-706773530ce8",
+      "imageFile": "immagini 1/bicicletta (5).png",
+      "name": "bicicletta"
+    },
+    {
+      "cardFile": "d2be8d2c-cea5-42c9-8782-89193f6888b9-a.png",
+      "createdAt": "2026-09-07T02:53:16.120Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "d2be8d2c-cea5-42c9-8782-89193f6888b9",
+      "imageFile": "gesti/Immagine 2024-08-13 001744.png",
+      "kind": "pair",
+      "name": "",
+      "otherCardFile": "d2be8d2c-cea5-42c9-8782-89193f6888b9-b.png",
+      "otherImageFile": "gesti/Immagine 2024-08-13 001558.png",
+      "prompt": "sshhh"
+    },
+    {
+      "cardFile": "c36ff809-173a-4feb-8405-1942e00ff005-a.png",
+      "createdAt": "2026-09-07T02:53:16.120Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "c36ff809-173a-4feb-8405-1942e00ff005",
+      "imageFile": "gesti/Immagine 2024-08-13 001256.png",
+      "kind": "pair",
+      "name": "Immagine 2024-08-13 001256",
+      "otherCardFile": "c36ff809-173a-4feb-8405-1942e00ff005-b.png",
+      "otherImageFile": "gesti/Immagine 2024-08-13 001629.png",
+      "otherName": "Immagine 2024-08-13 001629"
+    },
+    {
+      "cardFile": "5fd78c95-e01b-44d0-a57c-2a65a843abea-a.png",
+      "createdAt": "2026-09-07T03:21:18.048Z",
+      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "id": "5fd78c95-e01b-44d0-a57c-2a65a843abea",
+      "imageFile": "gesti/Immagine 2024-08-13 001138.png",
+      "kind": "pair",
+      "name": "Immagine 2024-08-13 001138",
+      "otherCardFile": "5fd78c95-e01b-44d0-a57c-2a65a843abea-b.png",
+      "otherImageFile": "gesti/Immagine 2024-08-13 001256.png",
+      "otherName": "Immagine 2024-08-13 001256"
+    },
+    {
+      "cardFile": "6339bdf2-808a-46d7-899a-81400049071e-a.png",
+      "createdAt": "2026-09-07T03:35:05.632Z",
+      "deckId": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "id": "6339bdf2-808a-46d7-899a-81400049071e",
+      "imageFile": "gesti/Immagine 2024-08-13 001138.png",
+      "kind": "pair",
+      "name": "",
+      "otherCardFile": "6339bdf2-808a-46d7-899a-81400049071e-b.png",
+      "otherImageFile": "gesti/Immagine 2024-08-13 001256.png"
+    },
+    {
+      "cardFile": "3b41b649-1007-4002-8c92-e8899f09c6a8.png",
+      "createdAt": "2026-09-07T12:53:31.652Z",
+      "folder": "immagini 1",
+      "id": "3b41b649-1007-4002-8c92-e8899f09c6a8",
+      "imageFile": "immagini 1/burro (10).png",
+      "name": "burro (10)"
     },
     {
       "createdAt": "2026-09-06T16:48:49.320Z",
@@ -246,9 +413,9 @@
       "id": "b67b6411-291b-4916-99c7-1f8f9939ed6c",
       "imageFile": "immagini 1/cocomero (3).png",
       "kind": "pair",
-      "name": "???",
+      "name": "",
       "otherImageFile": "immagini 1/carote (5).png",
-      "otherName": "???"
+      "prompt": "Wassermelone"
     },
     {
       "createdAt": "2026-09-06T17:13:25.311Z",
@@ -282,7 +449,7 @@
       "createdAt": "2026-09-06T17:24:17.562Z",
       "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
       "id": "07b85de1-e76c-43dc-a3b9-359ee974c1ea",
-      "imageFile": "arrabbiata donna 3.png",
+      "imageFile": "emozioni/arrabbiata donna 3.png",
       "label": {
         "x": 28.631660439644897,
         "y": 9.208632544647877
@@ -293,7 +460,7 @@
       "createdAt": "2026-09-06T17:24:17.562Z",
       "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
       "id": "a8cfb76a-9109-4b47-b190-7a8626a74f41",
-      "imageFile": "donna felice 3.png",
+      "imageFile": "emozioni/donna felice 3.png",
       "label": {
         "x": 16.867940536700047,
         "y": 9.496400682188623
@@ -304,7 +471,7 @@
       "createdAt": "2026-09-06T17:24:17.562Z",
       "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
       "id": "3b645a46-b630-4210-97a4-d4993431f4cc",
-      "imageFile": "donna sorpresa 3.png",
+      "imageFile": "emozioni/donna sorpresa 3.png",
       "label": {
         "x": 32.5538383837225,
         "y": 10.79136690647482
@@ -315,7 +482,7 @@
       "createdAt": "2026-09-06T17:24:17.562Z",
       "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
       "id": "1f230a15-5d3e-4d16-82f2-399a8a678b12",
-      "imageFile": "donna spaventata 3.png",
+      "imageFile": "emozioni/donna spaventata 3.png",
       "label": {
         "x": 32.60293210176835,
         "y": 7.482012741857296
@@ -326,7 +493,7 @@
       "createdAt": "2026-09-06T17:24:17.562Z",
       "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
       "id": "4bb9887e-9589-4614-bf3a-9154b8ffc175",
-      "imageFile": "donna triste 3.png",
+      "imageFile": "emozioni/donna triste 3.png",
       "label": {
         "x": 17.434505626635715,
         "y": 8.77697622175697
@@ -334,81 +501,53 @@
       "name": "traurig"
     },
     {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "4b3c07c4-d1e7-4efa-bc72-2b2644bbc40d",
-      "imageFile": "alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
-      "name": "alles gut"
+      "cardFile": "0e87baee-3cbb-4603-910e-7a78abf8cf81.png",
+      "createdAt": "2026-09-07T13:06:54.638Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "folder": "immagini 1",
+      "id": "0e87baee-3cbb-4603-910e-7a78abf8cf81",
+      "imageFile": "immagini 1/cane (1).png",
+      "name": "cane"
     },
     {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "9e343a25-5219-49d3-b7f2-6e8ddd721243",
-      "imageFile": "Immagine 2024-08-13 001138.png",
-      "name": "Immagine 2024-08-13 001138"
+      "cardFile": "2ed59c70-9906-48b3-897e-2bfbb8815cce.jpg",
+      "createdAt": "2026-09-07T13:11:20.573Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "2ed59c70-9906-48b3-897e-2bfbb8815cce",
+      "imageFile": "immagini 1/panino.jpg",
+      "label": {
+        "x": 20.24691702101357,
+        "y": 14.696635388388838
+      },
+      "name": "panino"
     },
     {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "6dfad1e8-2f3c-45ae-befa-a7fb7d1fbdd7",
-      "imageFile": "Immagine 2024-08-13 001256.png",
-      "name": "Immagine 2024-08-13 001256"
+      "cardFile": "83f03996-f9b1-45ad-98f9-4eb137b19898-a.png",
+      "createdAt": "2026-09-07T13:11:57.446Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "id": "83f03996-f9b1-45ad-98f9-4eb137b19898",
+      "imageFile": "emozioni/sopreso bambino 3.png",
+      "kind": "pair",
+      "name": "",
+      "otherCardFile": "83f03996-f9b1-45ad-98f9-4eb137b19898-b.png",
+      "otherImageFile": "emozioni/spaventato bambino 3.png"
     },
     {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "bfc6f57d-19c1-47bd-b43a-7213864fa1fe",
-      "imageFile": "Immagine 2024-08-13 001558.png",
-      "name": "Immagine 2024-08-13 001558"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "5714b32f-7bf1-4caf-abed-27ca4945e655",
-      "imageFile": "Immagine 2024-08-13 001629.png",
-      "name": "Immagine 2024-08-13 001629"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "9b79ae8c-97dc-4b88-a21f-cef3276a8e41",
-      "imageFile": "Immagine 2024-08-13 001744.png",
-      "name": "Immagine 2024-08-13 001744"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "96a39efc-e6d6-418a-ad76-6c817522f585",
-      "imageFile": "Immagine 2024-08-13 001810.png",
-      "name": "Immagine 2024-08-13 001810"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "a44eb18f-d960-4074-8bba-29e7adfbc12c",
-      "imageFile": "Immagine 2024-08-13 001906.png",
-      "name": "Immagine 2024-08-13 001906"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "be50922e-4e9a-4047-83e1-6fe1799ffaed",
-      "imageFile": "Immagine 2024-08-13 001931.png",
-      "name": "Immagine 2024-08-13 001931"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "80b172db-1a9a-46e4-9560-7cf6a8ab1ff6",
-      "imageFile": "Immagine 2024-08-13 002016.png",
-      "name": "Immagine 2024-08-13 002016"
-    },
-    {
-      "createdAt": "2026-09-06T23:03:14.623Z",
-      "deckId": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "id": "c57843c6-4e57-4967-bdb6-5faa3ec4aa94",
-      "imageFile": "Immagine 2024-08-13 002128.png",
-      "name": "Immagine 2024-08-13 002128"
+      "cardFile": "b7d57b59-c4d1-4678-b74b-8891907d6d30.png",
+      "createdAt": "2026-09-08T00:27:09.039Z",
+      "id": "b7d57b59-c4d1-4678-b74b-8891907d6d30",
+      "imageFile": "emozioni/bambina felice 3.png",
+      "name": "felice",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "66c9c3dc-1b6e-4a8e-8372-0381ef9fae8d",
+          "size": 1.8,
+          "text": "felice",
+          "x": 50,
+          "y": 86
+        }
+      ]
     },
     {
       "createdAt": "2026-09-06T23:52:22.719Z",
@@ -513,24 +652,69 @@
       "name": "var 2"
     },
     {
-      "createdAt": "2026-09-06T16:48:49.320Z",
-      "id": "a291fe96-f435-4e01-9047-66a7bed87256",
-      "name": "oggetti"
-    },
-    {
-      "createdAt": "2026-09-06T16:56:30.693Z",
-      "id": "2e4291ef-cec4-46d6-aa11-665f50c12277",
-      "name": "tedesco"
-    },
-    {
+      "cardOrder": [
+        "be50922e-4e9a-4047-83e1-6fe1799ffaed",
+        "5fd78c95-e01b-44d0-a57c-2a65a843abea",
+        "80b172db-1a9a-46e4-9560-7cf6a8ab1ff6",
+        "9b79ae8c-97dc-4b88-a21f-cef3276a8e41",
+        "a44eb18f-d960-4074-8bba-29e7adfbc12c",
+        "5714b32f-7bf1-4caf-abed-27ca4945e655",
+        "c57843c6-4e57-4967-bdb6-5faa3ec4aa94",
+        "9e343a25-5219-49d3-b7f2-6e8ddd721243",
+        "bfc6f57d-19c1-47bd-b43a-7213864fa1fe",
+        "96a39efc-e6d6-418a-ad76-6c817522f585",
+        "4b3c07c4-d1e7-4efa-bc72-2b2644bbc40d",
+        "6dfad1e8-2f3c-45ae-befa-a7fb7d1fbdd7"
+      ],
       "createdAt": "2026-09-06T23:03:14.622Z",
       "id": "896edced-74c8-4862-861f-a463ad85d3c2",
-      "name": "other computer"
+      "name": "other computer",
+      "play": "order"
     },
     {
       "createdAt": "2026-09-06T23:52:22.719Z",
       "id": "726a0a93-2b32-4169-8fa4-53678c5635c2",
       "name": "numeri"
+    },
+    {
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "id": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "name": "testing"
+    },
+    {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "id": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "name": "oggetti"
+    },
+    {
+      "cardOrder": [
+        "8330c0f6-5dcd-4539-bc57-32a73d40f5af",
+        "1e031b2d-afd4-4cd9-8460-6fc81fdffb96",
+        "e9aa39fc-1d7f-4f82-97ff-3a4d2b94e463",
+        "84548971-2e2c-49db-9eff-07e5dd17c8a2",
+        "1ed8e6d9-5623-4f92-ba5f-ba8bc53127c5",
+        "b74253d1-9e88-4ef1-a40d-72ca89f099d9",
+        "57123ba2-acb5-4335-8b25-3dcd2e78366f",
+        "cf2807a5-8e65-4a36-8b28-dd8a55905a55",
+        "fec27848-35bb-4400-a980-a4da72efba44",
+        "788e7a69-a54f-43dc-b507-0a75e566da66",
+        "b67b6411-291b-4916-99c7-1f8f9939ed6c",
+        "97c2f3f0-7aa4-4c33-b876-184043bd4cc9",
+        "92625c80-ca67-45f5-b0c3-e43afb487ea6",
+        "8dca34e6-ea6c-4f07-acb8-ea29e152298d",
+        "07b85de1-e76c-43dc-a3b9-359ee974c1ea",
+        "a8cfb76a-9109-4b47-b190-7a8626a74f41",
+        "3b645a46-b630-4210-97a4-d4993431f4cc",
+        "1f230a15-5d3e-4d16-82f2-399a8a678b12",
+        "4bb9887e-9589-4614-bf3a-9154b8ffc175",
+        "0e87baee-3cbb-4603-910e-7a78abf8cf81",
+        "2ed59c70-9906-48b3-897e-2bfbb8815cce",
+        "83f03996-f9b1-45ad-98f9-4eb137b19898"
+      ],
+      "createdAt": "2026-09-06T16:56:30.693Z",
+      "id": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "name": "tedesco",
+      "play": "order"
     }
   ],
   "cardFolders": []
