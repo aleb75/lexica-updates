@@ -1,10 +1,10 @@
 {
   "builtAt": "",
-  "cards": 68,
+  "cards": 71,
   "catalog": {
-    "bytes": 20243,
+    "bytes": 23831,
     "path": "catalog.json",
-    "sha256": "d04884643e0d94cdee707ccdb27e0fc16b112363f7acd411c2028b144168d015"
+    "sha256": "90dc8e61241007abe83f1e07e5128d61c92fa98045011f8ed556fbc9df059026"
   },
   "decks": 7,
   "files": [
@@ -259,6 +259,411 @@
       "sha256": "833cb13f9ab366bbd257ee6ad42964a8c1df7193d75aa7ebc76a641d362d3aae"
     },
     {
+      "bytes": 75233,
+      "path": "images/azioni/abbottona 2.jpg",
+      "sha256": "f099d49960a73813c70133adcdc9eae18737d8d6d618157be81ac97e65f70c8d"
+    },
+    {
+      "bytes": 79976,
+      "path": "images/azioni/abbottona.jpg",
+      "sha256": "52261bccf5e39f54f49a41034a1cafb58cb62e37c75139727ada65e41818e857"
+    },
+    {
+      "bytes": 517738,
+      "path": "images/azioni/abbraccia 1.jpg",
+      "sha256": "fd9d307f15b7d1f764096ef3010d91d5c892b1bd7469d15bda59f579533b4460"
+    },
+    {
+      "bytes": 214366,
+      "path": "images/azioni/abbraccia 2.jpg",
+      "sha256": "e0fb596debd49cdfdbd5bd5fa916659c1a35e3b35c7e3ed18287db9754847a04"
+    },
+    {
+      "bytes": 451710,
+      "path": "images/azioni/abbraccia.jpg",
+      "sha256": "b5d47e16ce6487e42c6710de195177a99813ae11ee2a668685e1fad45aae5d4a"
+    },
+    {
+      "bytes": 534197,
+      "path": "images/azioni/abbracciare.jpg",
+      "sha256": "0178894562683601ef35a0972f5d0d21ef6d51f6d5bf4ed6aae04566f0d37332"
+    },
+    {
+      "bytes": 69437,
+      "path": "images/azioni/allaccia 2.jpg",
+      "sha256": "c9520dbf9613761a82cd6aaf0b002c4c25e894a7c2f8449df3c06e9a324248d9"
+    },
+    {
+      "bytes": 73654,
+      "path": "images/azioni/allaccia.jpg",
+      "sha256": "d83c701127e617fd9c965f0f6370c09e4521a0aa80bab92ef8cfc18fc62fbdb0"
+    },
+    {
+      "bytes": 121046,
+      "path": "images/azioni/altalena 1.jpg",
+      "sha256": "5e6622cc0476285b5678a1e7b6ad114e1367609cc540cd1f3015c83dd6ea4e6d"
+    },
+    {
+      "bytes": 132973,
+      "path": "images/azioni/altalena 2.jpg",
+      "sha256": "3ff688c8e232d131f2648fb57757c735c3a55f9db06a99073080aeea39568a43"
+    },
+    {
+      "bytes": 68540,
+      "path": "images/azioni/alza la mano 2.jpg",
+      "sha256": "7f93266186e2a0855ad0f1ef6d692937c8a054615e5319544db3af35723fccec"
+    },
+    {
+      "bytes": 65547,
+      "path": "images/azioni/alza la mano.jpg",
+      "sha256": "8caa38d7936fb7658081760b5ccf9a81ddf43a2c02f1f9e6b2ad4474d3bade20"
+    },
+    {
+      "bytes": 64213,
+      "path": "images/azioni/annusa 2.jpg",
+      "sha256": "23eb88af34c82f5506ecec187335153f1ca1986cf2c42af8b9bb693adae65587"
+    },
+    {
+      "bytes": 61110,
+      "path": "images/azioni/annusa.jpg",
+      "sha256": "b1a45d35ae182ae8399780700331d6d99260de07a023de3c59b0bde98688189a"
+    },
+    {
+      "bytes": 53850,
+      "path": "images/azioni/appende 2.jpg",
+      "sha256": "51f6550b48eb18be033b83453fa58f5ae73d679f8775d83ca59937342c7f311b"
+    },
+    {
+      "bytes": 52577,
+      "path": "images/azioni/appende.jpg",
+      "sha256": "80d286096588e1ee11dbfbc8626c1333a341bbde65eaf19bc58523286e134a7d"
+    },
+    {
+      "bytes": 28059,
+      "path": "images/azioni/bacio 1.jpg",
+      "sha256": "7b2a1e16750674abc65d37ba13f8bf8644303b9be2e6a4cad760b7177e53fdb0"
+    },
+    {
+      "bytes": 30038,
+      "path": "images/azioni/bacio 2.jpg",
+      "sha256": "57c7bd3b07d973994a7a71e93929d87f825b774206e04ee99f70dca2b8ac68e1"
+    },
+    {
+      "bytes": 196214,
+      "path": "images/azioni/beve 1.jpg",
+      "sha256": "6b3a3f330653040458b702651de5cf5b925d8e83f45b41fe46c0bbf93560905e"
+    },
+    {
+      "bytes": 262131,
+      "path": "images/azioni/beve 2.jpg",
+      "sha256": "17ecfc658884577707112386fbd749e6449dd3c52da8cecec9d202d8198e03e0"
+    },
+    {
+      "bytes": 495871,
+      "path": "images/azioni/corre 2.jpg",
+      "sha256": "72fad54bc89e78e8b34076018377a53673e63e65e77fff44dcc1450bd2236188"
+    },
+    {
+      "bytes": 145576,
+      "path": "images/azioni/corre 3.jpg",
+      "sha256": "4f1cafab01b76cfedadb1e50ebfb998851b7b13baeecef14ced77aea9bbf58ab"
+    },
+    {
+      "bytes": 337039,
+      "path": "images/azioni/correi1.jpg",
+      "sha256": "068141e175f4265be6ac7d83430979c4d1d38c9b58b21c0a392a4b2a6661fe72"
+    },
+    {
+      "bytes": 656057,
+      "path": "images/azioni/cucina 3.jpg",
+      "sha256": "5ad8893e97aa5002e086bb9c05abe44201d6f589067e379f47d24c8a3e201162"
+    },
+    {
+      "bytes": 654311,
+      "path": "images/azioni/cucina 6.jpg",
+      "sha256": "4243abab2fbb639419ab41555658f4f22ae6bd9ad4d9cc7f388d81d9e6c79285"
+    },
+    {
+      "bytes": 630858,
+      "path": "images/azioni/cucina.jpg",
+      "sha256": "8d21ef8ae21a39254e8f81fa25edf05b1335acc158ed70d1603dd187f6450833"
+    },
+    {
+      "bytes": 609424,
+      "path": "images/azioni/dorme 01.jpg",
+      "sha256": "4b883c9e2f99b6ef90b90bb23375ad793798e4ab48de7b26d4548146a48282c7"
+    },
+    {
+      "bytes": 569847,
+      "path": "images/azioni/dorme 02.jpg",
+      "sha256": "e49271c61c60558f6e9c24678149bcceb66fe7809c6a15c5fc369a018cd0ae2a"
+    },
+    {
+      "bytes": 68606,
+      "path": "images/azioni/dorme 1.jpg",
+      "sha256": "6014168bfe666850b7513fbaa787075dd3ec355db81800bb3e914567e86399b2"
+    },
+    {
+      "bytes": 144744,
+      "path": "images/azioni/dorme 2.jpg",
+      "sha256": "490f6a6ad4d95576dbeb29f3e1508a5b1d8b13746ed167a985ed4161bff963af"
+    },
+    {
+      "bytes": 66864,
+      "path": "images/azioni/guarda 2.jpg",
+      "sha256": "66d34d4bb6a84841537d7d30603cee9c1f1622da139cd2a9ca185221334dc00e"
+    },
+    {
+      "bytes": 83166,
+      "path": "images/azioni/guarda.jpg",
+      "sha256": "95cd49d7ca1ec9a13e7617c2de3398c256f2459bfc97ecd75dbd0d3777c485a4"
+    },
+    {
+      "bytes": 91275,
+      "path": "images/azioni/lava 1.jpg",
+      "sha256": "c27c0e30b1088c5a832a7ce7bac026964bda0bbb6b8397aea5f18c1418e1b390"
+    },
+    {
+      "bytes": 52530,
+      "path": "images/azioni/lava 2.jpg",
+      "sha256": "85b5fb43fded6f86c350849d5d63bf398c9fe16ef50f42148d8c565ca870de2c"
+    },
+    {
+      "bytes": 68293,
+      "path": "images/azioni/lava le mani 2.jpg",
+      "sha256": "f3f9e9c80810a126ffa58c1305be65c0013c29b228615fd41193f2bf615d6ec5"
+    },
+    {
+      "bytes": 57663,
+      "path": "images/azioni/lava le mani.jpg",
+      "sha256": "ec7bff8858cb3d9df87a61979dcb13139c7451966f0a7e49f0ba5c891f663617"
+    },
+    {
+      "bytes": 605610,
+      "path": "images/azioni/lecca 01.jpg",
+      "sha256": "7864d60a80977d9020a2f678ac45101476c31e6b0056fcca994fea9a741c5478"
+    },
+    {
+      "bytes": 753113,
+      "path": "images/azioni/legge 01.jpg",
+      "sha256": "e407da66c6e9b10d12b9fe48f0a6d568584c1695111431800ca4090af475ac45"
+    },
+    {
+      "bytes": 739227,
+      "path": "images/azioni/legge 02.jpg",
+      "sha256": "068c37866a420899acbdb6319a216296899d25899ada33120b3a607e908d6fc4"
+    },
+    {
+      "bytes": 43840,
+      "path": "images/azioni/legge 1.jpg",
+      "sha256": "a4b0f86214bcfea9806bc6020650a4c888cb8753f85f38074cbc0e051d69e85e"
+    },
+    {
+      "bytes": 614488,
+      "path": "images/azioni/legge disegna scrive.jpg",
+      "sha256": "26a39e33da4c2cf3e604becae1334ece3a19ec92a0819688b36bce4ce6084b43"
+    },
+    {
+      "bytes": 536998,
+      "path": "images/azioni/leggere scrivere disegnare.jpg",
+      "sha256": "060a4b12140126e1423f5a2f0be0abe682af34e4900fc2c9106d32620958f3d9"
+    },
+    {
+      "bytes": 114817,
+      "path": "images/azioni/mangia 1.jpg",
+      "sha256": "89406c20e975d04e8bc636f8d1752c564b2f22b5e9240e3aecebbfcd3e3d1f03"
+    },
+    {
+      "bytes": 189645,
+      "path": "images/azioni/mangia 2.jpg",
+      "sha256": "1fc0e4689f922613affbb7791a2a57435d8e30157379fc7b1b6b003f8383fc21"
+    },
+    {
+      "bytes": 63245,
+      "path": "images/azioni/mescola 2.jpg",
+      "sha256": "002942a6abd636addfaaba4eec831517adc092bf41bf18b0149c901c78d4f25b"
+    },
+    {
+      "bytes": 69423,
+      "path": "images/azioni/mescola.jpg",
+      "sha256": "ad63d2639ad50f562492aa53de658bdf13a44fa08f6c9269439479878e746434"
+    },
+    {
+      "bytes": 136337,
+      "path": "images/azioni/nuota 1.jpg",
+      "sha256": "39160dbe3f50fa37bdd63ffece93892f7697b6801956659f43ca4a32e44fb605"
+    },
+    {
+      "bytes": 3229136,
+      "path": "images/azioni/nuota 2.png",
+      "sha256": "009209027fffd3be3e059a59fffb8f951c354be83b5472d7b66d0a5c68e0cc38"
+    },
+    {
+      "bytes": 67824,
+      "path": "images/azioni/palleggia 2.jpg",
+      "sha256": "94ba52164e66534272e4f2321b69a2f27f7ca42baed2dc32604a024e598eda97"
+    },
+    {
+      "bytes": 83791,
+      "path": "images/azioni/palleggia.jpg",
+      "sha256": "63bf66c94147c428849f8b6c0e723103da8ab325f706a499e7944bddea3f0d2b"
+    },
+    {
+      "bytes": 120556,
+      "path": "images/azioni/pettina 1.jpg",
+      "sha256": "bcbb24ee34a088b03b7fa1f29adfb8e75a684c6dac71b01112f387889675d889"
+    },
+    {
+      "bytes": 36957,
+      "path": "images/azioni/pettina 2.jpg",
+      "sha256": "bd9c4ae07bd5e40777ba84626dae0d31cb20510d963daf6034f83e1d7f1b8cbd"
+    },
+    {
+      "bytes": 494614,
+      "path": "images/azioni/pulisce 2.jpg",
+      "sha256": "1bc63a8e76baa039bc697166b747e0353162ef1b311d75bd82feb43ee799f507"
+    },
+    {
+      "bytes": 480301,
+      "path": "images/azioni/pulisce 3.jpg",
+      "sha256": "4b50b5657447afeb232aff2419de9c555bc015ac42bcbb9419438229810d77c2"
+    },
+    {
+      "bytes": 462063,
+      "path": "images/azioni/pulisce 6.jpg",
+      "sha256": "c084572463bff6a7dbce6f46e74bd710487638af83a220654bbf243484accf52"
+    },
+    {
+      "bytes": 462063,
+      "path": "images/azioni/pulisce 7.jpg",
+      "sha256": "5013d3bb3ebc6f98decff794610751131b84fd6fe18e4ac39efceca356edee27"
+    },
+    {
+      "bytes": 649805,
+      "path": "images/azioni/pulisce.jpg",
+      "sha256": "94e180a8da8b7a4e9e2431b47c5ea29f95e251f000b25260cd898c5f0d283c8c"
+    },
+    {
+      "bytes": 15087,
+      "path": "images/azioni/ride 1.jpg",
+      "sha256": "b5ad7535c4e575879bcaa1008eba8c4fb4938c68ea61115edb9fc4db59170b67"
+    },
+    {
+      "bytes": 289000,
+      "path": "images/azioni/ride 2.jpg",
+      "sha256": "542658afa8649fa288731fec9f317cab827b08cb7ca44ffcfed819750c402816"
+    },
+    {
+      "bytes": 543494,
+      "path": "images/azioni/salire 6.jpg",
+      "sha256": "719c60999678f82d431d0b65a091638ac81ab1617254c1a756e85ca53012a59c"
+    },
+    {
+      "bytes": 760481,
+      "path": "images/azioni/salire.jpg",
+      "sha256": "cf5bec721686fd36485a84a75a476a1665f7126aac2090521820715b20436dae"
+    },
+    {
+      "bytes": 26506,
+      "path": "images/azioni/salta 1.jpg",
+      "sha256": "6139990fa24b63eaec19c2e7be933aa63d05a7239d801fbbb2e0475493b283ad"
+    },
+    {
+      "bytes": 325813,
+      "path": "images/azioni/salta 2.jpg",
+      "sha256": "b38f720b5c38d1d79c28d0f6cf81566ca7e3d274c2fb2df22e829c6e86bb47c0"
+    },
+    {
+      "bytes": 955774,
+      "path": "images/azioni/saltan 02.jpg",
+      "sha256": "2071c489441130210c4308e0e545c84602796255f3776cd35b8146f09fbaef1e"
+    },
+    {
+      "bytes": 752902,
+      "path": "images/azioni/saluta 01.jpg",
+      "sha256": "b792e31614b2f510b8ae18a49dff2736c62d5d4bff5f9bae6a9cd03ea5ec74c6"
+    },
+    {
+      "bytes": 682197,
+      "path": "images/azioni/saluta 02.jpg",
+      "sha256": "08e90571f3a37d19df7384c8e25b4384e49f772f148bcaf61641a018c797e8ee"
+    },
+    {
+      "bytes": 108893,
+      "path": "images/azioni/scivola 1.jpg",
+      "sha256": "a87aa82ceb22188b433d42a5e1dde3a7deedda890bd743b73bc472881a388324"
+    },
+    {
+      "bytes": 81859,
+      "path": "images/azioni/scivola.jpg",
+      "sha256": "386a6fae7f7e45422da68ac010749e982c03c776ccf6a125b6d8ffbbd41b0f9f"
+    },
+    {
+      "bytes": 577332,
+      "path": "images/azioni/soffia 1.png",
+      "sha256": "9767dbf3dfe02e4ec0c617bb983b9d90623403a08d0853bbf32578a11af1f87b"
+    },
+    {
+      "bytes": 324928,
+      "path": "images/azioni/soffia 2.jpg",
+      "sha256": "1a80e345f9d73d471177497fdf33c14e538f6e5242aeaf09cc8f9215f269263b"
+    },
+    {
+      "bytes": 488845,
+      "path": "images/azioni/soffia 3.jpg",
+      "sha256": "a389169580b698ad3f92c7ea929979c87166ceaf19f4e24e944973799ea93bf8"
+    },
+    {
+      "bytes": 559695,
+      "path": "images/azioni/soffia fischia suona.jpg",
+      "sha256": "aa0a17b02dd7cd981ab714c2f0b1acceceff6ee4216c68d3f333b5b0aaa7e0e4"
+    },
+    {
+      "bytes": 510278,
+      "path": "images/azioni/soffia.jpg",
+      "sha256": "fd29b4de1bc59a92302f1802e7091e554141eb3a0b132e2be934121074f2674f"
+    },
+    {
+      "bytes": 1131790,
+      "path": "images/azioni/spinge 2.jpg",
+      "sha256": "8e7817b05fc9655a353b9be765b558992166a717ea893a0efae38b8ba3d04397"
+    },
+    {
+      "bytes": 706981,
+      "path": "images/azioni/spinge 3.jpg",
+      "sha256": "434754b14934a906cbef15f127d74ec8dfe3c3cb61519191bdd909d6903d0c5b"
+    },
+    {
+      "bytes": 794764,
+      "path": "images/azioni/spinge.jpg",
+      "sha256": "49a8767758d8989cd010f49b3dd2036d019536266d97936871d7b439e4140329"
+    },
+    {
+      "bytes": 582117,
+      "path": "images/azioni/spolvera 2.jpg",
+      "sha256": "8146898414dccdf73bb2a8dc934cc03b919860a63d2f49ce46ef3e8608eee246"
+    },
+    {
+      "bytes": 571422,
+      "path": "images/azioni/spolvera.jpg",
+      "sha256": "6c1a924399bfaaf4c0e5f6a6e44afe189453ea25ae52b79fcd0d799d1bd62f39"
+    },
+    {
+      "bytes": 1334647,
+      "path": "images/azioni/sta scrivendo.jpg",
+      "sha256": "7b44e380d323ebff62d222309dfe1c804ef9c04f44b2ad4ef74ffc9f31c1195f"
+    },
+    {
+      "bytes": 728599,
+      "path": "images/azioni/versa 01.jpg",
+      "sha256": "aa4e2bffb02620c9b25207d452c77a82b1539b8c9a6614d29cd4543220cb3444"
+    },
+    {
+      "bytes": 660766,
+      "path": "images/azioni/versa 02.jpg",
+      "sha256": "147c86dfd8071b5c3f093fab64e0a694ba813fefce7bcc6d6f19f4c4bec3d2a0"
+    },
+    {
       "bytes": 1572230,
       "path": "images/bambina arrabbiata 3.png",
       "sha256": "77cd67974f6759d4fa3afc7cb573b33083a26deeee40192e84c8749e4e776bc2"
@@ -309,9 +714,164 @@
       "sha256": "dfcee1ad03307402e0a92f292802f4cf085e9e834e9f61ad577010f582680fae"
     },
     {
+      "bytes": 1642619,
+      "path": "images/emozioni/arrabbiata donna 3.png",
+      "sha256": "218eeb18cce1880f54073abedf7ffc2b41d383f661d9826cf448b8dbcf81218d"
+    },
+    {
+      "bytes": 1257334,
+      "path": "images/emozioni/arrabbiato bambino 3.png",
+      "sha256": "833cb13f9ab366bbd257ee6ad42964a8c1df7193d75aa7ebc76a641d362d3aae"
+    },
+    {
+      "bytes": 1572230,
+      "path": "images/emozioni/bambina arrabbiata 3.png",
+      "sha256": "77cd67974f6759d4fa3afc7cb573b33083a26deeee40192e84c8749e4e776bc2"
+    },
+    {
+      "bytes": 1563675,
+      "path": "images/emozioni/bambina felice 3.png",
+      "sha256": "88e389efda14eb55f5eda05c8bf9c83ad0b7208aebff4689c67b4c91f4bb5a34"
+    },
+    {
+      "bytes": 1675197,
+      "path": "images/emozioni/bambina sorpresa 3.png",
+      "sha256": "16130c9b8f9865313c0f17de4ae32b2c46e400f6ffe6e832f28e08dfeeeedd73"
+    },
+    {
+      "bytes": 1584466,
+      "path": "images/emozioni/bambina spaventata 3.png",
+      "sha256": "31cdf57db263661aae29d02f0821af221021ed442a6b61c5dea4a0d74e9d487a"
+    },
+    {
+      "bytes": 1552163,
+      "path": "images/emozioni/bambina triste 3.png",
+      "sha256": "bcf3f6870af4fdabfa301f1adf6fc2a5b3ea21d44cde424527f40279e8c97781"
+    },
+    {
+      "bytes": 1773836,
+      "path": "images/emozioni/donna felice 3.png",
+      "sha256": "a6bc90adf7d2e9f3d2ee0924191025506287151485a2b3e34ac5485c09a75670"
+    },
+    {
+      "bytes": 1906403,
+      "path": "images/emozioni/donna sorpresa 3.png",
+      "sha256": "2d22c105e24e80ed1207a2faa18ea2011371bc481989572e88d075de555b89de"
+    },
+    {
+      "bytes": 2312738,
+      "path": "images/emozioni/donna spaventata 3.png",
+      "sha256": "03579b42d847cf76447c065222916a5a870052adc3824dd7841d8708a3396d07"
+    },
+    {
+      "bytes": 1816815,
+      "path": "images/emozioni/donna triste 3.png",
+      "sha256": "9f7a1258cbbb4a456d6d5f7a2b705452c617199a025a3d3bfdf44ad1bd615f15"
+    },
+    {
+      "bytes": 1924108,
+      "path": "images/emozioni/donna triste 5.png",
+      "sha256": "dfcee1ad03307402e0a92f292802f4cf085e9e834e9f61ad577010f582680fae"
+    },
+    {
+      "bytes": 1176499,
+      "path": "images/emozioni/felice bambino 3.png",
+      "sha256": "ba2810580a1ca7b539d785d12b071cb9baf3bb73838f4899725b6e444db4e79f"
+    },
+    {
+      "bytes": 1198064,
+      "path": "images/emozioni/sopreso bambino 3.png",
+      "sha256": "2883b26a916853079990d9c43eac4531d3dd450a9668bf043b9dfad2aefc5410"
+    },
+    {
+      "bytes": 1288821,
+      "path": "images/emozioni/spaventato bambino 3.png",
+      "sha256": "69cf792264b016a67f3f25d930d7f80c8271785e730c797e94567528661cdf34"
+    },
+    {
+      "bytes": 1224982,
+      "path": "images/emozioni/triste bambino 3.png",
+      "sha256": "65a571212c1f07340e1f690b9502204de04cf1ebe0d9b995a1872ce29e42fe0d"
+    },
+    {
+      "bytes": 1552100,
+      "path": "images/emozioni/uomo arrabbiato 3.png",
+      "sha256": "c5c626e5d4454c52c8020d5b4b8db34c08cfae69c465f4ed0e12d0f8bae4de11"
+    },
+    {
+      "bytes": 1633524,
+      "path": "images/emozioni/uomo felice 3.png",
+      "sha256": "d80821cbc923da923b77a5af2bfe9f9b113d37c0d684851aa0eddd5e1c464308"
+    },
+    {
+      "bytes": 1408739,
+      "path": "images/emozioni/uomo sorpreso 3.png",
+      "sha256": "eac9e4c1f327aff7b55c8227cacf1aef6033bf723620dc8a6ca5bc1dd890e97b"
+    },
+    {
+      "bytes": 1409153,
+      "path": "images/emozioni/uomo triste 3.png",
+      "sha256": "68d67ab774db930625faafd4380751001d73900f958700a97ed3cacb3a0a4ab0"
+    },
+    {
       "bytes": 1176499,
       "path": "images/felice bambino 3.png",
       "sha256": "ba2810580a1ca7b539d785d12b071cb9baf3bb73838f4899725b6e444db4e79f"
+    },
+    {
+      "bytes": 208286,
+      "path": "images/gesti/Immagine 2024-08-13 001138.png",
+      "sha256": "8d3bda172c5c063841e9168e7942b137f64a9fcc31589a4e67e93063511fecf1"
+    },
+    {
+      "bytes": 175946,
+      "path": "images/gesti/Immagine 2024-08-13 001256.png",
+      "sha256": "fd94b02505c3ee14fabedb0a45ab7705582d6d45a2afe3e701040c18afd1a0d5"
+    },
+    {
+      "bytes": 121502,
+      "path": "images/gesti/Immagine 2024-08-13 001558.png",
+      "sha256": "35791addf571374d9badfed53dce7704a4f972516bb948b0c6415fa2ae806a2a"
+    },
+    {
+      "bytes": 74478,
+      "path": "images/gesti/Immagine 2024-08-13 001629.png",
+      "sha256": "be1305516c29783bd6cffebd9b1eb445a9a9af53055e2ef5301aa0cf5e67ada5"
+    },
+    {
+      "bytes": 137651,
+      "path": "images/gesti/Immagine 2024-08-13 001744.png",
+      "sha256": "e324492ebfbfef17692dd0c10dc65cfb17dd38a3195f553e1bcec9ec596b909d"
+    },
+    {
+      "bytes": 88326,
+      "path": "images/gesti/Immagine 2024-08-13 001810.png",
+      "sha256": "1db4f3333d79c1cf071395b32aad3a080f04e981db5f2b2c144a140d85aa03b4"
+    },
+    {
+      "bytes": 151869,
+      "path": "images/gesti/Immagine 2024-08-13 001906.png",
+      "sha256": "9d68bf161cf4b0c281b0eb33f85553b62f078e32eacd205b9b94b5b2ac72c044"
+    },
+    {
+      "bytes": 142771,
+      "path": "images/gesti/Immagine 2024-08-13 001931.png",
+      "sha256": "e5c961eb97b08da8b8afe8ebbd40d9d12a8aad37ff93b20ba2044190a24d6187"
+    },
+    {
+      "bytes": 66591,
+      "path": "images/gesti/Immagine 2024-08-13 002016.png",
+      "sha256": "a5a63aafaf88cc55affb613a2d39ad1030d69a0018f2a94c2192213e07ff5cb8"
+    },
+    {
+      "bytes": 163457,
+      "path": "images/gesti/Immagine 2024-08-13 002128.png",
+      "sha256": "f9e65bcbed496db80a31e6f605ef9ecb65b1c2f7d67cc27402a5fa200370d4a7"
+    },
+    {
+      "bytes": 1722572,
+      "path": "images/gesti/alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
+      "sha256": "516651f5672df0d943717de5ffcd55d4c0d867dc5137f8eb5d544610de417033"
     },
     {
       "bytes": 2040337,
@@ -734,6 +1294,11 @@
       "sha256": "3052f714a12350437b5c63aa18585479f746c41ba73170b5f2823a91e1a0ce77"
     },
     {
+      "bytes": 23619,
+      "path": "images/immagini 1/panino.jpg",
+      "sha256": "79248d3c4f459ee9e768e0195a15d3f8245a585bb4e984280338c9dcfdce7ac3"
+    },
+    {
       "bytes": 18825278,
       "path": "images/immagini 1/papera (1).png",
       "sha256": "759e369ea37bf016de21d2a66bad2e557494cdfa1d3ec489afc9201a8e3b811f"
@@ -950,8 +1515,18 @@
     },
     {
       "bytes": 13400,
+      "path": "images/numeri/1-2.jpg",
+      "sha256": "2f85f72e49b3077f296c2988a70e3837d80d02457d28c2e4536d2072aca79083"
+    },
+    {
+      "bytes": 13400,
       "path": "images/numeri/1.jpg",
       "sha256": "2f85f72e49b3077f296c2988a70e3837d80d02457d28c2e4536d2072aca79083"
+    },
+    {
+      "bytes": 35989,
+      "path": "images/numeri/2-2.jpg",
+      "sha256": "c1593174b390a59fa73ea41dfbf6ab60970636fae5de4fe8b41ab4b23454ac09"
     },
     {
       "bytes": 35989,
@@ -960,8 +1535,18 @@
     },
     {
       "bytes": 34849,
+      "path": "images/numeri/3-2.jpg",
+      "sha256": "855347fbdad4a73750a4367994a0d2efd138c9b1d260f9877356276c08d63d23"
+    },
+    {
+      "bytes": 34849,
       "path": "images/numeri/3.jpg",
       "sha256": "855347fbdad4a73750a4367994a0d2efd138c9b1d260f9877356276c08d63d23"
+    },
+    {
+      "bytes": 26331,
+      "path": "images/numeri/4-2.jpg",
+      "sha256": "3ee2d47cbef7672444280d5badeaae69605edc08c4040e1a5e998fa026a22a86"
     },
     {
       "bytes": 26331,
@@ -970,8 +1555,18 @@
     },
     {
       "bytes": 28840,
+      "path": "images/numeri/5-2.jpg",
+      "sha256": "689ed9bd94f0891e7c4f4512674bef0114489d4e264a321f3f7c84c67ca478b5"
+    },
+    {
+      "bytes": 28840,
       "path": "images/numeri/5.jpg",
       "sha256": "689ed9bd94f0891e7c4f4512674bef0114489d4e264a321f3f7c84c67ca478b5"
+    },
+    {
+      "bytes": 35980,
+      "path": "images/numeri/6-2.jpg",
+      "sha256": "166f0cd3840220a3004405427159a44f230be15a87ca2c525b5aaa06ce2b3d63"
     },
     {
       "bytes": 35980,
@@ -980,13 +1575,28 @@
     },
     {
       "bytes": 26519,
+      "path": "images/numeri/7-2.jpg",
+      "sha256": "13e29dccc163e1a7cdf7fb8bafaf70508f2f1cc488d21181c7dd6ca587a7550a"
+    },
+    {
+      "bytes": 26519,
       "path": "images/numeri/7.jpg",
       "sha256": "13e29dccc163e1a7cdf7fb8bafaf70508f2f1cc488d21181c7dd6ca587a7550a"
     },
     {
       "bytes": 45059,
+      "path": "images/numeri/8-2.jpg",
+      "sha256": "43f245aba6c7436a15d7eab8e5f2c2c1dca9bfbabe90bb6dea53ed57ca59f07b"
+    },
+    {
+      "bytes": 45059,
       "path": "images/numeri/8.jpg",
       "sha256": "43f245aba6c7436a15d7eab8e5f2c2c1dca9bfbabe90bb6dea53ed57ca59f07b"
+    },
+    {
+      "bytes": 37242,
+      "path": "images/numeri/9-2.jpg",
+      "sha256": "387dde2af1dd1d30553e88ff455c15af23e2132607b5d2b4013868f7e6931e08"
     },
     {
       "bytes": 37242,
@@ -1162,17 +1772,19 @@
   "folders": [
     "acceso e spento",
     "aperto e chiuso",
+    "azioni",
     "emozioni",
     "frutta",
+    "gesti",
     "immagini 1",
     "numeri",
     "oggetti",
     "posate",
     "vestiti"
   ],
-  "id": "d52189316383a80dccea0e8a9e9e24c77d3e70852f4f22ca0ef8dea02986d20d",
-  "images": 230,
+  "id": "58df0326efb87e819a4404003d1e8491a5d3d76f2dc6e051615e1c6db4ed87c7",
+  "images": 352,
   "kind": "lexica-library-index",
-  "sha256": "d52189316383a80dccea0e8a9e9e24c77d3e70852f4f22ca0ef8dea02986d20d",
+  "sha256": "58df0326efb87e819a4404003d1e8491a5d3d76f2dc6e051615e1c6db4ed87c7",
   "url": "."
 }
