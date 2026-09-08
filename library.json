@@ -2,9 +2,9 @@
   "builtAt": "",
   "cards": 88,
   "catalog": {
-    "bytes": 33247,
+    "bytes": 31095,
     "path": "catalog.json",
-    "sha256": "5187b1c865e21bb1d766eb7aca766941398e663c41ea070da95853f55ee31524"
+    "sha256": "780ed93339a5410627299620f0edae0839e447ae19f3d41b3723ae092783144c"
   },
   "decks": 7,
   "files": [
@@ -1823,9 +1823,9 @@
     "posate",
     "vestiti"
   ],
-  "id": "aece9977ba2f2323b14b3d5088d8f7c9c10514340192f134f3622417676ec8be",
+  "id": "a018ddd080c5edfc09899f2a46e446ff805610e634e42825f27fb09bb353f1ff",
   "images": 360,
   "kind": "lexica-library-index",
-  "sha256": "aece9977ba2f2323b14b3d5088d8f7c9c10514340192f134f3622417676ec8be",
+  "sha256": "a018ddd080c5edfc09899f2a46e446ff805610e634e42825f27fb09bb353f1ff",
   "url": "."
 }
