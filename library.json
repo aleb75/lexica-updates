@@ -1,1831 +1,1602 @@
 {
-  "builtAt": "",
-  "cards": 88,
-  "catalog": {
-    "bytes": 31095,
-    "path": "catalog.json",
-    "sha256": "780ed93339a5410627299620f0edae0839e447ae19f3d41b3723ae092783144c"
-  },
-  "decks": 7,
-  "files": [
-    {
-      "bytes": 34009,
-      "path": "images/0.jpg",
-      "sha256": "39235d5159a6a74894a786ab5365a1e7d8020ee1651d6080ab4b8f2a8dea84dd"
-    },
-    {
-      "bytes": 13400,
-      "path": "images/1.jpg",
-      "sha256": "2f85f72e49b3077f296c2988a70e3837d80d02457d28c2e4536d2072aca79083"
-    },
-    {
-      "bytes": 35989,
-      "path": "images/2.jpg",
-      "sha256": "c1593174b390a59fa73ea41dfbf6ab60970636fae5de4fe8b41ab4b23454ac09"
-    },
-    {
-      "bytes": 34849,
-      "path": "images/3.jpg",
-      "sha256": "855347fbdad4a73750a4367994a0d2efd138c9b1d260f9877356276c08d63d23"
-    },
-    {
-      "bytes": 26331,
-      "path": "images/4.jpg",
-      "sha256": "3ee2d47cbef7672444280d5badeaae69605edc08c4040e1a5e998fa026a22a86"
-    },
-    {
-      "bytes": 28840,
-      "path": "images/5.jpg",
-      "sha256": "689ed9bd94f0891e7c4f4512674bef0114489d4e264a321f3f7c84c67ca478b5"
-    },
-    {
-      "bytes": 35980,
-      "path": "images/6.jpg",
-      "sha256": "166f0cd3840220a3004405427159a44f230be15a87ca2c525b5aaa06ce2b3d63"
-    },
-    {
-      "bytes": 26519,
-      "path": "images/7.jpg",
-      "sha256": "13e29dccc163e1a7cdf7fb8bafaf70508f2f1cc488d21181c7dd6ca587a7550a"
-    },
-    {
-      "bytes": 45059,
-      "path": "images/8.jpg",
-      "sha256": "43f245aba6c7436a15d7eab8e5f2c2c1dca9bfbabe90bb6dea53ed57ca59f07b"
-    },
-    {
-      "bytes": 37242,
-      "path": "images/9.jpg",
-      "sha256": "387dde2af1dd1d30553e88ff455c15af23e2132607b5d2b4013868f7e6931e08"
-    },
-    {
-      "bytes": 208286,
-      "path": "images/Immagine 2024-08-13 001138.png",
-      "sha256": "8d3bda172c5c063841e9168e7942b137f64a9fcc31589a4e67e93063511fecf1"
-    },
-    {
-      "bytes": 175946,
-      "path": "images/Immagine 2024-08-13 001256.png",
-      "sha256": "fd94b02505c3ee14fabedb0a45ab7705582d6d45a2afe3e701040c18afd1a0d5"
-    },
-    {
-      "bytes": 121502,
-      "path": "images/Immagine 2024-08-13 001558.png",
-      "sha256": "35791addf571374d9badfed53dce7704a4f972516bb948b0c6415fa2ae806a2a"
-    },
-    {
-      "bytes": 74478,
-      "path": "images/Immagine 2024-08-13 001629.png",
-      "sha256": "be1305516c29783bd6cffebd9b1eb445a9a9af53055e2ef5301aa0cf5e67ada5"
-    },
-    {
-      "bytes": 137651,
-      "path": "images/Immagine 2024-08-13 001744.png",
-      "sha256": "e324492ebfbfef17692dd0c10dc65cfb17dd38a3195f553e1bcec9ec596b909d"
-    },
-    {
-      "bytes": 88326,
-      "path": "images/Immagine 2024-08-13 001810.png",
-      "sha256": "1db4f3333d79c1cf071395b32aad3a080f04e981db5f2b2c144a140d85aa03b4"
-    },
-    {
-      "bytes": 151869,
-      "path": "images/Immagine 2024-08-13 001906.png",
-      "sha256": "9d68bf161cf4b0c281b0eb33f85553b62f078e32eacd205b9b94b5b2ac72c044"
-    },
-    {
-      "bytes": 142771,
-      "path": "images/Immagine 2024-08-13 001931.png",
-      "sha256": "e5c961eb97b08da8b8afe8ebbd40d9d12a8aad37ff93b20ba2044190a24d6187"
-    },
-    {
-      "bytes": 66591,
-      "path": "images/Immagine 2024-08-13 002016.png",
-      "sha256": "a5a63aafaf88cc55affb613a2d39ad1030d69a0018f2a94c2192213e07ff5cb8"
-    },
-    {
-      "bytes": 163457,
-      "path": "images/Immagine 2024-08-13 002128.png",
-      "sha256": "f9e65bcbed496db80a31e6f605ef9ecb65b1c2f7d67cc27402a5fa200370d4a7"
-    },
-    {
-      "bytes": 1120360,
-      "path": "images/acceso e spento/candela accesa.png",
-      "sha256": "a0da8107246aedf39e6706ac6bce0ab224944298ffc141b63a8807622f76d15c"
-    },
-    {
-      "bytes": 1304547,
-      "path": "images/acceso e spento/candela spenta fumo.png",
-      "sha256": "6599dff7abb8e039e4554496beca683ed7c8bbd2c2bd42a0b5afd38d69f23e41"
-    },
-    {
-      "bytes": 1345310,
-      "path": "images/acceso e spento/candela spenta.png",
-      "sha256": "422a350f008768e86f0b215b8b02b1d1994365758d19aa36951cd1ed162f4623"
-    },
-    {
-      "bytes": 1545710,
-      "path": "images/acceso e spento/gioco bruco acceso.png",
-      "sha256": "1dd65da2a0af21fb314b5a6faaf086a4d06f325940fe9c1fcccd39ca61097bdc"
-    },
-    {
-      "bytes": 1502927,
-      "path": "images/acceso e spento/gioco bruco spento.png",
-      "sha256": "d7b185264f318ebf53fb6fb853f7d9fd0bcdf99cdd7d6aae59335126e59a4031"
-    },
-    {
-      "bytes": 1766063,
-      "path": "images/acceso e spento/lampada accesa.png",
-      "sha256": "68c345de60e1cc323d3175694e2fe564d3bf4df15a61fe8e48d52d384be7617e"
-    },
-    {
-      "bytes": 1665067,
-      "path": "images/acceso e spento/lampada spenta.png",
-      "sha256": "c2537edd2ba5d34d882aa1c0483ec64b88201decfa453cd7492f113407383b7e"
-    },
-    {
-      "bytes": 2067860,
-      "path": "images/acceso e spento/lampadario acceso.png",
-      "sha256": "f7744e237a06212ff629c5a53c62ab2b26fb67e672293d2056c95d6421146454"
-    },
-    {
-      "bytes": 2258112,
-      "path": "images/acceso e spento/lampadario spento.png",
-      "sha256": "e29e715b10bd8738cddf6d7bdb1b74de88b8069312d85f2eff46c88dfc186073"
-    },
-    {
-      "bytes": 1668516,
-      "path": "images/acceso e spento/lavatrice accesa.png",
-      "sha256": "78d29b3b3cfc77cc3d546b45da84f251bd9a872b71ccee780ed920c75450e781"
-    },
-    {
-      "bytes": 1651517,
-      "path": "images/acceso e spento/lavatrice spenta.png",
-      "sha256": "30029d93f68438462e3fb14c147bb9171376a3f5fc6a204cb4ab39b00c549bd8"
-    },
-    {
-      "bytes": 1396731,
-      "path": "images/acceso e spento/torcia elettrica accesa.png",
-      "sha256": "120427005f61ec2a20f152e57edce120cd18abfcf605781d71d617f55fab2264"
-    },
-    {
-      "bytes": 1416377,
-      "path": "images/acceso e spento/torcia elettrica spenta.png",
-      "sha256": "c5b1bd9a15950659046bb51485dfc0ee964e596cd95e6716f5ab2518353d3e6f"
-    },
-    {
-      "bytes": 1722572,
-      "path": "images/alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
-      "sha256": "516651f5672df0d943717de5ffcd55d4c0d867dc5137f8eb5d544610de417033"
-    },
-    {
-      "bytes": 1293168,
-      "path": "images/aperto e chiuso/cassa aperta.png",
-      "sha256": "ef545e03de3144544623657e46b5381957a2e49ca2cc8d77c6bcfbf4330578c6"
-    },
-    {
-      "bytes": 960170,
-      "path": "images/aperto e chiuso/cassa chiusa.png",
-      "sha256": "8b411704ec09042e29d8e01c5e80004a1faf6e1b85d35d31efac1b4e378f6c78"
-    },
-    {
-      "bytes": 1845614,
-      "path": "images/aperto e chiuso/cassettiera aperta.png",
-      "sha256": "7d41ce19f21d4f6985dfa8bbf5551bddbf9320eb9257bee2b29c90d901fdc841"
-    },
-    {
-      "bytes": 1979595,
-      "path": "images/aperto e chiuso/cassettiera chousa.png",
-      "sha256": "7c051b3d7b82b028028ecaf5ec903cbc6e6f5156f27a5afa639d5359b9ecd376"
-    },
-    {
-      "bytes": 1842353,
-      "path": "images/aperto e chiuso/libro aperto.png",
-      "sha256": "b7539ac063a350b0bc0c063c1c196afb11bf71d0705023fece184525bda810fa"
-    },
-    {
-      "bytes": 1508112,
-      "path": "images/aperto e chiuso/libro chiuso.png",
-      "sha256": "3c802cd549d6388be920016349b8f5f455db651d9e5b754ec70e94b31bf67437"
-    },
-    {
-      "bytes": 527304,
-      "path": "images/aperto e chiuso/ombrello aperto.png",
-      "sha256": "43dd215284ee5b481fcc7167dd52f12e89238728fd2a05bac62d101c1f961176"
-    },
-    {
-      "bytes": 189698,
-      "path": "images/aperto e chiuso/ombrello chiuso.png",
-      "sha256": "363483f2d55f4258f81b3d00b31e332222dbe6602b87da11b77530ddf8eb811c"
-    },
-    {
-      "bytes": 1592681,
-      "path": "images/aperto e chiuso/porta aperta 2.png",
-      "sha256": "305c129a88dc1d1a1978954864b667bde546b029c6ade60062d67b249a22d645"
-    },
-    {
-      "bytes": 1768202,
-      "path": "images/aperto e chiuso/porta aperta.png",
-      "sha256": "c8d3144ed3aeea1d98f63c529a18a85bf8523584e08206169909d3412b910c03"
-    },
-    {
-      "bytes": 1986330,
-      "path": "images/aperto e chiuso/porta chiusa 2.png",
-      "sha256": "a2d9fc5c93f728111d17d306a94b57dcf50b3b589dcc729e0c59729d3180e824"
-    },
-    {
-      "bytes": 1690859,
-      "path": "images/aperto e chiuso/porta chiusa.png",
-      "sha256": "8a4b76b2e28d4557e2f849b017edf511251e44d1b323a7aba19799b9f273eb88"
-    },
-    {
-      "bytes": 588277,
-      "path": "images/aperto e chiuso/scatola aperta.png",
-      "sha256": "2b01d6a5cb19a9496d6b541a6c9ff5486f6859434c34e3f8ca4d42715a8e9e35"
-    },
-    {
-      "bytes": 856027,
-      "path": "images/aperto e chiuso/scatola chiusa.png",
-      "sha256": "42b96c1be1c370ad104ab3c909ce048ccc90a729bda0449e38b8d4884f7be3be"
-    },
-    {
-      "bytes": 1642619,
-      "path": "images/arrabbiata donna 3.png",
-      "sha256": "218eeb18cce1880f54073abedf7ffc2b41d383f661d9826cf448b8dbcf81218d"
-    },
-    {
-      "bytes": 1257334,
-      "path": "images/arrabbiato bambino 3.png",
-      "sha256": "833cb13f9ab366bbd257ee6ad42964a8c1df7193d75aa7ebc76a641d362d3aae"
-    },
-    {
-      "bytes": 75233,
-      "path": "images/azioni/abbottona 2.jpg",
-      "sha256": "f099d49960a73813c70133adcdc9eae18737d8d6d618157be81ac97e65f70c8d"
-    },
-    {
-      "bytes": 79976,
-      "path": "images/azioni/abbottona.jpg",
-      "sha256": "52261bccf5e39f54f49a41034a1cafb58cb62e37c75139727ada65e41818e857"
-    },
-    {
-      "bytes": 517738,
-      "path": "images/azioni/abbraccia 1.jpg",
-      "sha256": "fd9d307f15b7d1f764096ef3010d91d5c892b1bd7469d15bda59f579533b4460"
-    },
-    {
-      "bytes": 214366,
-      "path": "images/azioni/abbraccia 2.jpg",
-      "sha256": "e0fb596debd49cdfdbd5bd5fa916659c1a35e3b35c7e3ed18287db9754847a04"
-    },
-    {
-      "bytes": 451710,
-      "path": "images/azioni/abbraccia.jpg",
-      "sha256": "b5d47e16ce6487e42c6710de195177a99813ae11ee2a668685e1fad45aae5d4a"
-    },
-    {
-      "bytes": 534197,
-      "path": "images/azioni/abbracciare.jpg",
-      "sha256": "0178894562683601ef35a0972f5d0d21ef6d51f6d5bf4ed6aae04566f0d37332"
-    },
-    {
-      "bytes": 69437,
-      "path": "images/azioni/allaccia 2.jpg",
-      "sha256": "c9520dbf9613761a82cd6aaf0b002c4c25e894a7c2f8449df3c06e9a324248d9"
-    },
-    {
-      "bytes": 73654,
-      "path": "images/azioni/allaccia.jpg",
-      "sha256": "d83c701127e617fd9c965f0f6370c09e4521a0aa80bab92ef8cfc18fc62fbdb0"
-    },
-    {
-      "bytes": 121046,
-      "path": "images/azioni/altalena 1.jpg",
-      "sha256": "5e6622cc0476285b5678a1e7b6ad114e1367609cc540cd1f3015c83dd6ea4e6d"
-    },
-    {
-      "bytes": 132973,
-      "path": "images/azioni/altalena 2.jpg",
-      "sha256": "3ff688c8e232d131f2648fb57757c735c3a55f9db06a99073080aeea39568a43"
-    },
-    {
-      "bytes": 68540,
-      "path": "images/azioni/alza la mano 2.jpg",
-      "sha256": "7f93266186e2a0855ad0f1ef6d692937c8a054615e5319544db3af35723fccec"
-    },
-    {
-      "bytes": 65547,
-      "path": "images/azioni/alza la mano.jpg",
-      "sha256": "8caa38d7936fb7658081760b5ccf9a81ddf43a2c02f1f9e6b2ad4474d3bade20"
-    },
-    {
-      "bytes": 64213,
-      "path": "images/azioni/annusa 2.jpg",
-      "sha256": "23eb88af34c82f5506ecec187335153f1ca1986cf2c42af8b9bb693adae65587"
-    },
-    {
-      "bytes": 61110,
-      "path": "images/azioni/annusa.jpg",
-      "sha256": "b1a45d35ae182ae8399780700331d6d99260de07a023de3c59b0bde98688189a"
-    },
-    {
-      "bytes": 53850,
-      "path": "images/azioni/appende 2.jpg",
-      "sha256": "51f6550b48eb18be033b83453fa58f5ae73d679f8775d83ca59937342c7f311b"
-    },
-    {
-      "bytes": 52577,
-      "path": "images/azioni/appende.jpg",
-      "sha256": "80d286096588e1ee11dbfbc8626c1333a341bbde65eaf19bc58523286e134a7d"
-    },
-    {
-      "bytes": 28059,
-      "path": "images/azioni/bacio 1.jpg",
-      "sha256": "7b2a1e16750674abc65d37ba13f8bf8644303b9be2e6a4cad760b7177e53fdb0"
-    },
-    {
-      "bytes": 30038,
-      "path": "images/azioni/bacio 2.jpg",
-      "sha256": "57c7bd3b07d973994a7a71e93929d87f825b774206e04ee99f70dca2b8ac68e1"
-    },
-    {
-      "bytes": 196214,
-      "path": "images/azioni/beve 1.jpg",
-      "sha256": "6b3a3f330653040458b702651de5cf5b925d8e83f45b41fe46c0bbf93560905e"
-    },
-    {
-      "bytes": 262131,
-      "path": "images/azioni/beve 2.jpg",
-      "sha256": "17ecfc658884577707112386fbd749e6449dd3c52da8cecec9d202d8198e03e0"
-    },
-    {
-      "bytes": 495871,
-      "path": "images/azioni/corre 2.jpg",
-      "sha256": "72fad54bc89e78e8b34076018377a53673e63e65e77fff44dcc1450bd2236188"
-    },
-    {
-      "bytes": 145576,
-      "path": "images/azioni/corre 3.jpg",
-      "sha256": "4f1cafab01b76cfedadb1e50ebfb998851b7b13baeecef14ced77aea9bbf58ab"
-    },
-    {
-      "bytes": 337039,
-      "path": "images/azioni/correi1.jpg",
-      "sha256": "068141e175f4265be6ac7d83430979c4d1d38c9b58b21c0a392a4b2a6661fe72"
-    },
-    {
-      "bytes": 656057,
-      "path": "images/azioni/cucina 3.jpg",
-      "sha256": "5ad8893e97aa5002e086bb9c05abe44201d6f589067e379f47d24c8a3e201162"
-    },
-    {
-      "bytes": 654311,
-      "path": "images/azioni/cucina 6.jpg",
-      "sha256": "4243abab2fbb639419ab41555658f4f22ae6bd9ad4d9cc7f388d81d9e6c79285"
-    },
-    {
-      "bytes": 630858,
-      "path": "images/azioni/cucina.jpg",
-      "sha256": "8d21ef8ae21a39254e8f81fa25edf05b1335acc158ed70d1603dd187f6450833"
-    },
-    {
-      "bytes": 609424,
-      "path": "images/azioni/dorme 01.jpg",
-      "sha256": "4b883c9e2f99b6ef90b90bb23375ad793798e4ab48de7b26d4548146a48282c7"
-    },
-    {
-      "bytes": 569847,
-      "path": "images/azioni/dorme 02.jpg",
-      "sha256": "e49271c61c60558f6e9c24678149bcceb66fe7809c6a15c5fc369a018cd0ae2a"
-    },
-    {
-      "bytes": 68606,
-      "path": "images/azioni/dorme 1.jpg",
-      "sha256": "6014168bfe666850b7513fbaa787075dd3ec355db81800bb3e914567e86399b2"
-    },
-    {
-      "bytes": 144744,
-      "path": "images/azioni/dorme 2.jpg",
-      "sha256": "490f6a6ad4d95576dbeb29f3e1508a5b1d8b13746ed167a985ed4161bff963af"
-    },
-    {
-      "bytes": 66864,
-      "path": "images/azioni/guarda 2.jpg",
-      "sha256": "66d34d4bb6a84841537d7d30603cee9c1f1622da139cd2a9ca185221334dc00e"
-    },
-    {
-      "bytes": 83166,
-      "path": "images/azioni/guarda.jpg",
-      "sha256": "95cd49d7ca1ec9a13e7617c2de3398c256f2459bfc97ecd75dbd0d3777c485a4"
-    },
-    {
-      "bytes": 91275,
-      "path": "images/azioni/lava 1.jpg",
-      "sha256": "c27c0e30b1088c5a832a7ce7bac026964bda0bbb6b8397aea5f18c1418e1b390"
-    },
-    {
-      "bytes": 52530,
-      "path": "images/azioni/lava 2.jpg",
-      "sha256": "85b5fb43fded6f86c350849d5d63bf398c9fe16ef50f42148d8c565ca870de2c"
-    },
-    {
-      "bytes": 68293,
-      "path": "images/azioni/lava le mani 2.jpg",
-      "sha256": "f3f9e9c80810a126ffa58c1305be65c0013c29b228615fd41193f2bf615d6ec5"
-    },
-    {
-      "bytes": 57663,
-      "path": "images/azioni/lava le mani.jpg",
-      "sha256": "ec7bff8858cb3d9df87a61979dcb13139c7451966f0a7e49f0ba5c891f663617"
-    },
-    {
-      "bytes": 605610,
-      "path": "images/azioni/lecca 01.jpg",
-      "sha256": "7864d60a80977d9020a2f678ac45101476c31e6b0056fcca994fea9a741c5478"
-    },
-    {
-      "bytes": 753113,
-      "path": "images/azioni/legge 01.jpg",
-      "sha256": "e407da66c6e9b10d12b9fe48f0a6d568584c1695111431800ca4090af475ac45"
-    },
-    {
-      "bytes": 739227,
-      "path": "images/azioni/legge 02.jpg",
-      "sha256": "068c37866a420899acbdb6319a216296899d25899ada33120b3a607e908d6fc4"
-    },
-    {
-      "bytes": 43840,
-      "path": "images/azioni/legge 1.jpg",
-      "sha256": "a4b0f86214bcfea9806bc6020650a4c888cb8753f85f38074cbc0e051d69e85e"
-    },
-    {
-      "bytes": 614488,
-      "path": "images/azioni/legge disegna scrive.jpg",
-      "sha256": "26a39e33da4c2cf3e604becae1334ece3a19ec92a0819688b36bce4ce6084b43"
-    },
-    {
-      "bytes": 536998,
-      "path": "images/azioni/leggere scrivere disegnare.jpg",
-      "sha256": "060a4b12140126e1423f5a2f0be0abe682af34e4900fc2c9106d32620958f3d9"
-    },
-    {
-      "bytes": 114817,
-      "path": "images/azioni/mangia 1.jpg",
-      "sha256": "89406c20e975d04e8bc636f8d1752c564b2f22b5e9240e3aecebbfcd3e3d1f03"
-    },
-    {
-      "bytes": 189645,
-      "path": "images/azioni/mangia 2.jpg",
-      "sha256": "1fc0e4689f922613affbb7791a2a57435d8e30157379fc7b1b6b003f8383fc21"
-    },
-    {
-      "bytes": 63245,
-      "path": "images/azioni/mescola 2.jpg",
-      "sha256": "002942a6abd636addfaaba4eec831517adc092bf41bf18b0149c901c78d4f25b"
-    },
-    {
-      "bytes": 69423,
-      "path": "images/azioni/mescola.jpg",
-      "sha256": "ad63d2639ad50f562492aa53de658bdf13a44fa08f6c9269439479878e746434"
-    },
-    {
-      "bytes": 136337,
-      "path": "images/azioni/nuota 1.jpg",
-      "sha256": "39160dbe3f50fa37bdd63ffece93892f7697b6801956659f43ca4a32e44fb605"
-    },
-    {
-      "bytes": 3229136,
-      "path": "images/azioni/nuota 2.png",
-      "sha256": "009209027fffd3be3e059a59fffb8f951c354be83b5472d7b66d0a5c68e0cc38"
-    },
-    {
-      "bytes": 67824,
-      "path": "images/azioni/palleggia 2.jpg",
-      "sha256": "94ba52164e66534272e4f2321b69a2f27f7ca42baed2dc32604a024e598eda97"
-    },
-    {
-      "bytes": 83791,
-      "path": "images/azioni/palleggia.jpg",
-      "sha256": "63bf66c94147c428849f8b6c0e723103da8ab325f706a499e7944bddea3f0d2b"
-    },
-    {
-      "bytes": 120556,
-      "path": "images/azioni/pettina 1.jpg",
-      "sha256": "bcbb24ee34a088b03b7fa1f29adfb8e75a684c6dac71b01112f387889675d889"
-    },
-    {
-      "bytes": 36957,
-      "path": "images/azioni/pettina 2.jpg",
-      "sha256": "bd9c4ae07bd5e40777ba84626dae0d31cb20510d963daf6034f83e1d7f1b8cbd"
-    },
-    {
-      "bytes": 494614,
-      "path": "images/azioni/pulisce 2.jpg",
-      "sha256": "1bc63a8e76baa039bc697166b747e0353162ef1b311d75bd82feb43ee799f507"
-    },
-    {
-      "bytes": 480301,
-      "path": "images/azioni/pulisce 3.jpg",
-      "sha256": "4b50b5657447afeb232aff2419de9c555bc015ac42bcbb9419438229810d77c2"
-    },
-    {
-      "bytes": 462063,
-      "path": "images/azioni/pulisce 6.jpg",
-      "sha256": "c084572463bff6a7dbce6f46e74bd710487638af83a220654bbf243484accf52"
-    },
-    {
-      "bytes": 462063,
-      "path": "images/azioni/pulisce 7.jpg",
-      "sha256": "5013d3bb3ebc6f98decff794610751131b84fd6fe18e4ac39efceca356edee27"
-    },
-    {
-      "bytes": 649805,
-      "path": "images/azioni/pulisce.jpg",
-      "sha256": "94e180a8da8b7a4e9e2431b47c5ea29f95e251f000b25260cd898c5f0d283c8c"
-    },
-    {
-      "bytes": 15087,
-      "path": "images/azioni/ride 1.jpg",
-      "sha256": "b5ad7535c4e575879bcaa1008eba8c4fb4938c68ea61115edb9fc4db59170b67"
-    },
-    {
-      "bytes": 289000,
-      "path": "images/azioni/ride 2.jpg",
-      "sha256": "542658afa8649fa288731fec9f317cab827b08cb7ca44ffcfed819750c402816"
-    },
-    {
-      "bytes": 543494,
-      "path": "images/azioni/salire 6.jpg",
-      "sha256": "719c60999678f82d431d0b65a091638ac81ab1617254c1a756e85ca53012a59c"
-    },
-    {
-      "bytes": 760481,
-      "path": "images/azioni/salire.jpg",
-      "sha256": "cf5bec721686fd36485a84a75a476a1665f7126aac2090521820715b20436dae"
-    },
-    {
-      "bytes": 26506,
-      "path": "images/azioni/salta 1.jpg",
-      "sha256": "6139990fa24b63eaec19c2e7be933aa63d05a7239d801fbbb2e0475493b283ad"
-    },
-    {
-      "bytes": 325813,
-      "path": "images/azioni/salta 2.jpg",
-      "sha256": "b38f720b5c38d1d79c28d0f6cf81566ca7e3d274c2fb2df22e829c6e86bb47c0"
-    },
-    {
-      "bytes": 955774,
-      "path": "images/azioni/saltan 02.jpg",
-      "sha256": "2071c489441130210c4308e0e545c84602796255f3776cd35b8146f09fbaef1e"
-    },
-    {
-      "bytes": 752902,
-      "path": "images/azioni/saluta 01.jpg",
-      "sha256": "b792e31614b2f510b8ae18a49dff2736c62d5d4bff5f9bae6a9cd03ea5ec74c6"
-    },
-    {
-      "bytes": 682197,
-      "path": "images/azioni/saluta 02.jpg",
-      "sha256": "08e90571f3a37d19df7384c8e25b4384e49f772f148bcaf61641a018c797e8ee"
-    },
-    {
-      "bytes": 108893,
-      "path": "images/azioni/scivola 1.jpg",
-      "sha256": "a87aa82ceb22188b433d42a5e1dde3a7deedda890bd743b73bc472881a388324"
-    },
-    {
-      "bytes": 81859,
-      "path": "images/azioni/scivola.jpg",
-      "sha256": "386a6fae7f7e45422da68ac010749e982c03c776ccf6a125b6d8ffbbd41b0f9f"
-    },
-    {
-      "bytes": 577332,
-      "path": "images/azioni/soffia 1.png",
-      "sha256": "9767dbf3dfe02e4ec0c617bb983b9d90623403a08d0853bbf32578a11af1f87b"
-    },
-    {
-      "bytes": 324928,
-      "path": "images/azioni/soffia 2.jpg",
-      "sha256": "1a80e345f9d73d471177497fdf33c14e538f6e5242aeaf09cc8f9215f269263b"
-    },
-    {
-      "bytes": 488845,
-      "path": "images/azioni/soffia 3.jpg",
-      "sha256": "a389169580b698ad3f92c7ea929979c87166ceaf19f4e24e944973799ea93bf8"
-    },
-    {
-      "bytes": 559695,
-      "path": "images/azioni/soffia fischia suona.jpg",
-      "sha256": "aa0a17b02dd7cd981ab714c2f0b1acceceff6ee4216c68d3f333b5b0aaa7e0e4"
-    },
-    {
-      "bytes": 510278,
-      "path": "images/azioni/soffia.jpg",
-      "sha256": "fd29b4de1bc59a92302f1802e7091e554141eb3a0b132e2be934121074f2674f"
-    },
-    {
-      "bytes": 1131790,
-      "path": "images/azioni/spinge 2.jpg",
-      "sha256": "8e7817b05fc9655a353b9be765b558992166a717ea893a0efae38b8ba3d04397"
-    },
-    {
-      "bytes": 706981,
-      "path": "images/azioni/spinge 3.jpg",
-      "sha256": "434754b14934a906cbef15f127d74ec8dfe3c3cb61519191bdd909d6903d0c5b"
-    },
-    {
-      "bytes": 794764,
-      "path": "images/azioni/spinge.jpg",
-      "sha256": "49a8767758d8989cd010f49b3dd2036d019536266d97936871d7b439e4140329"
-    },
-    {
-      "bytes": 582117,
-      "path": "images/azioni/spolvera 2.jpg",
-      "sha256": "8146898414dccdf73bb2a8dc934cc03b919860a63d2f49ce46ef3e8608eee246"
-    },
-    {
-      "bytes": 571422,
-      "path": "images/azioni/spolvera.jpg",
-      "sha256": "6c1a924399bfaaf4c0e5f6a6e44afe189453ea25ae52b79fcd0d799d1bd62f39"
-    },
-    {
-      "bytes": 1334647,
-      "path": "images/azioni/sta scrivendo.jpg",
-      "sha256": "7b44e380d323ebff62d222309dfe1c804ef9c04f44b2ad4ef74ffc9f31c1195f"
-    },
-    {
-      "bytes": 728599,
-      "path": "images/azioni/versa 01.jpg",
-      "sha256": "aa4e2bffb02620c9b25207d452c77a82b1539b8c9a6614d29cd4543220cb3444"
-    },
-    {
-      "bytes": 660766,
-      "path": "images/azioni/versa 02.jpg",
-      "sha256": "147c86dfd8071b5c3f093fab64e0a694ba813fefce7bcc6d6f19f4c4bec3d2a0"
-    },
-    {
-      "bytes": 1572230,
-      "path": "images/bambina arrabbiata 3.png",
-      "sha256": "77cd67974f6759d4fa3afc7cb573b33083a26deeee40192e84c8749e4e776bc2"
-    },
-    {
-      "bytes": 1563675,
-      "path": "images/bambina felice 3.png",
-      "sha256": "88e389efda14eb55f5eda05c8bf9c83ad0b7208aebff4689c67b4c91f4bb5a34"
-    },
-    {
-      "bytes": 1675197,
-      "path": "images/bambina sorpresa 3.png",
-      "sha256": "16130c9b8f9865313c0f17de4ae32b2c46e400f6ffe6e832f28e08dfeeeedd73"
-    },
-    {
-      "bytes": 1584466,
-      "path": "images/bambina spaventata 3.png",
-      "sha256": "31cdf57db263661aae29d02f0821af221021ed442a6b61c5dea4a0d74e9d487a"
-    },
-    {
-      "bytes": 1552163,
-      "path": "images/bambina triste 3.png",
-      "sha256": "bcf3f6870af4fdabfa301f1adf6fc2a5b3ea21d44cde424527f40279e8c97781"
-    },
-    {
-      "bytes": 1756779,
-      "path": "images/biscotti (3).png",
-      "sha256": "2fbf24f5a619f5d3c5fd178ed365925e2891ff73cfd671133a8131576e5d193e"
-    },
-    {
-      "bytes": 11827,
-      "path": "images/colori/bianco.png",
-      "sha256": "6e21cdf77f5334014bf93de775ac656add798556d16b5730766fde48a0a19643"
-    },
-    {
-      "bytes": 360,
-      "path": "images/colori/blu.png",
-      "sha256": "0cae7b25129beae147b247142e8d221108646349986fd761c7b46597465bc1c6"
-    },
-    {
-      "bytes": 4146,
-      "path": "images/colori/giallo.jpg",
-      "sha256": "a0a7fc7a89a5b578a0e1b4fdc12bffb71c45760ee4f483d3c612b382eb6193e3"
-    },
-    {
-      "bytes": 13679,
-      "path": "images/colori/nero.jpg",
-      "sha256": "18be742d1276033d9293efde52edf887aba9c27a11ea22ebe2488522ea6440da"
-    },
-    {
-      "bytes": 17730,
-      "path": "images/colori/rosa.jpg",
-      "sha256": "236f65b2edec8dc3725495362796cb7f04452325b7a5cd494a4e4c4db7e520da"
-    },
-    {
-      "bytes": 16748,
-      "path": "images/colori/rosso.png",
-      "sha256": "72605ff73c7bb3d79710732354c0c986b702d1419ee707150e4f10655e9073da"
-    },
-    {
-      "bytes": 14503,
-      "path": "images/colori/verde.jpg",
-      "sha256": "a915207d0b968fb6fe2ab1cb5d347a17b9c18f4d38921dc4f1cee6088793ad7a"
-    },
-    {
-      "bytes": 1773836,
-      "path": "images/donna felice 3.png",
-      "sha256": "a6bc90adf7d2e9f3d2ee0924191025506287151485a2b3e34ac5485c09a75670"
-    },
-    {
-      "bytes": 1906403,
-      "path": "images/donna sorpresa 3.png",
-      "sha256": "2d22c105e24e80ed1207a2faa18ea2011371bc481989572e88d075de555b89de"
-    },
-    {
-      "bytes": 2312738,
-      "path": "images/donna spaventata 3.png",
-      "sha256": "03579b42d847cf76447c065222916a5a870052adc3824dd7841d8708a3396d07"
-    },
-    {
-      "bytes": 1816815,
-      "path": "images/donna triste 3.png",
-      "sha256": "9f7a1258cbbb4a456d6d5f7a2b705452c617199a025a3d3bfdf44ad1bd615f15"
-    },
-    {
-      "bytes": 1924108,
-      "path": "images/donna triste 5.png",
-      "sha256": "dfcee1ad03307402e0a92f292802f4cf085e9e834e9f61ad577010f582680fae"
-    },
-    {
-      "bytes": 1642619,
-      "path": "images/emozioni/arrabbiata donna 3.png",
-      "sha256": "218eeb18cce1880f54073abedf7ffc2b41d383f661d9826cf448b8dbcf81218d"
-    },
-    {
-      "bytes": 1257334,
-      "path": "images/emozioni/arrabbiato bambino 3.png",
-      "sha256": "833cb13f9ab366bbd257ee6ad42964a8c1df7193d75aa7ebc76a641d362d3aae"
-    },
-    {
-      "bytes": 1572230,
-      "path": "images/emozioni/bambina arrabbiata 3.png",
-      "sha256": "77cd67974f6759d4fa3afc7cb573b33083a26deeee40192e84c8749e4e776bc2"
-    },
-    {
-      "bytes": 1563675,
-      "path": "images/emozioni/bambina felice 3.png",
-      "sha256": "88e389efda14eb55f5eda05c8bf9c83ad0b7208aebff4689c67b4c91f4bb5a34"
-    },
-    {
-      "bytes": 1675197,
-      "path": "images/emozioni/bambina sorpresa 3.png",
-      "sha256": "16130c9b8f9865313c0f17de4ae32b2c46e400f6ffe6e832f28e08dfeeeedd73"
-    },
-    {
-      "bytes": 1584466,
-      "path": "images/emozioni/bambina spaventata 3.png",
-      "sha256": "31cdf57db263661aae29d02f0821af221021ed442a6b61c5dea4a0d74e9d487a"
-    },
-    {
-      "bytes": 1552163,
-      "path": "images/emozioni/bambina triste 3.png",
-      "sha256": "bcf3f6870af4fdabfa301f1adf6fc2a5b3ea21d44cde424527f40279e8c97781"
-    },
-    {
-      "bytes": 1773836,
-      "path": "images/emozioni/donna felice 3.png",
-      "sha256": "a6bc90adf7d2e9f3d2ee0924191025506287151485a2b3e34ac5485c09a75670"
-    },
-    {
-      "bytes": 1906403,
-      "path": "images/emozioni/donna sorpresa 3.png",
-      "sha256": "2d22c105e24e80ed1207a2faa18ea2011371bc481989572e88d075de555b89de"
-    },
-    {
-      "bytes": 2312738,
-      "path": "images/emozioni/donna spaventata 3.png",
-      "sha256": "03579b42d847cf76447c065222916a5a870052adc3824dd7841d8708a3396d07"
-    },
-    {
-      "bytes": 1816815,
-      "path": "images/emozioni/donna triste 3.png",
-      "sha256": "9f7a1258cbbb4a456d6d5f7a2b705452c617199a025a3d3bfdf44ad1bd615f15"
-    },
-    {
-      "bytes": 1924108,
-      "path": "images/emozioni/donna triste 5.png",
-      "sha256": "dfcee1ad03307402e0a92f292802f4cf085e9e834e9f61ad577010f582680fae"
-    },
-    {
-      "bytes": 1176499,
-      "path": "images/emozioni/felice bambino 3.png",
-      "sha256": "ba2810580a1ca7b539d785d12b071cb9baf3bb73838f4899725b6e444db4e79f"
-    },
-    {
-      "bytes": 1198064,
-      "path": "images/emozioni/sopreso bambino 3.png",
-      "sha256": "2883b26a916853079990d9c43eac4531d3dd450a9668bf043b9dfad2aefc5410"
-    },
-    {
-      "bytes": 1288821,
-      "path": "images/emozioni/spaventato bambino 3.png",
-      "sha256": "69cf792264b016a67f3f25d930d7f80c8271785e730c797e94567528661cdf34"
-    },
-    {
-      "bytes": 1224982,
-      "path": "images/emozioni/triste bambino 3.png",
-      "sha256": "65a571212c1f07340e1f690b9502204de04cf1ebe0d9b995a1872ce29e42fe0d"
-    },
-    {
-      "bytes": 1552100,
-      "path": "images/emozioni/uomo arrabbiato 3.png",
-      "sha256": "c5c626e5d4454c52c8020d5b4b8db34c08cfae69c465f4ed0e12d0f8bae4de11"
-    },
-    {
-      "bytes": 1633524,
-      "path": "images/emozioni/uomo felice 3.png",
-      "sha256": "d80821cbc923da923b77a5af2bfe9f9b113d37c0d684851aa0eddd5e1c464308"
-    },
-    {
-      "bytes": 1408739,
-      "path": "images/emozioni/uomo sorpreso 3.png",
-      "sha256": "eac9e4c1f327aff7b55c8227cacf1aef6033bf723620dc8a6ca5bc1dd890e97b"
-    },
-    {
-      "bytes": 1409153,
-      "path": "images/emozioni/uomo triste 3.png",
-      "sha256": "68d67ab774db930625faafd4380751001d73900f958700a97ed3cacb3a0a4ab0"
-    },
-    {
-      "bytes": 1176499,
-      "path": "images/felice bambino 3.png",
-      "sha256": "ba2810580a1ca7b539d785d12b071cb9baf3bb73838f4899725b6e444db4e79f"
-    },
-    {
-      "bytes": 208286,
-      "path": "images/gesti/Immagine 2024-08-13 001138.png",
-      "sha256": "8d3bda172c5c063841e9168e7942b137f64a9fcc31589a4e67e93063511fecf1"
-    },
-    {
-      "bytes": 175946,
-      "path": "images/gesti/Immagine 2024-08-13 001256.png",
-      "sha256": "fd94b02505c3ee14fabedb0a45ab7705582d6d45a2afe3e701040c18afd1a0d5"
-    },
-    {
-      "bytes": 121502,
-      "path": "images/gesti/Immagine 2024-08-13 001558.png",
-      "sha256": "35791addf571374d9badfed53dce7704a4f972516bb948b0c6415fa2ae806a2a"
-    },
-    {
-      "bytes": 74478,
-      "path": "images/gesti/Immagine 2024-08-13 001629.png",
-      "sha256": "be1305516c29783bd6cffebd9b1eb445a9a9af53055e2ef5301aa0cf5e67ada5"
-    },
-    {
-      "bytes": 137651,
-      "path": "images/gesti/Immagine 2024-08-13 001744.png",
-      "sha256": "e324492ebfbfef17692dd0c10dc65cfb17dd38a3195f553e1bcec9ec596b909d"
-    },
-    {
-      "bytes": 88326,
-      "path": "images/gesti/Immagine 2024-08-13 001810.png",
-      "sha256": "1db4f3333d79c1cf071395b32aad3a080f04e981db5f2b2c144a140d85aa03b4"
-    },
-    {
-      "bytes": 151869,
-      "path": "images/gesti/Immagine 2024-08-13 001906.png",
-      "sha256": "9d68bf161cf4b0c281b0eb33f85553b62f078e32eacd205b9b94b5b2ac72c044"
-    },
-    {
-      "bytes": 142771,
-      "path": "images/gesti/Immagine 2024-08-13 001931.png",
-      "sha256": "e5c961eb97b08da8b8afe8ebbd40d9d12a8aad37ff93b20ba2044190a24d6187"
-    },
-    {
-      "bytes": 66591,
-      "path": "images/gesti/Immagine 2024-08-13 002016.png",
-      "sha256": "a5a63aafaf88cc55affb613a2d39ad1030d69a0018f2a94c2192213e07ff5cb8"
-    },
-    {
-      "bytes": 163457,
-      "path": "images/gesti/Immagine 2024-08-13 002128.png",
-      "sha256": "f9e65bcbed496db80a31e6f605ef9ecb65b1c2f7d67cc27402a5fa200370d4a7"
-    },
-    {
-      "bytes": 1722572,
-      "path": "images/gesti/alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
-      "sha256": "516651f5672df0d943717de5ffcd55d4c0d867dc5137f8eb5d544610de417033"
-    },
-    {
-      "bytes": 2040337,
-      "path": "images/immagini 1/Firefly_police car, no people 617566.png",
-      "sha256": "481c83a6df63dcc83dac7a3d1da708f646b5ecf6031e7c76bba433b8b881789e"
-    },
-    {
-      "bytes": 2007987,
-      "path": "images/immagini 1/aereo (11).png",
-      "sha256": "0c3d4364b6691ebf224d662e9559f2f9ee3e23e1a881a9a1d4bf0750a58c1f8e"
-    },
-    {
-      "bytes": 1926040,
-      "path": "images/immagini 1/altalena (3).png",
-      "sha256": "ff2c529fc66f5c512801931aa0ceb87327c1e658ad4d6dd9163e69113543a255"
-    },
-    {
-      "bytes": 1351057,
-      "path": "images/immagini 1/arancio (6).png",
-      "sha256": "0d561d981dbcd98fa77fe21cb10d80353e2c49ea5c9a24f4bc4daf4a38ca2cdd"
-    },
-    {
-      "bytes": 2229209,
-      "path": "images/immagini 1/asciugamano (5).png",
-      "sha256": "640d60f1e9d41b861f1cfb9da95aa5889cd046be79700f1840c34b8fa6910665"
-    },
-    {
-      "bytes": 2116454,
-      "path": "images/immagini 1/aspirapolvere (8).png",
-      "sha256": "c5fabe301c74b65520636d5735cd9ef72125bf2d49c237c5e42c9489ed8fcdc6"
-    },
-    {
-      "bytes": 2346311,
-      "path": "images/immagini 1/autobus.png",
-      "sha256": "d5be5abf5403c646d2aecfc12b685f4a8be21873f9e59f22be41b2d39a5de859"
-    },
-    {
-      "bytes": 2034890,
-      "path": "images/immagini 1/bagno (3).png",
-      "sha256": "92c2b9a077272afe2ffe361ae84b44626c0edfb838c14b6a798ff91e4cc30ad7"
-    },
-    {
-      "bytes": 2073213,
-      "path": "images/immagini 1/bambola (2).png",
-      "sha256": "b54f8d0a17a0797ce83281ba5f7b3efd815c690d8eaf90992a126868a9e6ef08"
-    },
-    {
-      "bytes": 2311517,
-      "path": "images/immagini 1/banane (2).png",
-      "sha256": "ff32e6448caa704344f6667abc1c91b0f88096b439551380967485ff41468cb2"
-    },
-    {
-      "bytes": 2461923,
-      "path": "images/immagini 1/barca.png",
-      "sha256": "fd67e50e05e4c3073a79d9d5d065f94b5f80cf76d7920ae53caa40a8aa5ba0cb"
-    },
-    {
-      "bytes": 1962729,
-      "path": "images/immagini 1/bicchiere05.png",
-      "sha256": "4a2f901f640aef3071bafee27f8eed9e6ea5d46f64ddd674a41c8d5c387fe0eb"
-    },
-    {
-      "bytes": 2187752,
-      "path": "images/immagini 1/bicicletta (5).png",
-      "sha256": "fa1d90cf25535ffe4b6f0cf23bfe72663cfa94138af26648854c40e0185252d2"
-    },
-    {
-      "bytes": 1756779,
-      "path": "images/immagini 1/biscotti (3).png",
-      "sha256": "2fbf24f5a619f5d3c5fd178ed365925e2891ff73cfd671133a8131576e5d193e"
-    },
-    {
-      "bytes": 2438284,
-      "path": "images/immagini 1/bolle (4).png",
-      "sha256": "b55a5180ff660130a962abc31aed77a401ce3f2bc2375c4fc88021f18ea48271"
-    },
-    {
-      "bytes": 2228715,
-      "path": "images/immagini 1/burro (10).png",
-      "sha256": "2de88454430abffcb65153d1334d4387218c62c355f339760786b7b94387fe3a"
-    },
-    {
-      "bytes": 2015978,
-      "path": "images/immagini 1/calzini (6).png",
-      "sha256": "3974c406724e4322ed010e14924a5ac8194e9b78056ed03c4e543b4396b8fb24"
-    },
-    {
-      "bytes": 1908777,
-      "path": "images/immagini 1/camion (4).png",
-      "sha256": "7f05f3865d33bbfabb8b1cc96b31314aa874ae462d10ae4e19b2fdf83cc053c7"
-    },
-    {
-      "bytes": 18889753,
-      "path": "images/immagini 1/cane (1).png",
-      "sha256": "9861ca3f313477e85556c92b6c4dd54e3c02c25e99e4310b7d7eed4860890d69"
-    },
-    {
-      "bytes": 18387779,
-      "path": "images/immagini 1/canguro (1).png",
-      "sha256": "032559f1f81299f1dbb160c729f5a3b58087f903f7830d8662fc66bb6f6979df"
-    },
-    {
-      "bytes": 13594554,
-      "path": "images/immagini 1/cappello (1).png",
-      "sha256": "ebb7d027e111c1679a4e41c7474c5e0c17f10820e66c2bb73fb23415c003856f"
-    },
-    {
-      "bytes": 2094428,
-      "path": "images/immagini 1/caramelle (3).png",
-      "sha256": "8af8a4bc97888104d59562ccd28ec17fe7ec90aec198666a43b2c5fe5f2ed40e"
-    },
-    {
-      "bytes": 2683687,
-      "path": "images/immagini 1/carote (5).png",
-      "sha256": "1164c20207851c178af2685339c48eab8292a1ec104633562f885b296be8baab"
-    },
-    {
-      "bytes": 16195302,
-      "path": "images/immagini 1/cavallo (1).png",
-      "sha256": "0dac96e2d74db13e9cea5619640936e1f552e6eb168589b2c49c1890109bf8e2"
-    },
-    {
-      "bytes": 1962063,
-      "path": "images/immagini 1/cellulare (6).png",
-      "sha256": "6b19482cf6e6523b899728571237c9ddbdb7e89b04f11a52330869591677f6d0"
-    },
-    {
-      "bytes": 3103088,
-      "path": "images/immagini 1/chiavi (5).png",
-      "sha256": "201c0776d6a4843af9d261085d42f491b3ccde608ebe47d3fe6cd5737b337162"
-    },
-    {
-      "bytes": 2838323,
-      "path": "images/immagini 1/chitarra (4).png",
-      "sha256": "7a5e71b5fa7493b9db45ac3fe3e02c89464536d6a565c859beec924a19181d0c"
-    },
-    {
-      "bytes": 17351666,
-      "path": "images/immagini 1/cintura (1).png",
-      "sha256": "037e5e8e65d3851ed1cb1c13391298fbf20a4eb5ce8c1f673db0c90d3ccaea90"
-    },
-    {
-      "bytes": 20855182,
-      "path": "images/immagini 1/coccodrillo (1).png",
-      "sha256": "b7c460e55aaceb72d22f1954b699fc3bb42ad1ad44ea8ee3f003b4ca654f8276"
-    },
-    {
-      "bytes": 2993885,
-      "path": "images/immagini 1/cocomero (3).png",
-      "sha256": "5f5ab2cb14dc65cb66905d93d9203f1dd6a1c171f77bafa2fe66d3e477b95f5c"
-    },
-    {
-      "bytes": 2168716,
-      "path": "images/immagini 1/colori.png",
-      "sha256": "81e6153c4704f7f1ace1e225050f163b41d96ec7f2b6f26b14845a45e3e76f21"
-    },
-    {
-      "bytes": 1798582,
-      "path": "images/immagini 1/coltello (5).png",
-      "sha256": "9d2a9d457bd0410beb431a39dbd54f3e4b1af7799f1e7e45768fad66a450bca3"
-    },
-    {
-      "bytes": 1735966,
-      "path": "images/immagini 1/computer (2).png",
-      "sha256": "c37181f6d95efd259757db2d7af2695420a0e9f189adc01e952a505168e946da"
-    },
-    {
-      "bytes": 1081307,
-      "path": "images/immagini 1/computer fisso (5).png",
-      "sha256": "300385a5e75d2e4600acecba462e066473e2dd38f1a671f2369c520e4b62f1f4"
-    },
-    {
-      "bytes": 18525395,
-      "path": "images/immagini 1/coniglio (1).png",
-      "sha256": "e2e50fc831eeb4c9a3666a61d712911324fda03d21af3190d438c43dcb847103"
-    },
-    {
-      "bytes": 2471140,
-      "path": "images/immagini 1/costruzioni (2).png",
-      "sha256": "9696daee6052a05f02d769d709c1989b0cf573b9cfc1a0ef15a178c2d2e2c5df"
-    },
-    {
-      "bytes": 2043588,
-      "path": "images/immagini 1/costume da donna (1).png",
-      "sha256": "c3d9d626c054a3bfd893363ce30ca0e31045bb9ceb86cd56185ba00fa154f3f3"
-    },
-    {
-      "bytes": 2907544,
-      "path": "images/immagini 1/costume da uomo (1).png",
-      "sha256": "281c5d668d43b7ebf18c75afdf6393bd0f9ac3d20c754f6a5172ad7d455fae7e"
-    },
-    {
-      "bytes": 19483453,
-      "path": "images/immagini 1/cracker (1).png",
-      "sha256": "1b2bc51851111054cb0ef53a44840cbdf0e7f716c3cb8dca4f1ae6e8e10b28f1"
-    },
-    {
-      "bytes": 2627876,
-      "path": "images/immagini 1/cucchiaio (10).png",
-      "sha256": "21a3a297a82f00d5de19b40510809db9751af30907a45ac4a1825771ff750bab"
-    },
-    {
-      "bytes": 2280049,
-      "path": "images/immagini 1/cuscino (5).png",
-      "sha256": "b6e7f762be6c9937bf7f01ff5124bb931d46a9e435aabf2b037ce334f0e32c5b"
-    },
-    {
-      "bytes": 14314930,
-      "path": "images/immagini 1/divano (1).png",
-      "sha256": "e49baf7d5ae95bf19751b9e7d799bc1f39664e188606e5147b99ab016b2adc46"
-    },
-    {
-      "bytes": 1351057,
-      "path": "images/immagini 1/e577e180-9062-4c4b-8799-674b0dfd1864.png",
-      "sha256": "0d561d981dbcd98fa77fe21cb10d80353e2c49ea5c9a24f4bc4daf4a38ca2cdd"
-    },
-    {
-      "bytes": 13442703,
-      "path": "images/immagini 1/elefante (1).png",
-      "sha256": "22ebadb0e92336e4d6725adbed0dd0140c5bc9af00cddd9aa57374e22f58deb6"
-    },
-    {
-      "bytes": 1489645,
-      "path": "images/immagini 1/elicottero (3).png",
-      "sha256": "444fe1663da9fff1e76bef5995da89d34b5467138b5a8406d99b01be08e91b1b"
-    },
-    {
-      "bytes": 3565551,
-      "path": "images/immagini 1/erba 02.png",
-      "sha256": "797837e12fe18c9a5c17c1d5537ca5a2b9eca7a6f1fe910e0ce2979dbd829972"
-    },
-    {
-      "bytes": 1848245,
-      "path": "images/immagini 1/fiore (4).png",
-      "sha256": "5104c2da3d4a779355e070596b74424229d7ba52a2602cd3fe0296fc9463d67f"
-    },
-    {
-      "bytes": 2181632,
-      "path": "images/immagini 1/foglia.png",
-      "sha256": "2f698e6ef6639ea639e2efd4c4ac94445bc191d97e08d1d5392c63d995645794"
-    },
-    {
-      "bytes": 2821132,
-      "path": "images/immagini 1/forbici (5).png",
-      "sha256": "3938ef884fe3a784c906d0b90349d8b1c758b1edd2c440bf8a9fd6a62949dd6a"
-    },
-    {
-      "bytes": 2221835,
-      "path": "images/immagini 1/forchetta02.png",
-      "sha256": "aeff48f1c779279f6fa1237223578b52c342240e22112b5f137898c031388936"
-    },
-    {
-      "bytes": 2545561,
-      "path": "images/immagini 1/formaggio (2).png",
-      "sha256": "8c888fb8ad0d025478df6fd0877d286cbbad47a0b72b97ac7ac73a3f18d24a74"
-    },
-    {
-      "bytes": 2698762,
-      "path": "images/immagini 1/fragole (3).png",
-      "sha256": "edaa1f4b9b62f64057d2d00564fd681c3cb038f5630d68c4dd47a3a4927a350e"
-    },
-    {
-      "bytes": 20271876,
-      "path": "images/immagini 1/gallina (1).png",
-      "sha256": "90080c3c7da0cfbaa06f11c266b6ab13b8988c22cdd072ad4c77795692e68d88"
-    },
-    {
-      "bytes": 2233148,
-      "path": "images/immagini 1/gatto (7).png",
-      "sha256": "5a531496a6104f9255a97338788186f5c05278ead6a813abd4150f394c85c599"
-    },
-    {
-      "bytes": 2711047,
-      "path": "images/immagini 1/gelato (2).png",
-      "sha256": "fb3c965d7601c51f1c50379025042e4999a72787360a7f6ca714316aa655244b"
-    },
-    {
-      "bytes": 14980778,
-      "path": "images/immagini 1/giraffa (1).png",
-      "sha256": "d1c119a3ccf5320fd4cef59cb0c29799a4cef2dd244b3faf61d669fd3107ced8"
-    },
-    {
-      "bytes": 2323822,
-      "path": "images/immagini 1/gonna 06.png",
-      "sha256": "c67574aa832d7302f58c6964505be95266085aafe78c4fda6d1abcfee2eaafa4"
-    },
-    {
-      "bytes": 13959678,
-      "path": "images/immagini 1/guanti (1).png",
-      "sha256": "9f2374874969a2c08837b9bed0a03fee4b6bf88add56e64b3175b4d8c84b460c"
-    },
-    {
-      "bytes": 2716963,
-      "path": "images/immagini 1/hamburger.png",
-      "sha256": "86955ac2aee4ca1023f8f01e6f8a4d6ae1d325352b8abcf0b23b919cbe4d257b"
-    },
-    {
-      "bytes": 2868911,
-      "path": "images/immagini 1/insalata (2).png",
-      "sha256": "c380e4e17c44d95e640bd40f94c11f60afbf7ea3a7f6625a0ab1fae0bd90874d"
-    },
-    {
-      "bytes": 2928014,
-      "path": "images/immagini 1/ippopotamo 02.png",
-      "sha256": "a9fc2d14d14ab1375b3032f2225134c3babc29ea04ac4b045fbeeaaa04c0610b"
-    },
-    {
-      "bytes": 2357153,
-      "path": "images/immagini 1/lampada (7).png",
-      "sha256": "fa8aca1d3c18d487a343df5e33204d8235478d24f9fc77ac05327b5cb24175a6"
-    },
-    {
-      "bytes": 1918547,
-      "path": "images/immagini 1/latte (3).png",
-      "sha256": "22e2c5df0a65e90fff001cac8793c63602296f1c7f9972badc7a5cb283b602a1"
-    },
-    {
-      "bytes": 1980467,
-      "path": "images/immagini 1/lavandino (2).png",
-      "sha256": "40b2af4741f3091d132243329318e1b2afc8197de999b8bd11817b63c18892d3"
-    },
-    {
-      "bytes": 1946579,
-      "path": "images/immagini 1/leone.png",
-      "sha256": "e0001a06da3caf33e2d744cecf80aadf040726ee33c3f6f401109c8200d09ad1"
-    },
-    {
-      "bytes": 1525597,
-      "path": "images/immagini 1/letto (4).png",
-      "sha256": "2c0d11f31fddf1d3b22d94ac5527f33974e38efcb87509379120faa8704a3328"
-    },
-    {
-      "bytes": 2096023,
-      "path": "images/immagini 1/libro.png",
-      "sha256": "cdf8d8dd6158ef73aed754dba089437b9b2d6f92dc313e7e6f04812aeb707351"
-    },
-    {
-      "bytes": 2333440,
-      "path": "images/immagini 1/macchina (10).png",
-      "sha256": "1106751ca3199fc7addecb1920e8ef1aeecd3bc6fa5656164fc524d5d05820cc"
-    },
-    {
-      "bytes": 1685766,
-      "path": "images/immagini 1/macchinina (3).png",
-      "sha256": "df8fe3e69b55cd167be1d8994200a8bb84bdd420c1a93e172244be3e4a955e36"
-    },
-    {
-      "bytes": 1877357,
-      "path": "images/immagini 1/maglietta (1).png",
-      "sha256": "0cc1b955c5b569cb6291010406e08bfa30b195d0493fd08ce2e788fd90b81599"
-    },
-    {
-      "bytes": 17905140,
-      "path": "images/immagini 1/maiale (1).png",
-      "sha256": "6b52d22d2f000163aaba2db0032255f2d8c3796aead298970f0865bc0ad23821"
-    },
-    {
-      "bytes": 2815673,
-      "path": "images/immagini 1/mais (3).png",
-      "sha256": "f05a5cd74a4502c529a670edf81f3b6f300f1d9bc563f56e11691f0b38f05d76"
-    },
-    {
-      "bytes": 2430555,
-      "path": "images/immagini 1/martello01.png",
-      "sha256": "43495b17cbd17363d6d22af3041fd25df1e23634f71a5b5c071b6fd5a1e7400c"
-    },
-    {
-      "bytes": 1877843,
-      "path": "images/immagini 1/mela.png",
-      "sha256": "85117fb1d48fc177e395b72a2bb1bffcd15750924a46559ffc3e059b8cdc1cc7"
-    },
-    {
-      "bytes": 2319483,
-      "path": "images/immagini 1/motocicletta (4).png",
-      "sha256": "61153ae342ba6335a1a1ae49bbfda9a1feac614adaa13ca97cc56b7849518c6c"
-    },
-    {
-      "bytes": 17013968,
-      "path": "images/immagini 1/mucca (1).png",
-      "sha256": "7fdf686b48562a1061c85e676436779967d69f1f93f5ac4384421dce5cd3a1ec"
-    },
-    {
-      "bytes": 1379628,
-      "path": "images/immagini 1/mutande (1).png",
-      "sha256": "f8b8f7753b2ef49eed03150447478432dae690cced4756c9df284f8bf6906299"
-    },
-    {
-      "bytes": 2939487,
-      "path": "images/immagini 1/nave (4).png",
-      "sha256": "fe6aa40a2f80ad17d08fa5f6fd96ca45f5fa8a9ac4ea7dd842fa99e0e077ec5d"
-    },
-    {
-      "bytes": 1560770,
-      "path": "images/immagini 1/occhiali (3).png",
-      "sha256": "26e027ee13d5c7856376fcee25e92a7fcb81922fced2fe2231c2e5cbd5224e8f"
-    },
-    {
-      "bytes": 2304461,
-      "path": "images/immagini 1/ombrello (5).png",
-      "sha256": "90e3fc28a6b728954225b587e9fc089fcb8479bd1df2753841e5cea1d4a1d17c"
-    },
-    {
-      "bytes": 2665531,
-      "path": "images/immagini 1/orologio (5).png",
-      "sha256": "b2eeca252648b96a70391e370865ef7e9c880008ee423185f08c303e8af571f1"
-    },
-    {
-      "bytes": 19543345,
-      "path": "images/immagini 1/orso (1).png",
-      "sha256": "580fac09b26e90fd2979654da2974235e87428ca9974c80ce59212068e553aeb"
-    },
-    {
-      "bytes": 732717,
-      "path": "images/immagini 1/palla (5).png",
-      "sha256": "6fcdfb0b48323a8390085f1a7f4db5ce43fbe3fe2799342fd7e923df5a97ac3a"
-    },
-    {
-      "bytes": 1753415,
-      "path": "images/immagini 1/pane (3).png",
-      "sha256": "3052f714a12350437b5c63aa18585479f746c41ba73170b5f2823a91e1a0ce77"
-    },
-    {
-      "bytes": 23619,
-      "path": "images/immagini 1/panino.jpg",
-      "sha256": "79248d3c4f459ee9e768e0195a15d3f8245a585bb4e984280338c9dcfdce7ac3"
-    },
-    {
-      "bytes": 18825278,
-      "path": "images/immagini 1/papera (1).png",
-      "sha256": "759e369ea37bf016de21d2a66bad2e557494cdfa1d3ec489afc9201a8e3b811f"
-    },
-    {
-      "bytes": 2510395,
-      "path": "images/immagini 1/patatine (3).png",
-      "sha256": "446cd11c0dc6c46f563e9e85cabcabe5051b62f4649040994c81133e1a827dea"
-    },
-    {
-      "bytes": 2715788,
-      "path": "images/immagini 1/pecora.png",
-      "sha256": "a170a6155174508a6e55dccfa09b82c251ec3aad8d5a5ada1781b01a4033c1c8"
-    },
-    {
-      "bytes": 14783862,
-      "path": "images/immagini 1/pesce (1).png",
-      "sha256": "00d588a9f4e38d66b838bb7b57338596968a0fe87f75763d1bb281a2139ca165"
-    },
-    {
-      "bytes": 1752382,
-      "path": "images/immagini 1/pettine.png",
-      "sha256": "b07bbb9fbb5f2a40e4c954e4a4fccf0252ab139fa1ee7aec279727ac8cf31697"
-    },
-    {
-      "bytes": 2163985,
-      "path": "images/immagini 1/piatto(1).png",
-      "sha256": "4168e2bded7c86930aee63574fa239bb83c0b1b9990213d80c2d5d1ce2bbc74f"
-    },
-    {
-      "bytes": 3089570,
-      "path": "images/immagini 1/piscina (3).png",
-      "sha256": "cfd6b655679ea1712d58973b3d73070053f5ee50394b5d0d5bc9e795861fbd8f"
-    },
-    {
-      "bytes": 1562720,
-      "path": "images/immagini 1/pizza (02).png",
-      "sha256": "fd4b59d2d4786c76ed96c7f09f73f2476946fe13ff90819b9914ced31925b14e"
-    },
-    {
-      "bytes": 2123711,
-      "path": "images/immagini 1/plastilina (2).png",
-      "sha256": "4c4190c41ce17e2cb4d12927896f8c0c93cec37572e0903520df1c9d60e93731"
-    },
-    {
-      "bytes": 2648954,
-      "path": "images/immagini 1/pomodori (3).png",
-      "sha256": "173deb5892bbb273a8eb808be75f4aa91f81ecfdc5599edc16be97f0ea97c17d"
-    },
-    {
-      "bytes": 2113612,
-      "path": "images/immagini 1/pop corn (2).png",
-      "sha256": "fc6825824951460f74f0a2c4f464effbbf4e614f10cfd773608a6c5f8c861ecc"
-    },
-    {
-      "bytes": 2244492,
-      "path": "images/immagini 1/puzzle (2).png",
-      "sha256": "890259a37b88019aa3a50e2f4c4347d92d7f19d0244d45a9141afe4f67879628"
-    },
-    {
-      "bytes": 2491720,
-      "path": "images/immagini 1/riso (4).png",
-      "sha256": "c6fe280b1e614e4cfd96fcc7f7bdf7f0103e78d9cbe27f6015c6ac08f18205e9"
-    },
-    {
-      "bytes": 1406127,
-      "path": "images/immagini 1/sapone (4).png",
-      "sha256": "48884d1baaa6cfb843273f44dabb660fc60d519220489c355ed3e60c8a53eb37"
-    },
-    {
-      "bytes": 1828308,
-      "path": "images/immagini 1/sapone liquido (10).png",
-      "sha256": "03338afbbc61c4d88445b3e5a153295dbc5fe2cbfca900a404b4e9b7948ba537"
-    },
-    {
-      "bytes": 2887207,
-      "path": "images/immagini 1/scala (3).png",
-      "sha256": "9c944367c61f8f60374ed93c3f87853fa3b6c73617824414c98c2d8f1c66a187"
-    },
-    {
-      "bytes": 2521256,
-      "path": "images/immagini 1/scarpe (10).png",
-      "sha256": "6e35b46da99a701a8121adbcec2f9097c08e10f6e880385ad3d2384238d482f1"
-    },
-    {
-      "bytes": 2382998,
-      "path": "images/immagini 1/scivolo (3).png",
-      "sha256": "f27909c4ee913747b962cd0d7572aa9f0d326f7c207f72c096de99745b6967a7"
-    },
-    {
-      "bytes": 2226875,
-      "path": "images/immagini 1/scopa (4).png",
-      "sha256": "00d66cdcecb324b6ba79fa65a86f3678f131827360d7044a4e55c78af849e8da"
-    },
-    {
-      "bytes": 2008068,
-      "path": "images/immagini 1/secchiello e paletta (2).png",
-      "sha256": "febd9c86248b112aeef2bbfb3adde388aa68dc843b591a57d72a2f7d548cd9c1"
-    },
-    {
-      "bytes": 1926792,
-      "path": "images/immagini 1/secchio (2).png",
-      "sha256": "40d790f969a396d2cb4a978d36505fc0fdb9af68e4e87a0b9aeafd0b4e993c8a"
-    },
-    {
-      "bytes": 1787750,
-      "path": "images/immagini 1/sedia (2).png",
-      "sha256": "725c9f4728582758f95b8a6dbd4b0067c37b12c3fde2f19be02b9e2de1108ba6"
-    },
-    {
-      "bytes": 1791312,
-      "path": "images/immagini 1/serpente (1).png",
-      "sha256": "ed6ebea5d3de987855d8cc9cb02be52ae54cfd68c54625020d3edac2ee152866"
-    },
-    {
-      "bytes": 2698069,
-      "path": "images/immagini 1/spaghetti (2).png",
-      "sha256": "71b7f28be5094ad537328ac9210ea7dcde1ba8b706216104085b78eac44b1efe"
-    },
-    {
-      "bytes": 1725709,
-      "path": "images/immagini 1/spazzolino.png",
-      "sha256": "8ddd5c8a8771a574de75f7bf5b358374039e71334b6cd527414a2ea76a6c3353"
-    },
-    {
-      "bytes": 871576,
-      "path": "images/immagini 1/succo (5).png",
-      "sha256": "81d286154eb59fb591a09a4e74a1a089dbed5801d3346d40a90f34dd91370dee"
-    },
-    {
-      "bytes": 17868371,
-      "path": "images/immagini 1/tacchino (1).png",
-      "sha256": "7a19f2d5522faeb69e25e7179da3e66927ec0fffccc47eb409ac405d952996db"
-    },
-    {
-      "bytes": 20174195,
-      "path": "images/immagini 1/tartaruga (1).png",
-      "sha256": "2e4c0411e356fe649d2e831278603001fe3851f4914e7b110ca572b24647d132"
-    },
-    {
-      "bytes": 1273819,
-      "path": "images/immagini 1/tavolo (1).png",
-      "sha256": "9b7c5f18a8e1238025f3d5beabb987d8be5e1d0007c2c02a3e207652a685eadc"
-    },
-    {
-      "bytes": 22416951,
-      "path": "images/immagini 1/tigre (1).png",
-      "sha256": "768bd95c0b9d3fe1833083111290b3b637e9985797094f2cde10bc28612db7b0"
-    },
-    {
-      "bytes": 14543145,
-      "path": "images/immagini 1/topo (1).png",
-      "sha256": "665c3b4f6785981469bd09812942b9bbc24c384eef223310a6f707eb30af9c6b"
-    },
-    {
-      "bytes": 2415849,
-      "path": "images/immagini 1/torta01.png",
-      "sha256": "a34ea20ed83c58fd660339a039de6044204f6060542c5ac5ddd4b7822d0ad2f3"
-    },
-    {
-      "bytes": 2533598,
-      "path": "images/immagini 1/trattore01.png",
-      "sha256": "2cd2d86afb2c437db420f0e1d857c03ba2faee5cc2f3ef9329dc6c77f1be832b"
-    },
-    {
-      "bytes": 2386404,
-      "path": "images/immagini 1/treno (3).png",
-      "sha256": "e935a478246c7e2262d3ff6a67fc1d21582115c113454881413475f290389c3b"
-    },
-    {
-      "bytes": 2287283,
-      "path": "images/immagini 1/tv (4).png",
-      "sha256": "ced21c4d714600dd3d55c4a904ebb93bc392215e95fb2930612683b78dc98be8"
-    },
-    {
-      "bytes": 2342450,
-      "path": "images/immagini 1/uccello (7).png",
-      "sha256": "537923b2821fb7306fce9a3704fee222e792b67d32e99711f27168177708f020"
-    },
-    {
-      "bytes": 1013097,
-      "path": "images/immagini 1/uova02.png",
-      "sha256": "8072eca7c514443bb6ad0568db09b0045f5592227d83495830fe96ec83f31f70"
-    },
-    {
-      "bytes": 2986880,
-      "path": "images/immagini 1/uva (5).png",
-      "sha256": "25817cec7b03fe82c2d825a4b78dc3ecf6ff0eced2364ef05a8a6e28107a8c87"
-    },
-    {
-      "bytes": 2212524,
-      "path": "images/immagini 1/vasca da bagno.png",
-      "sha256": "7b344be9e797b7d73e25a12d5a2a0e56975887fe7735bd0baa8c4cfe0c2af006"
-    },
-    {
-      "bytes": 16580344,
-      "path": "images/immagini 1/vigili del fuoco (1).png",
-      "sha256": "0f1086f35269729c935df699d2afe905379e8c77689d9bec484c5802539cc183"
-    },
-    {
-      "bytes": 14550674,
-      "path": "images/immagini 1/zaino (1).png",
-      "sha256": "d6b727e38e0294844234c443723d92538c38109bbd807476a83be9007b765307"
-    },
-    {
-      "bytes": 2720007,
-      "path": "images/immagini 1/zebra (1).png",
-      "sha256": "271525e8e5b2af3ce7ff69da065c77f57052079d825bf9389234c763c28e24d3"
-    },
-    {
-      "bytes": 34009,
-      "path": "images/numeri/0.jpg",
-      "sha256": "39235d5159a6a74894a786ab5365a1e7d8020ee1651d6080ab4b8f2a8dea84dd"
-    },
-    {
-      "bytes": 13400,
-      "path": "images/numeri/1-2.jpg",
-      "sha256": "2f85f72e49b3077f296c2988a70e3837d80d02457d28c2e4536d2072aca79083"
-    },
-    {
-      "bytes": 13400,
-      "path": "images/numeri/1.jpg",
-      "sha256": "2f85f72e49b3077f296c2988a70e3837d80d02457d28c2e4536d2072aca79083"
-    },
-    {
-      "bytes": 35989,
-      "path": "images/numeri/2-2.jpg",
-      "sha256": "c1593174b390a59fa73ea41dfbf6ab60970636fae5de4fe8b41ab4b23454ac09"
-    },
-    {
-      "bytes": 35989,
-      "path": "images/numeri/2.jpg",
-      "sha256": "c1593174b390a59fa73ea41dfbf6ab60970636fae5de4fe8b41ab4b23454ac09"
-    },
-    {
-      "bytes": 34849,
-      "path": "images/numeri/3-2.jpg",
-      "sha256": "855347fbdad4a73750a4367994a0d2efd138c9b1d260f9877356276c08d63d23"
-    },
-    {
-      "bytes": 34849,
-      "path": "images/numeri/3.jpg",
-      "sha256": "855347fbdad4a73750a4367994a0d2efd138c9b1d260f9877356276c08d63d23"
-    },
-    {
-      "bytes": 26331,
-      "path": "images/numeri/4-2.jpg",
-      "sha256": "3ee2d47cbef7672444280d5badeaae69605edc08c4040e1a5e998fa026a22a86"
-    },
-    {
-      "bytes": 26331,
-      "path": "images/numeri/4.jpg",
-      "sha256": "3ee2d47cbef7672444280d5badeaae69605edc08c4040e1a5e998fa026a22a86"
-    },
-    {
-      "bytes": 28840,
-      "path": "images/numeri/5-2.jpg",
-      "sha256": "689ed9bd94f0891e7c4f4512674bef0114489d4e264a321f3f7c84c67ca478b5"
-    },
-    {
-      "bytes": 28840,
-      "path": "images/numeri/5.jpg",
-      "sha256": "689ed9bd94f0891e7c4f4512674bef0114489d4e264a321f3f7c84c67ca478b5"
-    },
-    {
-      "bytes": 35980,
-      "path": "images/numeri/6-2.jpg",
-      "sha256": "166f0cd3840220a3004405427159a44f230be15a87ca2c525b5aaa06ce2b3d63"
-    },
-    {
-      "bytes": 35980,
-      "path": "images/numeri/6.jpg",
-      "sha256": "166f0cd3840220a3004405427159a44f230be15a87ca2c525b5aaa06ce2b3d63"
-    },
-    {
-      "bytes": 26519,
-      "path": "images/numeri/7-2.jpg",
-      "sha256": "13e29dccc163e1a7cdf7fb8bafaf70508f2f1cc488d21181c7dd6ca587a7550a"
-    },
-    {
-      "bytes": 26519,
-      "path": "images/numeri/7.jpg",
-      "sha256": "13e29dccc163e1a7cdf7fb8bafaf70508f2f1cc488d21181c7dd6ca587a7550a"
-    },
-    {
-      "bytes": 45059,
-      "path": "images/numeri/8-2.jpg",
-      "sha256": "43f245aba6c7436a15d7eab8e5f2c2c1dca9bfbabe90bb6dea53ed57ca59f07b"
-    },
-    {
-      "bytes": 45059,
-      "path": "images/numeri/8.jpg",
-      "sha256": "43f245aba6c7436a15d7eab8e5f2c2c1dca9bfbabe90bb6dea53ed57ca59f07b"
-    },
-    {
-      "bytes": 37242,
-      "path": "images/numeri/9-2.jpg",
-      "sha256": "387dde2af1dd1d30553e88ff455c15af23e2132607b5d2b4013868f7e6931e08"
-    },
-    {
-      "bytes": 37242,
-      "path": "images/numeri/9.jpg",
-      "sha256": "387dde2af1dd1d30553e88ff455c15af23e2132607b5d2b4013868f7e6931e08"
-    },
-    {
-      "bytes": 1962729,
-      "path": "images/oggetti/bicchiere05.png",
-      "sha256": "4a2f901f640aef3071bafee27f8eed9e6ea5d46f64ddd674a41c8d5c387fe0eb"
-    },
-    {
-      "bytes": 2187752,
-      "path": "images/oggetti/bicicletta (5).png",
-      "sha256": "fa1d90cf25535ffe4b6f0cf23bfe72663cfa94138af26648854c40e0185252d2"
-    },
-    {
-      "bytes": 1756779,
-      "path": "images/oggetti/biscotti (3).png",
-      "sha256": "2fbf24f5a619f5d3c5fd178ed365925e2891ff73cfd671133a8131576e5d193e"
-    },
-    {
-      "bytes": 2228715,
-      "path": "images/oggetti/burro (10).png",
-      "sha256": "2de88454430abffcb65153d1334d4387218c62c355f339760786b7b94387fe3a"
-    },
-    {
-      "bytes": 2015978,
-      "path": "images/oggetti/calzini (6).png",
-      "sha256": "3974c406724e4322ed010e14924a5ac8194e9b78056ed03c4e543b4396b8fb24"
-    },
-    {
-      "bytes": 1908777,
-      "path": "images/oggetti/camion (4).png",
-      "sha256": "7f05f3865d33bbfabb8b1cc96b31314aa874ae462d10ae4e19b2fdf83cc053c7"
-    },
-    {
-      "bytes": 18889753,
-      "path": "images/oggetti/cane (1).png",
-      "sha256": "9861ca3f313477e85556c92b6c4dd54e3c02c25e99e4310b7d7eed4860890d69"
-    },
-    {
-      "bytes": 18387779,
-      "path": "images/oggetti/canguro (1).png",
-      "sha256": "032559f1f81299f1dbb160c729f5a3b58087f903f7830d8662fc66bb6f6979df"
-    },
-    {
-      "bytes": 13594554,
-      "path": "images/oggetti/cappello (1).png",
-      "sha256": "ebb7d027e111c1679a4e41c7474c5e0c17f10820e66c2bb73fb23415c003856f"
-    },
-    {
-      "bytes": 3103088,
-      "path": "images/oggetti/chiavi (5).png",
-      "sha256": "201c0776d6a4843af9d261085d42f491b3ccde608ebe47d3fe6cd5737b337162"
-    },
-    {
-      "bytes": 170928,
-      "path": "images/posate/coltello.jpg",
-      "sha256": "36ff43a399fd9985c7fc21399092fe76ac114cf94660e59b63f4a0254d5e0457"
-    },
-    {
-      "bytes": 105477,
-      "path": "images/posate/cucchiaio.jpg",
-      "sha256": "86bb0cda0d933ed89743c4f6317679c731607ad57af18b4b76d86a6bfe77620a"
-    },
-    {
-      "bytes": 52852,
-      "path": "images/posate/forchetta 01 copia.jpg",
-      "sha256": "3af172dedb27a095f83429456faf7d5f13f7fdc7f3e314c954487a1490b65416"
-    },
-    {
-      "bytes": 1198064,
-      "path": "images/sopreso bambino 3.png",
-      "sha256": "2883b26a916853079990d9c43eac4531d3dd450a9668bf043b9dfad2aefc5410"
-    },
-    {
-      "bytes": 1288821,
-      "path": "images/spaventato bambino 3.png",
-      "sha256": "69cf792264b016a67f3f25d930d7f80c8271785e730c797e94567528661cdf34"
-    },
-    {
-      "bytes": 1224982,
-      "path": "images/triste bambino 3.png",
-      "sha256": "65a571212c1f07340e1f690b9502204de04cf1ebe0d9b995a1872ce29e42fe0d"
-    },
-    {
-      "bytes": 1552100,
-      "path": "images/uomo arrabbiato 3.png",
-      "sha256": "c5c626e5d4454c52c8020d5b4b8db34c08cfae69c465f4ed0e12d0f8bae4de11"
-    },
-    {
-      "bytes": 1633524,
-      "path": "images/uomo felice 3.png",
-      "sha256": "d80821cbc923da923b77a5af2bfe9f9b113d37c0d684851aa0eddd5e1c464308"
-    },
-    {
-      "bytes": 1408739,
-      "path": "images/uomo sorpreso 3.png",
-      "sha256": "eac9e4c1f327aff7b55c8227cacf1aef6033bf723620dc8a6ca5bc1dd890e97b"
-    },
-    {
-      "bytes": 1409153,
-      "path": "images/uomo triste 3.png",
-      "sha256": "68d67ab774db930625faafd4380751001d73900f958700a97ed3cacb3a0a4ab0"
-    },
-    {
-      "bytes": 2678908,
-      "path": "images/vestiti/calzini.png",
-      "sha256": "70d29eafade2f5ace2637b0bc9b8abb8f627efb76259937f24fb2de111ca68f6"
-    },
-    {
-      "bytes": 3040950,
-      "path": "images/vestiti/camicia_2.png",
-      "sha256": "3a542456a342b45d669da240c486ffac1767cf7a83ec0de70dcc74c528002f4b"
-    },
-    {
-      "bytes": 2794917,
-      "path": "images/vestiti/cappello.png",
-      "sha256": "e99ba91b34ae82d9da16a705dbe5346cbb9fdc83af016f155d590f2c734c235d"
-    },
-    {
-      "bytes": 2022458,
-      "path": "images/vestiti/giubbino.png",
-      "sha256": "ffe10b55de440102835bcf09f75a66e0d066c6f12c5e6717fd12fcec1cd7eefb"
-    },
-    {
-      "bytes": 2422848,
-      "path": "images/vestiti/gonna.png",
-      "sha256": "b82319568af2c2870e77197d7269ee4a66045dfeaa5ae159fd4af31551f6d706"
-    },
-    {
-      "bytes": 2241715,
-      "path": "images/vestiti/guanti.png",
-      "sha256": "93587f834cdac468eeec4420578463948b34f0e08f41df21215cfff0bb5a2687"
-    },
-    {
-      "bytes": 2174260,
-      "path": "images/vestiti/maglia.png",
-      "sha256": "c4b3e8d144bb035e2746fe5130eb95d88987e4179c7aaa575c5b1578a3868744"
-    },
-    {
-      "bytes": 2403000,
-      "path": "images/vestiti/maglietta.png",
-      "sha256": "92994c8ca220d7513d5a155ef54cd3ec1e1a262d457591955ab6e2ee969fcbd4"
-    },
-    {
-      "bytes": 1687275,
-      "path": "images/vestiti/mutande.png",
-      "sha256": "8174e845dc398ddccc487898c9d7b3194310b8ea1e1b1705ee664cf7edfbc08b"
-    },
-    {
-      "bytes": 2005876,
-      "path": "images/vestiti/occhiali.png",
-      "sha256": "66428b336c853d133469974f401ae14d24519f0a04d2471c6ec89477beb3b115"
-    },
-    {
-      "bytes": 2338441,
-      "path": "images/vestiti/pantaloni_rettanfolare.png",
-      "sha256": "584119654f3ad380182797eca10ac1a44e28bec7abb1a8b892743394cb91d204"
-    },
-    {
-      "bytes": 2043804,
-      "path": "images/vestiti/pigiama.png",
-      "sha256": "096226939308460441df2ca37a4e0bc7b489cea2234caed2167c84976c01d4d8"
-    },
-    {
-      "bytes": 2090702,
-      "path": "images/vestiti/scarpe.png",
-      "sha256": "855e7cb0029f8643c8358ea8157bc593e01a97cd5d6554ec7adf7824142df47d"
-    }
-  ],
-  "folders": [
-    "acceso e spento",
-    "aperto e chiuso",
-    "azioni",
-    "colori",
-    "emozioni",
-    "frutta",
-    "gesti",
-    "immagini 1",
-    "numeri",
-    "oggetti",
-    "posate",
-    "vestiti"
-  ],
-  "id": "a018ddd080c5edfc09899f2a46e446ff805610e634e42825f27fb09bb353f1ff",
-  "images": 360,
-  "kind": "lexica-library-index",
-  "sha256": "a018ddd080c5edfc09899f2a46e446ff805610e634e42825f27fb09bb353f1ff",
-  "url": "."
+    "kind":  "lexica-library-index",
+    "id":  "3524e389ab96e7ab50087e091d8e6490a8f761c328b59c4a0fbd3d43f0616453",
+    "builtAt":  "2026-09-09T03:49:39.8375950Z",
+    "url":  ".",
+    "sha256":  "3524e389ab96e7ab50087e091d8e6490a8f761c328b59c4a0fbd3d43f0616453",
+    "cards":  74,
+    "decks":  7,
+    "images":  307,
+    "icons":  7,
+    "catalog":  {
+                    "path":  "catalog.json",
+                    "sha256":  "6fab73786cf4f042c58b1e78511f4fa3468039e48aef30afc4ea70bcc7c1e491",
+                    "bytes":  30187
+                },
+    "folders":  [
+                    "acceso e spento",
+                    "aperto e chiuso",
+                    "azioni",
+                    "colori",
+                    "emozioni",
+                    "frutta",
+                    "gesti",
+                    "immagini 1",
+                    "numeri",
+                    "oggetti",
+                    "posate",
+                    "vestiti"
+                ],
+    "files":  [
+                  {
+                      "path":  "icons/bocca parlare.png",
+                      "sha256":  "1213e93598aa28e06e237049a262585ad2a5737536aa7817df43d3edddf08998",
+                      "bytes":  375684
+                  },
+                  {
+                      "path":  "icons/icona dita alzate 1.png",
+                      "sha256":  "0933766c8cb5d56d3c893b1805ecf852d346da498449787a297fd5472576b724",
+                      "bytes":  656645
+                  },
+                  {
+                      "path":  "icons/icona dita alzate 2.png",
+                      "sha256":  "8b662942100c4cbfbdfa233e8c237dd7be0d0a34a68ac879d142b2a70e5f6c0a",
+                      "bytes":  460297
+                  },
+                  {
+                      "path":  "icons/icona dita alzate 3.png",
+                      "sha256":  "9c57c8e6532dd8fea3f653e25e1720a3369fa291bb67e46fccee2b6a0a1de2d0",
+                      "bytes":  486986
+                  },
+                  {
+                      "path":  "icons/icona dita alzate 4.png",
+                      "sha256":  "6f01be0b8a644c4275c36466e765ae8b777ab406a939643d941c54255c1368c1",
+                      "bytes":  546676
+                  },
+                  {
+                      "path":  "icons/icona mano aperta.png",
+                      "sha256":  "a08997390d964e8b63cd498850c00beec41254e2b096c221a0c8d2e170466b98",
+                      "bytes":  627118
+                  },
+                  {
+                      "path":  "icons/icona mano chiusa.png",
+                      "sha256":  "3e9695fcb841c8789f71b598089b0fa7f313f6793dc0b61dd10b5827aca518d0",
+                      "bytes":  518507
+                  },
+                  {
+                      "path":  "images/acceso e spento/candela accesa.png",
+                      "sha256":  "a0da8107246aedf39e6706ac6bce0ab224944298ffc141b63a8807622f76d15c",
+                      "bytes":  1120360
+                  },
+                  {
+                      "path":  "images/acceso e spento/candela spenta fumo.png",
+                      "sha256":  "6599dff7abb8e039e4554496beca683ed7c8bbd2c2bd42a0b5afd38d69f23e41",
+                      "bytes":  1304547
+                  },
+                  {
+                      "path":  "images/acceso e spento/candela spenta.png",
+                      "sha256":  "422a350f008768e86f0b215b8b02b1d1994365758d19aa36951cd1ed162f4623",
+                      "bytes":  1345310
+                  },
+                  {
+                      "path":  "images/acceso e spento/gioco bruco acceso.png",
+                      "sha256":  "1dd65da2a0af21fb314b5a6faaf086a4d06f325940fe9c1fcccd39ca61097bdc",
+                      "bytes":  1545710
+                  },
+                  {
+                      "path":  "images/acceso e spento/gioco bruco spento.png",
+                      "sha256":  "d7b185264f318ebf53fb6fb853f7d9fd0bcdf99cdd7d6aae59335126e59a4031",
+                      "bytes":  1502927
+                  },
+                  {
+                      "path":  "images/acceso e spento/lampada accesa.png",
+                      "sha256":  "68c345de60e1cc323d3175694e2fe564d3bf4df15a61fe8e48d52d384be7617e",
+                      "bytes":  1766063
+                  },
+                  {
+                      "path":  "images/acceso e spento/lampada spenta.png",
+                      "sha256":  "c2537edd2ba5d34d882aa1c0483ec64b88201decfa453cd7492f113407383b7e",
+                      "bytes":  1665067
+                  },
+                  {
+                      "path":  "images/acceso e spento/lampadario acceso.png",
+                      "sha256":  "f7744e237a06212ff629c5a53c62ab2b26fb67e672293d2056c95d6421146454",
+                      "bytes":  2067860
+                  },
+                  {
+                      "path":  "images/acceso e spento/lampadario spento.png",
+                      "sha256":  "e29e715b10bd8738cddf6d7bdb1b74de88b8069312d85f2eff46c88dfc186073",
+                      "bytes":  2258112
+                  },
+                  {
+                      "path":  "images/acceso e spento/lavatrice accesa.png",
+                      "sha256":  "78d29b3b3cfc77cc3d546b45da84f251bd9a872b71ccee780ed920c75450e781",
+                      "bytes":  1668516
+                  },
+                  {
+                      "path":  "images/acceso e spento/lavatrice spenta.png",
+                      "sha256":  "30029d93f68438462e3fb14c147bb9171376a3f5fc6a204cb4ab39b00c549bd8",
+                      "bytes":  1651517
+                  },
+                  {
+                      "path":  "images/acceso e spento/torcia elettrica accesa.png",
+                      "sha256":  "120427005f61ec2a20f152e57edce120cd18abfcf605781d71d617f55fab2264",
+                      "bytes":  1396731
+                  },
+                  {
+                      "path":  "images/acceso e spento/torcia elettrica spenta.png",
+                      "sha256":  "c5b1bd9a15950659046bb51485dfc0ee964e596cd95e6716f5ab2518353d3e6f",
+                      "bytes":  1416377
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/cassa aperta.png",
+                      "sha256":  "ef545e03de3144544623657e46b5381957a2e49ca2cc8d77c6bcfbf4330578c6",
+                      "bytes":  1293168
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/cassa chiusa.png",
+                      "sha256":  "8b411704ec09042e29d8e01c5e80004a1faf6e1b85d35d31efac1b4e378f6c78",
+                      "bytes":  960170
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/cassettiera aperta.png",
+                      "sha256":  "7d41ce19f21d4f6985dfa8bbf5551bddbf9320eb9257bee2b29c90d901fdc841",
+                      "bytes":  1845614
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/cassettiera chousa.png",
+                      "sha256":  "7c051b3d7b82b028028ecaf5ec903cbc6e6f5156f27a5afa639d5359b9ecd376",
+                      "bytes":  1979595
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/libro aperto.png",
+                      "sha256":  "b7539ac063a350b0bc0c063c1c196afb11bf71d0705023fece184525bda810fa",
+                      "bytes":  1842353
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/libro chiuso.png",
+                      "sha256":  "3c802cd549d6388be920016349b8f5f455db651d9e5b754ec70e94b31bf67437",
+                      "bytes":  1508112
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/ombrello aperto.png",
+                      "sha256":  "43dd215284ee5b481fcc7167dd52f12e89238728fd2a05bac62d101c1f961176",
+                      "bytes":  527304
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/ombrello chiuso.png",
+                      "sha256":  "363483f2d55f4258f81b3d00b31e332222dbe6602b87da11b77530ddf8eb811c",
+                      "bytes":  189698
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/porta aperta 2.png",
+                      "sha256":  "305c129a88dc1d1a1978954864b667bde546b029c6ade60062d67b249a22d645",
+                      "bytes":  1592681
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/porta aperta.png",
+                      "sha256":  "c8d3144ed3aeea1d98f63c529a18a85bf8523584e08206169909d3412b910c03",
+                      "bytes":  1768202
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/porta chiusa 2.png",
+                      "sha256":  "a2d9fc5c93f728111d17d306a94b57dcf50b3b589dcc729e0c59729d3180e824",
+                      "bytes":  1986330
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/porta chiusa.png",
+                      "sha256":  "8a4b76b2e28d4557e2f849b017edf511251e44d1b323a7aba19799b9f273eb88",
+                      "bytes":  1690859
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/scatola aperta.png",
+                      "sha256":  "2b01d6a5cb19a9496d6b541a6c9ff5486f6859434c34e3f8ca4d42715a8e9e35",
+                      "bytes":  588277
+                  },
+                  {
+                      "path":  "images/aperto e chiuso/scatola chiusa.png",
+                      "sha256":  "42b96c1be1c370ad104ab3c909ce048ccc90a729bda0449e38b8d4884f7be3be",
+                      "bytes":  856027
+                  },
+                  {
+                      "path":  "images/azioni/abbottona 2.jpg",
+                      "sha256":  "f099d49960a73813c70133adcdc9eae18737d8d6d618157be81ac97e65f70c8d",
+                      "bytes":  75233
+                  },
+                  {
+                      "path":  "images/azioni/abbottona.jpg",
+                      "sha256":  "52261bccf5e39f54f49a41034a1cafb58cb62e37c75139727ada65e41818e857",
+                      "bytes":  79976
+                  },
+                  {
+                      "path":  "images/azioni/abbraccia 1.jpg",
+                      "sha256":  "fd9d307f15b7d1f764096ef3010d91d5c892b1bd7469d15bda59f579533b4460",
+                      "bytes":  517738
+                  },
+                  {
+                      "path":  "images/azioni/abbraccia 2.jpg",
+                      "sha256":  "e0fb596debd49cdfdbd5bd5fa916659c1a35e3b35c7e3ed18287db9754847a04",
+                      "bytes":  214366
+                  },
+                  {
+                      "path":  "images/azioni/abbraccia.jpg",
+                      "sha256":  "b5d47e16ce6487e42c6710de195177a99813ae11ee2a668685e1fad45aae5d4a",
+                      "bytes":  451710
+                  },
+                  {
+                      "path":  "images/azioni/abbracciare.jpg",
+                      "sha256":  "0178894562683601ef35a0972f5d0d21ef6d51f6d5bf4ed6aae04566f0d37332",
+                      "bytes":  534197
+                  },
+                  {
+                      "path":  "images/azioni/allaccia 2.jpg",
+                      "sha256":  "c9520dbf9613761a82cd6aaf0b002c4c25e894a7c2f8449df3c06e9a324248d9",
+                      "bytes":  69437
+                  },
+                  {
+                      "path":  "images/azioni/allaccia.jpg",
+                      "sha256":  "d83c701127e617fd9c965f0f6370c09e4521a0aa80bab92ef8cfc18fc62fbdb0",
+                      "bytes":  73654
+                  },
+                  {
+                      "path":  "images/azioni/altalena 1.jpg",
+                      "sha256":  "5e6622cc0476285b5678a1e7b6ad114e1367609cc540cd1f3015c83dd6ea4e6d",
+                      "bytes":  121046
+                  },
+                  {
+                      "path":  "images/azioni/altalena 2.jpg",
+                      "sha256":  "3ff688c8e232d131f2648fb57757c735c3a55f9db06a99073080aeea39568a43",
+                      "bytes":  132973
+                  },
+                  {
+                      "path":  "images/azioni/alza la mano 2.jpg",
+                      "sha256":  "7f93266186e2a0855ad0f1ef6d692937c8a054615e5319544db3af35723fccec",
+                      "bytes":  68540
+                  },
+                  {
+                      "path":  "images/azioni/alza la mano.jpg",
+                      "sha256":  "8caa38d7936fb7658081760b5ccf9a81ddf43a2c02f1f9e6b2ad4474d3bade20",
+                      "bytes":  65547
+                  },
+                  {
+                      "path":  "images/azioni/annusa 2.jpg",
+                      "sha256":  "23eb88af34c82f5506ecec187335153f1ca1986cf2c42af8b9bb693adae65587",
+                      "bytes":  64213
+                  },
+                  {
+                      "path":  "images/azioni/annusa.jpg",
+                      "sha256":  "b1a45d35ae182ae8399780700331d6d99260de07a023de3c59b0bde98688189a",
+                      "bytes":  61110
+                  },
+                  {
+                      "path":  "images/azioni/appende 2.jpg",
+                      "sha256":  "51f6550b48eb18be033b83453fa58f5ae73d679f8775d83ca59937342c7f311b",
+                      "bytes":  53850
+                  },
+                  {
+                      "path":  "images/azioni/appende.jpg",
+                      "sha256":  "80d286096588e1ee11dbfbc8626c1333a341bbde65eaf19bc58523286e134a7d",
+                      "bytes":  52577
+                  },
+                  {
+                      "path":  "images/azioni/bacio 1.jpg",
+                      "sha256":  "7b2a1e16750674abc65d37ba13f8bf8644303b9be2e6a4cad760b7177e53fdb0",
+                      "bytes":  28059
+                  },
+                  {
+                      "path":  "images/azioni/bacio 2.jpg",
+                      "sha256":  "57c7bd3b07d973994a7a71e93929d87f825b774206e04ee99f70dca2b8ac68e1",
+                      "bytes":  30038
+                  },
+                  {
+                      "path":  "images/azioni/beve 1.jpg",
+                      "sha256":  "6b3a3f330653040458b702651de5cf5b925d8e83f45b41fe46c0bbf93560905e",
+                      "bytes":  196214
+                  },
+                  {
+                      "path":  "images/azioni/beve 2.jpg",
+                      "sha256":  "17ecfc658884577707112386fbd749e6449dd3c52da8cecec9d202d8198e03e0",
+                      "bytes":  262131
+                  },
+                  {
+                      "path":  "images/azioni/corre 2.jpg",
+                      "sha256":  "72fad54bc89e78e8b34076018377a53673e63e65e77fff44dcc1450bd2236188",
+                      "bytes":  495871
+                  },
+                  {
+                      "path":  "images/azioni/corre 3.jpg",
+                      "sha256":  "4f1cafab01b76cfedadb1e50ebfb998851b7b13baeecef14ced77aea9bbf58ab",
+                      "bytes":  145576
+                  },
+                  {
+                      "path":  "images/azioni/correi1.jpg",
+                      "sha256":  "068141e175f4265be6ac7d83430979c4d1d38c9b58b21c0a392a4b2a6661fe72",
+                      "bytes":  337039
+                  },
+                  {
+                      "path":  "images/azioni/cucina 3.jpg",
+                      "sha256":  "5ad8893e97aa5002e086bb9c05abe44201d6f589067e379f47d24c8a3e201162",
+                      "bytes":  656057
+                  },
+                  {
+                      "path":  "images/azioni/cucina 6.jpg",
+                      "sha256":  "4243abab2fbb639419ab41555658f4f22ae6bd9ad4d9cc7f388d81d9e6c79285",
+                      "bytes":  654311
+                  },
+                  {
+                      "path":  "images/azioni/cucina.jpg",
+                      "sha256":  "8d21ef8ae21a39254e8f81fa25edf05b1335acc158ed70d1603dd187f6450833",
+                      "bytes":  630858
+                  },
+                  {
+                      "path":  "images/azioni/dorme 01.jpg",
+                      "sha256":  "4b883c9e2f99b6ef90b90bb23375ad793798e4ab48de7b26d4548146a48282c7",
+                      "bytes":  609424
+                  },
+                  {
+                      "path":  "images/azioni/dorme 02.jpg",
+                      "sha256":  "e49271c61c60558f6e9c24678149bcceb66fe7809c6a15c5fc369a018cd0ae2a",
+                      "bytes":  569847
+                  },
+                  {
+                      "path":  "images/azioni/dorme 1.jpg",
+                      "sha256":  "6014168bfe666850b7513fbaa787075dd3ec355db81800bb3e914567e86399b2",
+                      "bytes":  68606
+                  },
+                  {
+                      "path":  "images/azioni/dorme 2.jpg",
+                      "sha256":  "490f6a6ad4d95576dbeb29f3e1508a5b1d8b13746ed167a985ed4161bff963af",
+                      "bytes":  144744
+                  },
+                  {
+                      "path":  "images/azioni/guarda 2.jpg",
+                      "sha256":  "66d34d4bb6a84841537d7d30603cee9c1f1622da139cd2a9ca185221334dc00e",
+                      "bytes":  66864
+                  },
+                  {
+                      "path":  "images/azioni/guarda.jpg",
+                      "sha256":  "95cd49d7ca1ec9a13e7617c2de3398c256f2459bfc97ecd75dbd0d3777c485a4",
+                      "bytes":  83166
+                  },
+                  {
+                      "path":  "images/azioni/lava 1.jpg",
+                      "sha256":  "c27c0e30b1088c5a832a7ce7bac026964bda0bbb6b8397aea5f18c1418e1b390",
+                      "bytes":  91275
+                  },
+                  {
+                      "path":  "images/azioni/lava 2.jpg",
+                      "sha256":  "85b5fb43fded6f86c350849d5d63bf398c9fe16ef50f42148d8c565ca870de2c",
+                      "bytes":  52530
+                  },
+                  {
+                      "path":  "images/azioni/lava le mani 2.jpg",
+                      "sha256":  "f3f9e9c80810a126ffa58c1305be65c0013c29b228615fd41193f2bf615d6ec5",
+                      "bytes":  68293
+                  },
+                  {
+                      "path":  "images/azioni/lava le mani.jpg",
+                      "sha256":  "ec7bff8858cb3d9df87a61979dcb13139c7451966f0a7e49f0ba5c891f663617",
+                      "bytes":  57663
+                  },
+                  {
+                      "path":  "images/azioni/lecca 01.jpg",
+                      "sha256":  "7864d60a80977d9020a2f678ac45101476c31e6b0056fcca994fea9a741c5478",
+                      "bytes":  605610
+                  },
+                  {
+                      "path":  "images/azioni/legge 01.jpg",
+                      "sha256":  "e407da66c6e9b10d12b9fe48f0a6d568584c1695111431800ca4090af475ac45",
+                      "bytes":  753113
+                  },
+                  {
+                      "path":  "images/azioni/legge 02.jpg",
+                      "sha256":  "068c37866a420899acbdb6319a216296899d25899ada33120b3a607e908d6fc4",
+                      "bytes":  739227
+                  },
+                  {
+                      "path":  "images/azioni/legge 1.jpg",
+                      "sha256":  "a4b0f86214bcfea9806bc6020650a4c888cb8753f85f38074cbc0e051d69e85e",
+                      "bytes":  43840
+                  },
+                  {
+                      "path":  "images/azioni/legge disegna scrive.jpg",
+                      "sha256":  "26a39e33da4c2cf3e604becae1334ece3a19ec92a0819688b36bce4ce6084b43",
+                      "bytes":  614488
+                  },
+                  {
+                      "path":  "images/azioni/leggere scrivere disegnare.jpg",
+                      "sha256":  "060a4b12140126e1423f5a2f0be0abe682af34e4900fc2c9106d32620958f3d9",
+                      "bytes":  536998
+                  },
+                  {
+                      "path":  "images/azioni/mangia 1.jpg",
+                      "sha256":  "89406c20e975d04e8bc636f8d1752c564b2f22b5e9240e3aecebbfcd3e3d1f03",
+                      "bytes":  114817
+                  },
+                  {
+                      "path":  "images/azioni/mangia 2.jpg",
+                      "sha256":  "1fc0e4689f922613affbb7791a2a57435d8e30157379fc7b1b6b003f8383fc21",
+                      "bytes":  189645
+                  },
+                  {
+                      "path":  "images/azioni/mescola 2.jpg",
+                      "sha256":  "002942a6abd636addfaaba4eec831517adc092bf41bf18b0149c901c78d4f25b",
+                      "bytes":  63245
+                  },
+                  {
+                      "path":  "images/azioni/mescola.jpg",
+                      "sha256":  "ad63d2639ad50f562492aa53de658bdf13a44fa08f6c9269439479878e746434",
+                      "bytes":  69423
+                  },
+                  {
+                      "path":  "images/azioni/nuota 1.jpg",
+                      "sha256":  "39160dbe3f50fa37bdd63ffece93892f7697b6801956659f43ca4a32e44fb605",
+                      "bytes":  136337
+                  },
+                  {
+                      "path":  "images/azioni/nuota 2.png",
+                      "sha256":  "009209027fffd3be3e059a59fffb8f951c354be83b5472d7b66d0a5c68e0cc38",
+                      "bytes":  3229136
+                  },
+                  {
+                      "path":  "images/azioni/palleggia 2.jpg",
+                      "sha256":  "94ba52164e66534272e4f2321b69a2f27f7ca42baed2dc32604a024e598eda97",
+                      "bytes":  67824
+                  },
+                  {
+                      "path":  "images/azioni/palleggia.jpg",
+                      "sha256":  "63bf66c94147c428849f8b6c0e723103da8ab325f706a499e7944bddea3f0d2b",
+                      "bytes":  83791
+                  },
+                  {
+                      "path":  "images/azioni/pettina 1.jpg",
+                      "sha256":  "bcbb24ee34a088b03b7fa1f29adfb8e75a684c6dac71b01112f387889675d889",
+                      "bytes":  120556
+                  },
+                  {
+                      "path":  "images/azioni/pettina 2.jpg",
+                      "sha256":  "bd9c4ae07bd5e40777ba84626dae0d31cb20510d963daf6034f83e1d7f1b8cbd",
+                      "bytes":  36957
+                  },
+                  {
+                      "path":  "images/azioni/pulisce 2.jpg",
+                      "sha256":  "1bc63a8e76baa039bc697166b747e0353162ef1b311d75bd82feb43ee799f507",
+                      "bytes":  494614
+                  },
+                  {
+                      "path":  "images/azioni/pulisce 3.jpg",
+                      "sha256":  "4b50b5657447afeb232aff2419de9c555bc015ac42bcbb9419438229810d77c2",
+                      "bytes":  480301
+                  },
+                  {
+                      "path":  "images/azioni/pulisce 6.jpg",
+                      "sha256":  "c084572463bff6a7dbce6f46e74bd710487638af83a220654bbf243484accf52",
+                      "bytes":  462063
+                  },
+                  {
+                      "path":  "images/azioni/pulisce 7.jpg",
+                      "sha256":  "5013d3bb3ebc6f98decff794610751131b84fd6fe18e4ac39efceca356edee27",
+                      "bytes":  462063
+                  },
+                  {
+                      "path":  "images/azioni/pulisce.jpg",
+                      "sha256":  "94e180a8da8b7a4e9e2431b47c5ea29f95e251f000b25260cd898c5f0d283c8c",
+                      "bytes":  649805
+                  },
+                  {
+                      "path":  "images/azioni/ride 1.jpg",
+                      "sha256":  "b5ad7535c4e575879bcaa1008eba8c4fb4938c68ea61115edb9fc4db59170b67",
+                      "bytes":  15087
+                  },
+                  {
+                      "path":  "images/azioni/ride 2.jpg",
+                      "sha256":  "542658afa8649fa288731fec9f317cab827b08cb7ca44ffcfed819750c402816",
+                      "bytes":  289000
+                  },
+                  {
+                      "path":  "images/azioni/salire 6.jpg",
+                      "sha256":  "719c60999678f82d431d0b65a091638ac81ab1617254c1a756e85ca53012a59c",
+                      "bytes":  543494
+                  },
+                  {
+                      "path":  "images/azioni/salire.jpg",
+                      "sha256":  "cf5bec721686fd36485a84a75a476a1665f7126aac2090521820715b20436dae",
+                      "bytes":  760481
+                  },
+                  {
+                      "path":  "images/azioni/salta 1.jpg",
+                      "sha256":  "6139990fa24b63eaec19c2e7be933aa63d05a7239d801fbbb2e0475493b283ad",
+                      "bytes":  26506
+                  },
+                  {
+                      "path":  "images/azioni/salta 2.jpg",
+                      "sha256":  "b38f720b5c38d1d79c28d0f6cf81566ca7e3d274c2fb2df22e829c6e86bb47c0",
+                      "bytes":  325813
+                  },
+                  {
+                      "path":  "images/azioni/saltan 02.jpg",
+                      "sha256":  "2071c489441130210c4308e0e545c84602796255f3776cd35b8146f09fbaef1e",
+                      "bytes":  955774
+                  },
+                  {
+                      "path":  "images/azioni/saluta 01.jpg",
+                      "sha256":  "b792e31614b2f510b8ae18a49dff2736c62d5d4bff5f9bae6a9cd03ea5ec74c6",
+                      "bytes":  752902
+                  },
+                  {
+                      "path":  "images/azioni/saluta 02.jpg",
+                      "sha256":  "08e90571f3a37d19df7384c8e25b4384e49f772f148bcaf61641a018c797e8ee",
+                      "bytes":  682197
+                  },
+                  {
+                      "path":  "images/azioni/scivola 1.jpg",
+                      "sha256":  "a87aa82ceb22188b433d42a5e1dde3a7deedda890bd743b73bc472881a388324",
+                      "bytes":  108893
+                  },
+                  {
+                      "path":  "images/azioni/scivola.jpg",
+                      "sha256":  "386a6fae7f7e45422da68ac010749e982c03c776ccf6a125b6d8ffbbd41b0f9f",
+                      "bytes":  81859
+                  },
+                  {
+                      "path":  "images/azioni/soffia 1.png",
+                      "sha256":  "9767dbf3dfe02e4ec0c617bb983b9d90623403a08d0853bbf32578a11af1f87b",
+                      "bytes":  577332
+                  },
+                  {
+                      "path":  "images/azioni/soffia 2.jpg",
+                      "sha256":  "1a80e345f9d73d471177497fdf33c14e538f6e5242aeaf09cc8f9215f269263b",
+                      "bytes":  324928
+                  },
+                  {
+                      "path":  "images/azioni/soffia 3.jpg",
+                      "sha256":  "a389169580b698ad3f92c7ea929979c87166ceaf19f4e24e944973799ea93bf8",
+                      "bytes":  488845
+                  },
+                  {
+                      "path":  "images/azioni/soffia fischia suona.jpg",
+                      "sha256":  "aa0a17b02dd7cd981ab714c2f0b1acceceff6ee4216c68d3f333b5b0aaa7e0e4",
+                      "bytes":  559695
+                  },
+                  {
+                      "path":  "images/azioni/soffia.jpg",
+                      "sha256":  "fd29b4de1bc59a92302f1802e7091e554141eb3a0b132e2be934121074f2674f",
+                      "bytes":  510278
+                  },
+                  {
+                      "path":  "images/azioni/spinge 2.jpg",
+                      "sha256":  "8e7817b05fc9655a353b9be765b558992166a717ea893a0efae38b8ba3d04397",
+                      "bytes":  1131790
+                  },
+                  {
+                      "path":  "images/azioni/spinge 3.jpg",
+                      "sha256":  "434754b14934a906cbef15f127d74ec8dfe3c3cb61519191bdd909d6903d0c5b",
+                      "bytes":  706981
+                  },
+                  {
+                      "path":  "images/azioni/spinge.jpg",
+                      "sha256":  "49a8767758d8989cd010f49b3dd2036d019536266d97936871d7b439e4140329",
+                      "bytes":  794764
+                  },
+                  {
+                      "path":  "images/azioni/spolvera 2.jpg",
+                      "sha256":  "8146898414dccdf73bb2a8dc934cc03b919860a63d2f49ce46ef3e8608eee246",
+                      "bytes":  582117
+                  },
+                  {
+                      "path":  "images/azioni/spolvera.jpg",
+                      "sha256":  "6c1a924399bfaaf4c0e5f6a6e44afe189453ea25ae52b79fcd0d799d1bd62f39",
+                      "bytes":  571422
+                  },
+                  {
+                      "path":  "images/azioni/sta scrivendo.jpg",
+                      "sha256":  "7b44e380d323ebff62d222309dfe1c804ef9c04f44b2ad4ef74ffc9f31c1195f",
+                      "bytes":  1334647
+                  },
+                  {
+                      "path":  "images/azioni/versa 01.jpg",
+                      "sha256":  "aa4e2bffb02620c9b25207d452c77a82b1539b8c9a6614d29cd4543220cb3444",
+                      "bytes":  728599
+                  },
+                  {
+                      "path":  "images/azioni/versa 02.jpg",
+                      "sha256":  "147c86dfd8071b5c3f093fab64e0a694ba813fefce7bcc6d6f19f4c4bec3d2a0",
+                      "bytes":  660766
+                  },
+                  {
+                      "path":  "images/colori/bianco.png",
+                      "sha256":  "6e21cdf77f5334014bf93de775ac656add798556d16b5730766fde48a0a19643",
+                      "bytes":  11827
+                  },
+                  {
+                      "path":  "images/colori/blu.png",
+                      "sha256":  "0cae7b25129beae147b247142e8d221108646349986fd761c7b46597465bc1c6",
+                      "bytes":  360
+                  },
+                  {
+                      "path":  "images/colori/giallo.jpg",
+                      "sha256":  "a0a7fc7a89a5b578a0e1b4fdc12bffb71c45760ee4f483d3c612b382eb6193e3",
+                      "bytes":  4146
+                  },
+                  {
+                      "path":  "images/colori/nero.jpg",
+                      "sha256":  "18be742d1276033d9293efde52edf887aba9c27a11ea22ebe2488522ea6440da",
+                      "bytes":  13679
+                  },
+                  {
+                      "path":  "images/colori/rosa.jpg",
+                      "sha256":  "236f65b2edec8dc3725495362796cb7f04452325b7a5cd494a4e4c4db7e520da",
+                      "bytes":  17730
+                  },
+                  {
+                      "path":  "images/colori/rosso.png",
+                      "sha256":  "72605ff73c7bb3d79710732354c0c986b702d1419ee707150e4f10655e9073da",
+                      "bytes":  16748
+                  },
+                  {
+                      "path":  "images/colori/verde.jpg",
+                      "sha256":  "a915207d0b968fb6fe2ab1cb5d347a17b9c18f4d38921dc4f1cee6088793ad7a",
+                      "bytes":  14503
+                  },
+                  {
+                      "path":  "images/emozioni/arrabbiata donna 3.png",
+                      "sha256":  "218eeb18cce1880f54073abedf7ffc2b41d383f661d9826cf448b8dbcf81218d",
+                      "bytes":  1642619
+                  },
+                  {
+                      "path":  "images/emozioni/arrabbiato bambino 3.png",
+                      "sha256":  "833cb13f9ab366bbd257ee6ad42964a8c1df7193d75aa7ebc76a641d362d3aae",
+                      "bytes":  1257334
+                  },
+                  {
+                      "path":  "images/emozioni/bambina arrabbiata 3.png",
+                      "sha256":  "77cd67974f6759d4fa3afc7cb573b33083a26deeee40192e84c8749e4e776bc2",
+                      "bytes":  1572230
+                  },
+                  {
+                      "path":  "images/emozioni/bambina felice 3.png",
+                      "sha256":  "88e389efda14eb55f5eda05c8bf9c83ad0b7208aebff4689c67b4c91f4bb5a34",
+                      "bytes":  1563675
+                  },
+                  {
+                      "path":  "images/emozioni/bambina sorpresa 3.png",
+                      "sha256":  "16130c9b8f9865313c0f17de4ae32b2c46e400f6ffe6e832f28e08dfeeeedd73",
+                      "bytes":  1675197
+                  },
+                  {
+                      "path":  "images/emozioni/bambina spaventata 3.png",
+                      "sha256":  "31cdf57db263661aae29d02f0821af221021ed442a6b61c5dea4a0d74e9d487a",
+                      "bytes":  1584466
+                  },
+                  {
+                      "path":  "images/emozioni/bambina triste 3.png",
+                      "sha256":  "bcf3f6870af4fdabfa301f1adf6fc2a5b3ea21d44cde424527f40279e8c97781",
+                      "bytes":  1552163
+                  },
+                  {
+                      "path":  "images/emozioni/donna felice 3.png",
+                      "sha256":  "a6bc90adf7d2e9f3d2ee0924191025506287151485a2b3e34ac5485c09a75670",
+                      "bytes":  1773836
+                  },
+                  {
+                      "path":  "images/emozioni/donna sorpresa 3.png",
+                      "sha256":  "2d22c105e24e80ed1207a2faa18ea2011371bc481989572e88d075de555b89de",
+                      "bytes":  1906403
+                  },
+                  {
+                      "path":  "images/emozioni/donna spaventata 3.png",
+                      "sha256":  "03579b42d847cf76447c065222916a5a870052adc3824dd7841d8708a3396d07",
+                      "bytes":  2312738
+                  },
+                  {
+                      "path":  "images/emozioni/donna triste 3.png",
+                      "sha256":  "9f7a1258cbbb4a456d6d5f7a2b705452c617199a025a3d3bfdf44ad1bd615f15",
+                      "bytes":  1816815
+                  },
+                  {
+                      "path":  "images/emozioni/donna triste 5.png",
+                      "sha256":  "dfcee1ad03307402e0a92f292802f4cf085e9e834e9f61ad577010f582680fae",
+                      "bytes":  1924108
+                  },
+                  {
+                      "path":  "images/emozioni/felice bambino 3.png",
+                      "sha256":  "ba2810580a1ca7b539d785d12b071cb9baf3bb73838f4899725b6e444db4e79f",
+                      "bytes":  1176499
+                  },
+                  {
+                      "path":  "images/emozioni/sopreso bambino 3.png",
+                      "sha256":  "2883b26a916853079990d9c43eac4531d3dd450a9668bf043b9dfad2aefc5410",
+                      "bytes":  1198064
+                  },
+                  {
+                      "path":  "images/emozioni/spaventato bambino 3.png",
+                      "sha256":  "69cf792264b016a67f3f25d930d7f80c8271785e730c797e94567528661cdf34",
+                      "bytes":  1288821
+                  },
+                  {
+                      "path":  "images/emozioni/triste bambino 3.png",
+                      "sha256":  "65a571212c1f07340e1f690b9502204de04cf1ebe0d9b995a1872ce29e42fe0d",
+                      "bytes":  1224982
+                  },
+                  {
+                      "path":  "images/emozioni/uomo arrabbiato 3.png",
+                      "sha256":  "c5c626e5d4454c52c8020d5b4b8db34c08cfae69c465f4ed0e12d0f8bae4de11",
+                      "bytes":  1552100
+                  },
+                  {
+                      "path":  "images/emozioni/uomo felice 3.png",
+                      "sha256":  "d80821cbc923da923b77a5af2bfe9f9b113d37c0d684851aa0eddd5e1c464308",
+                      "bytes":  1633524
+                  },
+                  {
+                      "path":  "images/emozioni/uomo sorpreso 3.png",
+                      "sha256":  "eac9e4c1f327aff7b55c8227cacf1aef6033bf723620dc8a6ca5bc1dd890e97b",
+                      "bytes":  1408739
+                  },
+                  {
+                      "path":  "images/emozioni/uomo triste 3.png",
+                      "sha256":  "68d67ab774db930625faafd4380751001d73900f958700a97ed3cacb3a0a4ab0",
+                      "bytes":  1409153
+                  },
+                  {
+                      "path":  "images/gesti/alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
+                      "sha256":  "516651f5672df0d943717de5ffcd55d4c0d867dc5137f8eb5d544610de417033",
+                      "bytes":  1722572
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 001138.png",
+                      "sha256":  "8d3bda172c5c063841e9168e7942b137f64a9fcc31589a4e67e93063511fecf1",
+                      "bytes":  208286
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 001256.png",
+                      "sha256":  "fd94b02505c3ee14fabedb0a45ab7705582d6d45a2afe3e701040c18afd1a0d5",
+                      "bytes":  175946
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 001558.png",
+                      "sha256":  "35791addf571374d9badfed53dce7704a4f972516bb948b0c6415fa2ae806a2a",
+                      "bytes":  121502
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 001629.png",
+                      "sha256":  "be1305516c29783bd6cffebd9b1eb445a9a9af53055e2ef5301aa0cf5e67ada5",
+                      "bytes":  74478
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 001744.png",
+                      "sha256":  "e324492ebfbfef17692dd0c10dc65cfb17dd38a3195f553e1bcec9ec596b909d",
+                      "bytes":  137651
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 001810.png",
+                      "sha256":  "1db4f3333d79c1cf071395b32aad3a080f04e981db5f2b2c144a140d85aa03b4",
+                      "bytes":  88326
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 001906.png",
+                      "sha256":  "9d68bf161cf4b0c281b0eb33f85553b62f078e32eacd205b9b94b5b2ac72c044",
+                      "bytes":  151869
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 001931.png",
+                      "sha256":  "e5c961eb97b08da8b8afe8ebbd40d9d12a8aad37ff93b20ba2044190a24d6187",
+                      "bytes":  142771
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 002016.png",
+                      "sha256":  "a5a63aafaf88cc55affb613a2d39ad1030d69a0018f2a94c2192213e07ff5cb8",
+                      "bytes":  66591
+                  },
+                  {
+                      "path":  "images/gesti/Immagine 2024-08-13 002128.png",
+                      "sha256":  "f9e65bcbed496db80a31e6f605ef9ecb65b1c2f7d67cc27402a5fa200370d4a7",
+                      "bytes":  163457
+                  },
+                  {
+                      "path":  "images/immagini 1/aereo (11).png",
+                      "sha256":  "0c3d4364b6691ebf224d662e9559f2f9ee3e23e1a881a9a1d4bf0750a58c1f8e",
+                      "bytes":  2007987
+                  },
+                  {
+                      "path":  "images/immagini 1/altalena (3).png",
+                      "sha256":  "ff2c529fc66f5c512801931aa0ceb87327c1e658ad4d6dd9163e69113543a255",
+                      "bytes":  1926040
+                  },
+                  {
+                      "path":  "images/immagini 1/arancio (6).png",
+                      "sha256":  "0d561d981dbcd98fa77fe21cb10d80353e2c49ea5c9a24f4bc4daf4a38ca2cdd",
+                      "bytes":  1351057
+                  },
+                  {
+                      "path":  "images/immagini 1/asciugamano (5).png",
+                      "sha256":  "640d60f1e9d41b861f1cfb9da95aa5889cd046be79700f1840c34b8fa6910665",
+                      "bytes":  2229209
+                  },
+                  {
+                      "path":  "images/immagini 1/aspirapolvere (8).png",
+                      "sha256":  "c5fabe301c74b65520636d5735cd9ef72125bf2d49c237c5e42c9489ed8fcdc6",
+                      "bytes":  2116454
+                  },
+                  {
+                      "path":  "images/immagini 1/autobus.png",
+                      "sha256":  "d5be5abf5403c646d2aecfc12b685f4a8be21873f9e59f22be41b2d39a5de859",
+                      "bytes":  2346311
+                  },
+                  {
+                      "path":  "images/immagini 1/bagno (3).png",
+                      "sha256":  "92c2b9a077272afe2ffe361ae84b44626c0edfb838c14b6a798ff91e4cc30ad7",
+                      "bytes":  2034890
+                  },
+                  {
+                      "path":  "images/immagini 1/bambola (2).png",
+                      "sha256":  "b54f8d0a17a0797ce83281ba5f7b3efd815c690d8eaf90992a126868a9e6ef08",
+                      "bytes":  2073213
+                  },
+                  {
+                      "path":  "images/immagini 1/banane (2).png",
+                      "sha256":  "ff32e6448caa704344f6667abc1c91b0f88096b439551380967485ff41468cb2",
+                      "bytes":  2311517
+                  },
+                  {
+                      "path":  "images/immagini 1/barca.png",
+                      "sha256":  "fd67e50e05e4c3073a79d9d5d065f94b5f80cf76d7920ae53caa40a8aa5ba0cb",
+                      "bytes":  2461923
+                  },
+                  {
+                      "path":  "images/immagini 1/bicchiere05.png",
+                      "sha256":  "4a2f901f640aef3071bafee27f8eed9e6ea5d46f64ddd674a41c8d5c387fe0eb",
+                      "bytes":  1962729
+                  },
+                  {
+                      "path":  "images/immagini 1/bicicletta (5).png",
+                      "sha256":  "fa1d90cf25535ffe4b6f0cf23bfe72663cfa94138af26648854c40e0185252d2",
+                      "bytes":  2187752
+                  },
+                  {
+                      "path":  "images/immagini 1/biscotti (3).png",
+                      "sha256":  "2fbf24f5a619f5d3c5fd178ed365925e2891ff73cfd671133a8131576e5d193e",
+                      "bytes":  1756779
+                  },
+                  {
+                      "path":  "images/immagini 1/bolle (4).png",
+                      "sha256":  "b55a5180ff660130a962abc31aed77a401ce3f2bc2375c4fc88021f18ea48271",
+                      "bytes":  2438284
+                  },
+                  {
+                      "path":  "images/immagini 1/burro (10).png",
+                      "sha256":  "2de88454430abffcb65153d1334d4387218c62c355f339760786b7b94387fe3a",
+                      "bytes":  2228715
+                  },
+                  {
+                      "path":  "images/immagini 1/calzini (6).png",
+                      "sha256":  "3974c406724e4322ed010e14924a5ac8194e9b78056ed03c4e543b4396b8fb24",
+                      "bytes":  2015978
+                  },
+                  {
+                      "path":  "images/immagini 1/camion (4).png",
+                      "sha256":  "7f05f3865d33bbfabb8b1cc96b31314aa874ae462d10ae4e19b2fdf83cc053c7",
+                      "bytes":  1908777
+                  },
+                  {
+                      "path":  "images/immagini 1/cane (1).png",
+                      "sha256":  "9861ca3f313477e85556c92b6c4dd54e3c02c25e99e4310b7d7eed4860890d69",
+                      "bytes":  18889753
+                  },
+                  {
+                      "path":  "images/immagini 1/canguro (1).png",
+                      "sha256":  "032559f1f81299f1dbb160c729f5a3b58087f903f7830d8662fc66bb6f6979df",
+                      "bytes":  18387779
+                  },
+                  {
+                      "path":  "images/immagini 1/cappello (1).png",
+                      "sha256":  "ebb7d027e111c1679a4e41c7474c5e0c17f10820e66c2bb73fb23415c003856f",
+                      "bytes":  13594554
+                  },
+                  {
+                      "path":  "images/immagini 1/caramelle (3).png",
+                      "sha256":  "8af8a4bc97888104d59562ccd28ec17fe7ec90aec198666a43b2c5fe5f2ed40e",
+                      "bytes":  2094428
+                  },
+                  {
+                      "path":  "images/immagini 1/carote (5).png",
+                      "sha256":  "1164c20207851c178af2685339c48eab8292a1ec104633562f885b296be8baab",
+                      "bytes":  2683687
+                  },
+                  {
+                      "path":  "images/immagini 1/cavallo (1).png",
+                      "sha256":  "0dac96e2d74db13e9cea5619640936e1f552e6eb168589b2c49c1890109bf8e2",
+                      "bytes":  16195302
+                  },
+                  {
+                      "path":  "images/immagini 1/cellulare (6).png",
+                      "sha256":  "6b19482cf6e6523b899728571237c9ddbdb7e89b04f11a52330869591677f6d0",
+                      "bytes":  1962063
+                  },
+                  {
+                      "path":  "images/immagini 1/chiavi (5).png",
+                      "sha256":  "201c0776d6a4843af9d261085d42f491b3ccde608ebe47d3fe6cd5737b337162",
+                      "bytes":  3103088
+                  },
+                  {
+                      "path":  "images/immagini 1/chitarra (4).png",
+                      "sha256":  "7a5e71b5fa7493b9db45ac3fe3e02c89464536d6a565c859beec924a19181d0c",
+                      "bytes":  2838323
+                  },
+                  {
+                      "path":  "images/immagini 1/cintura (1).png",
+                      "sha256":  "037e5e8e65d3851ed1cb1c13391298fbf20a4eb5ce8c1f673db0c90d3ccaea90",
+                      "bytes":  17351666
+                  },
+                  {
+                      "path":  "images/immagini 1/coccodrillo (1).png",
+                      "sha256":  "b7c460e55aaceb72d22f1954b699fc3bb42ad1ad44ea8ee3f003b4ca654f8276",
+                      "bytes":  20855182
+                  },
+                  {
+                      "path":  "images/immagini 1/cocomero (3).png",
+                      "sha256":  "5f5ab2cb14dc65cb66905d93d9203f1dd6a1c171f77bafa2fe66d3e477b95f5c",
+                      "bytes":  2993885
+                  },
+                  {
+                      "path":  "images/immagini 1/colori.png",
+                      "sha256":  "81e6153c4704f7f1ace1e225050f163b41d96ec7f2b6f26b14845a45e3e76f21",
+                      "bytes":  2168716
+                  },
+                  {
+                      "path":  "images/immagini 1/coltello (5).png",
+                      "sha256":  "9d2a9d457bd0410beb431a39dbd54f3e4b1af7799f1e7e45768fad66a450bca3",
+                      "bytes":  1798582
+                  },
+                  {
+                      "path":  "images/immagini 1/computer (2).png",
+                      "sha256":  "c37181f6d95efd259757db2d7af2695420a0e9f189adc01e952a505168e946da",
+                      "bytes":  1735966
+                  },
+                  {
+                      "path":  "images/immagini 1/computer fisso (5).png",
+                      "sha256":  "300385a5e75d2e4600acecba462e066473e2dd38f1a671f2369c520e4b62f1f4",
+                      "bytes":  1081307
+                  },
+                  {
+                      "path":  "images/immagini 1/coniglio (1).png",
+                      "sha256":  "e2e50fc831eeb4c9a3666a61d712911324fda03d21af3190d438c43dcb847103",
+                      "bytes":  18525395
+                  },
+                  {
+                      "path":  "images/immagini 1/costruzioni (2).png",
+                      "sha256":  "9696daee6052a05f02d769d709c1989b0cf573b9cfc1a0ef15a178c2d2e2c5df",
+                      "bytes":  2471140
+                  },
+                  {
+                      "path":  "images/immagini 1/costume da donna (1).png",
+                      "sha256":  "c3d9d626c054a3bfd893363ce30ca0e31045bb9ceb86cd56185ba00fa154f3f3",
+                      "bytes":  2043588
+                  },
+                  {
+                      "path":  "images/immagini 1/costume da uomo (1).png",
+                      "sha256":  "281c5d668d43b7ebf18c75afdf6393bd0f9ac3d20c754f6a5172ad7d455fae7e",
+                      "bytes":  2907544
+                  },
+                  {
+                      "path":  "images/immagini 1/cracker (1).png",
+                      "sha256":  "1b2bc51851111054cb0ef53a44840cbdf0e7f716c3cb8dca4f1ae6e8e10b28f1",
+                      "bytes":  19483453
+                  },
+                  {
+                      "path":  "images/immagini 1/cucchiaio (10).png",
+                      "sha256":  "21a3a297a82f00d5de19b40510809db9751af30907a45ac4a1825771ff750bab",
+                      "bytes":  2627876
+                  },
+                  {
+                      "path":  "images/immagini 1/cuscino (5).png",
+                      "sha256":  "b6e7f762be6c9937bf7f01ff5124bb931d46a9e435aabf2b037ce334f0e32c5b",
+                      "bytes":  2280049
+                  },
+                  {
+                      "path":  "images/immagini 1/divano (1).png",
+                      "sha256":  "e49baf7d5ae95bf19751b9e7d799bc1f39664e188606e5147b99ab016b2adc46",
+                      "bytes":  14314930
+                  },
+                  {
+                      "path":  "images/immagini 1/e577e180-9062-4c4b-8799-674b0dfd1864.png",
+                      "sha256":  "0d561d981dbcd98fa77fe21cb10d80353e2c49ea5c9a24f4bc4daf4a38ca2cdd",
+                      "bytes":  1351057
+                  },
+                  {
+                      "path":  "images/immagini 1/elefante (1).png",
+                      "sha256":  "22ebadb0e92336e4d6725adbed0dd0140c5bc9af00cddd9aa57374e22f58deb6",
+                      "bytes":  13442703
+                  },
+                  {
+                      "path":  "images/immagini 1/elicottero (3).png",
+                      "sha256":  "444fe1663da9fff1e76bef5995da89d34b5467138b5a8406d99b01be08e91b1b",
+                      "bytes":  1489645
+                  },
+                  {
+                      "path":  "images/immagini 1/erba 02.png",
+                      "sha256":  "797837e12fe18c9a5c17c1d5537ca5a2b9eca7a6f1fe910e0ce2979dbd829972",
+                      "bytes":  3565551
+                  },
+                  {
+                      "path":  "images/immagini 1/fiore (4).png",
+                      "sha256":  "5104c2da3d4a779355e070596b74424229d7ba52a2602cd3fe0296fc9463d67f",
+                      "bytes":  1848245
+                  },
+                  {
+                      "path":  "images/immagini 1/Firefly_police car, no people 617566.png",
+                      "sha256":  "481c83a6df63dcc83dac7a3d1da708f646b5ecf6031e7c76bba433b8b881789e",
+                      "bytes":  2040337
+                  },
+                  {
+                      "path":  "images/immagini 1/foglia.png",
+                      "sha256":  "2f698e6ef6639ea639e2efd4c4ac94445bc191d97e08d1d5392c63d995645794",
+                      "bytes":  2181632
+                  },
+                  {
+                      "path":  "images/immagini 1/forbici (5).png",
+                      "sha256":  "3938ef884fe3a784c906d0b90349d8b1c758b1edd2c440bf8a9fd6a62949dd6a",
+                      "bytes":  2821132
+                  },
+                  {
+                      "path":  "images/immagini 1/forchetta02.png",
+                      "sha256":  "aeff48f1c779279f6fa1237223578b52c342240e22112b5f137898c031388936",
+                      "bytes":  2221835
+                  },
+                  {
+                      "path":  "images/immagini 1/formaggio (2).png",
+                      "sha256":  "8c888fb8ad0d025478df6fd0877d286cbbad47a0b72b97ac7ac73a3f18d24a74",
+                      "bytes":  2545561
+                  },
+                  {
+                      "path":  "images/immagini 1/fragole (3).png",
+                      "sha256":  "edaa1f4b9b62f64057d2d00564fd681c3cb038f5630d68c4dd47a3a4927a350e",
+                      "bytes":  2698762
+                  },
+                  {
+                      "path":  "images/immagini 1/gallina (1).png",
+                      "sha256":  "90080c3c7da0cfbaa06f11c266b6ab13b8988c22cdd072ad4c77795692e68d88",
+                      "bytes":  20271876
+                  },
+                  {
+                      "path":  "images/immagini 1/gatto (7).png",
+                      "sha256":  "5a531496a6104f9255a97338788186f5c05278ead6a813abd4150f394c85c599",
+                      "bytes":  2233148
+                  },
+                  {
+                      "path":  "images/immagini 1/gelato (2).png",
+                      "sha256":  "fb3c965d7601c51f1c50379025042e4999a72787360a7f6ca714316aa655244b",
+                      "bytes":  2711047
+                  },
+                  {
+                      "path":  "images/immagini 1/giraffa (1).png",
+                      "sha256":  "d1c119a3ccf5320fd4cef59cb0c29799a4cef2dd244b3faf61d669fd3107ced8",
+                      "bytes":  14980778
+                  },
+                  {
+                      "path":  "images/immagini 1/gonna 06.png",
+                      "sha256":  "c67574aa832d7302f58c6964505be95266085aafe78c4fda6d1abcfee2eaafa4",
+                      "bytes":  2323822
+                  },
+                  {
+                      "path":  "images/immagini 1/guanti (1).png",
+                      "sha256":  "9f2374874969a2c08837b9bed0a03fee4b6bf88add56e64b3175b4d8c84b460c",
+                      "bytes":  13959678
+                  },
+                  {
+                      "path":  "images/immagini 1/hamburger.png",
+                      "sha256":  "86955ac2aee4ca1023f8f01e6f8a4d6ae1d325352b8abcf0b23b919cbe4d257b",
+                      "bytes":  2716963
+                  },
+                  {
+                      "path":  "images/immagini 1/insalata (2).png",
+                      "sha256":  "c380e4e17c44d95e640bd40f94c11f60afbf7ea3a7f6625a0ab1fae0bd90874d",
+                      "bytes":  2868911
+                  },
+                  {
+                      "path":  "images/immagini 1/ippopotamo 02.png",
+                      "sha256":  "a9fc2d14d14ab1375b3032f2225134c3babc29ea04ac4b045fbeeaaa04c0610b",
+                      "bytes":  2928014
+                  },
+                  {
+                      "path":  "images/immagini 1/lampada (7).png",
+                      "sha256":  "fa8aca1d3c18d487a343df5e33204d8235478d24f9fc77ac05327b5cb24175a6",
+                      "bytes":  2357153
+                  },
+                  {
+                      "path":  "images/immagini 1/latte (3).png",
+                      "sha256":  "22e2c5df0a65e90fff001cac8793c63602296f1c7f9972badc7a5cb283b602a1",
+                      "bytes":  1918547
+                  },
+                  {
+                      "path":  "images/immagini 1/lavandino (2).png",
+                      "sha256":  "40b2af4741f3091d132243329318e1b2afc8197de999b8bd11817b63c18892d3",
+                      "bytes":  1980467
+                  },
+                  {
+                      "path":  "images/immagini 1/leone.png",
+                      "sha256":  "e0001a06da3caf33e2d744cecf80aadf040726ee33c3f6f401109c8200d09ad1",
+                      "bytes":  1946579
+                  },
+                  {
+                      "path":  "images/immagini 1/letto (4).png",
+                      "sha256":  "2c0d11f31fddf1d3b22d94ac5527f33974e38efcb87509379120faa8704a3328",
+                      "bytes":  1525597
+                  },
+                  {
+                      "path":  "images/immagini 1/libro.png",
+                      "sha256":  "cdf8d8dd6158ef73aed754dba089437b9b2d6f92dc313e7e6f04812aeb707351",
+                      "bytes":  2096023
+                  },
+                  {
+                      "path":  "images/immagini 1/macchina (10).png",
+                      "sha256":  "1106751ca3199fc7addecb1920e8ef1aeecd3bc6fa5656164fc524d5d05820cc",
+                      "bytes":  2333440
+                  },
+                  {
+                      "path":  "images/immagini 1/macchinina (3).png",
+                      "sha256":  "df8fe3e69b55cd167be1d8994200a8bb84bdd420c1a93e172244be3e4a955e36",
+                      "bytes":  1685766
+                  },
+                  {
+                      "path":  "images/immagini 1/maglietta (1).png",
+                      "sha256":  "0cc1b955c5b569cb6291010406e08bfa30b195d0493fd08ce2e788fd90b81599",
+                      "bytes":  1877357
+                  },
+                  {
+                      "path":  "images/immagini 1/maiale (1).png",
+                      "sha256":  "6b52d22d2f000163aaba2db0032255f2d8c3796aead298970f0865bc0ad23821",
+                      "bytes":  17905140
+                  },
+                  {
+                      "path":  "images/immagini 1/mais (3).png",
+                      "sha256":  "f05a5cd74a4502c529a670edf81f3b6f300f1d9bc563f56e11691f0b38f05d76",
+                      "bytes":  2815673
+                  },
+                  {
+                      "path":  "images/immagini 1/martello01.png",
+                      "sha256":  "43495b17cbd17363d6d22af3041fd25df1e23634f71a5b5c071b6fd5a1e7400c",
+                      "bytes":  2430555
+                  },
+                  {
+                      "path":  "images/immagini 1/mela.png",
+                      "sha256":  "85117fb1d48fc177e395b72a2bb1bffcd15750924a46559ffc3e059b8cdc1cc7",
+                      "bytes":  1877843
+                  },
+                  {
+                      "path":  "images/immagini 1/motocicletta (4).png",
+                      "sha256":  "61153ae342ba6335a1a1ae49bbfda9a1feac614adaa13ca97cc56b7849518c6c",
+                      "bytes":  2319483
+                  },
+                  {
+                      "path":  "images/immagini 1/mucca (1).png",
+                      "sha256":  "7fdf686b48562a1061c85e676436779967d69f1f93f5ac4384421dce5cd3a1ec",
+                      "bytes":  17013968
+                  },
+                  {
+                      "path":  "images/immagini 1/mutande (1).png",
+                      "sha256":  "f8b8f7753b2ef49eed03150447478432dae690cced4756c9df284f8bf6906299",
+                      "bytes":  1379628
+                  },
+                  {
+                      "path":  "images/immagini 1/nave (4).png",
+                      "sha256":  "fe6aa40a2f80ad17d08fa5f6fd96ca45f5fa8a9ac4ea7dd842fa99e0e077ec5d",
+                      "bytes":  2939487
+                  },
+                  {
+                      "path":  "images/immagini 1/occhiali (3).png",
+                      "sha256":  "26e027ee13d5c7856376fcee25e92a7fcb81922fced2fe2231c2e5cbd5224e8f",
+                      "bytes":  1560770
+                  },
+                  {
+                      "path":  "images/immagini 1/ombrello (5).png",
+                      "sha256":  "90e3fc28a6b728954225b587e9fc089fcb8479bd1df2753841e5cea1d4a1d17c",
+                      "bytes":  2304461
+                  },
+                  {
+                      "path":  "images/immagini 1/orologio (5).png",
+                      "sha256":  "b2eeca252648b96a70391e370865ef7e9c880008ee423185f08c303e8af571f1",
+                      "bytes":  2665531
+                  },
+                  {
+                      "path":  "images/immagini 1/orso (1).png",
+                      "sha256":  "580fac09b26e90fd2979654da2974235e87428ca9974c80ce59212068e553aeb",
+                      "bytes":  19543345
+                  },
+                  {
+                      "path":  "images/immagini 1/palla (5).png",
+                      "sha256":  "6fcdfb0b48323a8390085f1a7f4db5ce43fbe3fe2799342fd7e923df5a97ac3a",
+                      "bytes":  732717
+                  },
+                  {
+                      "path":  "images/immagini 1/pane (3).png",
+                      "sha256":  "3052f714a12350437b5c63aa18585479f746c41ba73170b5f2823a91e1a0ce77",
+                      "bytes":  1753415
+                  },
+                  {
+                      "path":  "images/immagini 1/panino.jpg",
+                      "sha256":  "79248d3c4f459ee9e768e0195a15d3f8245a585bb4e984280338c9dcfdce7ac3",
+                      "bytes":  23619
+                  },
+                  {
+                      "path":  "images/immagini 1/papera (1).png",
+                      "sha256":  "759e369ea37bf016de21d2a66bad2e557494cdfa1d3ec489afc9201a8e3b811f",
+                      "bytes":  18825278
+                  },
+                  {
+                      "path":  "images/immagini 1/patatine (3).png",
+                      "sha256":  "446cd11c0dc6c46f563e9e85cabcabe5051b62f4649040994c81133e1a827dea",
+                      "bytes":  2510395
+                  },
+                  {
+                      "path":  "images/immagini 1/pecora.png",
+                      "sha256":  "a170a6155174508a6e55dccfa09b82c251ec3aad8d5a5ada1781b01a4033c1c8",
+                      "bytes":  2715788
+                  },
+                  {
+                      "path":  "images/immagini 1/pesce (1).png",
+                      "sha256":  "00d588a9f4e38d66b838bb7b57338596968a0fe87f75763d1bb281a2139ca165",
+                      "bytes":  14783862
+                  },
+                  {
+                      "path":  "images/immagini 1/pettine.png",
+                      "sha256":  "b07bbb9fbb5f2a40e4c954e4a4fccf0252ab139fa1ee7aec279727ac8cf31697",
+                      "bytes":  1752382
+                  },
+                  {
+                      "path":  "images/immagini 1/piatto(1).png",
+                      "sha256":  "4168e2bded7c86930aee63574fa239bb83c0b1b9990213d80c2d5d1ce2bbc74f",
+                      "bytes":  2163985
+                  },
+                  {
+                      "path":  "images/immagini 1/piscina (3).png",
+                      "sha256":  "cfd6b655679ea1712d58973b3d73070053f5ee50394b5d0d5bc9e795861fbd8f",
+                      "bytes":  3089570
+                  },
+                  {
+                      "path":  "images/immagini 1/pizza (02).png",
+                      "sha256":  "fd4b59d2d4786c76ed96c7f09f73f2476946fe13ff90819b9914ced31925b14e",
+                      "bytes":  1562720
+                  },
+                  {
+                      "path":  "images/immagini 1/plastilina (2).png",
+                      "sha256":  "4c4190c41ce17e2cb4d12927896f8c0c93cec37572e0903520df1c9d60e93731",
+                      "bytes":  2123711
+                  },
+                  {
+                      "path":  "images/immagini 1/pomodori (3).png",
+                      "sha256":  "173deb5892bbb273a8eb808be75f4aa91f81ecfdc5599edc16be97f0ea97c17d",
+                      "bytes":  2648954
+                  },
+                  {
+                      "path":  "images/immagini 1/pop corn (2).png",
+                      "sha256":  "fc6825824951460f74f0a2c4f464effbbf4e614f10cfd773608a6c5f8c861ecc",
+                      "bytes":  2113612
+                  },
+                  {
+                      "path":  "images/immagini 1/puzzle (2).png",
+                      "sha256":  "890259a37b88019aa3a50e2f4c4347d92d7f19d0244d45a9141afe4f67879628",
+                      "bytes":  2244492
+                  },
+                  {
+                      "path":  "images/immagini 1/riso (4).png",
+                      "sha256":  "c6fe280b1e614e4cfd96fcc7f7bdf7f0103e78d9cbe27f6015c6ac08f18205e9",
+                      "bytes":  2491720
+                  },
+                  {
+                      "path":  "images/immagini 1/sapone (4).png",
+                      "sha256":  "48884d1baaa6cfb843273f44dabb660fc60d519220489c355ed3e60c8a53eb37",
+                      "bytes":  1406127
+                  },
+                  {
+                      "path":  "images/immagini 1/sapone liquido (10).png",
+                      "sha256":  "03338afbbc61c4d88445b3e5a153295dbc5fe2cbfca900a404b4e9b7948ba537",
+                      "bytes":  1828308
+                  },
+                  {
+                      "path":  "images/immagini 1/scala (3).png",
+                      "sha256":  "9c944367c61f8f60374ed93c3f87853fa3b6c73617824414c98c2d8f1c66a187",
+                      "bytes":  2887207
+                  },
+                  {
+                      "path":  "images/immagini 1/scarpe (10).png",
+                      "sha256":  "6e35b46da99a701a8121adbcec2f9097c08e10f6e880385ad3d2384238d482f1",
+                      "bytes":  2521256
+                  },
+                  {
+                      "path":  "images/immagini 1/scivolo (3).png",
+                      "sha256":  "f27909c4ee913747b962cd0d7572aa9f0d326f7c207f72c096de99745b6967a7",
+                      "bytes":  2382998
+                  },
+                  {
+                      "path":  "images/immagini 1/scopa (4).png",
+                      "sha256":  "00d66cdcecb324b6ba79fa65a86f3678f131827360d7044a4e55c78af849e8da",
+                      "bytes":  2226875
+                  },
+                  {
+                      "path":  "images/immagini 1/secchiello e paletta (2).png",
+                      "sha256":  "febd9c86248b112aeef2bbfb3adde388aa68dc843b591a57d72a2f7d548cd9c1",
+                      "bytes":  2008068
+                  },
+                  {
+                      "path":  "images/immagini 1/secchio (2).png",
+                      "sha256":  "40d790f969a396d2cb4a978d36505fc0fdb9af68e4e87a0b9aeafd0b4e993c8a",
+                      "bytes":  1926792
+                  },
+                  {
+                      "path":  "images/immagini 1/sedia (2).png",
+                      "sha256":  "725c9f4728582758f95b8a6dbd4b0067c37b12c3fde2f19be02b9e2de1108ba6",
+                      "bytes":  1787750
+                  },
+                  {
+                      "path":  "images/immagini 1/serpente (1).png",
+                      "sha256":  "ed6ebea5d3de987855d8cc9cb02be52ae54cfd68c54625020d3edac2ee152866",
+                      "bytes":  1791312
+                  },
+                  {
+                      "path":  "images/immagini 1/spaghetti (2).png",
+                      "sha256":  "71b7f28be5094ad537328ac9210ea7dcde1ba8b706216104085b78eac44b1efe",
+                      "bytes":  2698069
+                  },
+                  {
+                      "path":  "images/immagini 1/spazzolino.png",
+                      "sha256":  "8ddd5c8a8771a574de75f7bf5b358374039e71334b6cd527414a2ea76a6c3353",
+                      "bytes":  1725709
+                  },
+                  {
+                      "path":  "images/immagini 1/succo (5).png",
+                      "sha256":  "81d286154eb59fb591a09a4e74a1a089dbed5801d3346d40a90f34dd91370dee",
+                      "bytes":  871576
+                  },
+                  {
+                      "path":  "images/immagini 1/tacchino (1).png",
+                      "sha256":  "7a19f2d5522faeb69e25e7179da3e66927ec0fffccc47eb409ac405d952996db",
+                      "bytes":  17868371
+                  },
+                  {
+                      "path":  "images/immagini 1/tartaruga (1).png",
+                      "sha256":  "2e4c0411e356fe649d2e831278603001fe3851f4914e7b110ca572b24647d132",
+                      "bytes":  20174195
+                  },
+                  {
+                      "path":  "images/immagini 1/tavolo (1).png",
+                      "sha256":  "9b7c5f18a8e1238025f3d5beabb987d8be5e1d0007c2c02a3e207652a685eadc",
+                      "bytes":  1273819
+                  },
+                  {
+                      "path":  "images/immagini 1/tigre (1).png",
+                      "sha256":  "768bd95c0b9d3fe1833083111290b3b637e9985797094f2cde10bc28612db7b0",
+                      "bytes":  22416951
+                  },
+                  {
+                      "path":  "images/immagini 1/topo (1).png",
+                      "sha256":  "665c3b4f6785981469bd09812942b9bbc24c384eef223310a6f707eb30af9c6b",
+                      "bytes":  14543145
+                  },
+                  {
+                      "path":  "images/immagini 1/torta01.png",
+                      "sha256":  "a34ea20ed83c58fd660339a039de6044204f6060542c5ac5ddd4b7822d0ad2f3",
+                      "bytes":  2415849
+                  },
+                  {
+                      "path":  "images/immagini 1/trattore01.png",
+                      "sha256":  "2cd2d86afb2c437db420f0e1d857c03ba2faee5cc2f3ef9329dc6c77f1be832b",
+                      "bytes":  2533598
+                  },
+                  {
+                      "path":  "images/immagini 1/treno (3).png",
+                      "sha256":  "e935a478246c7e2262d3ff6a67fc1d21582115c113454881413475f290389c3b",
+                      "bytes":  2386404
+                  },
+                  {
+                      "path":  "images/immagini 1/tv (4).png",
+                      "sha256":  "ced21c4d714600dd3d55c4a904ebb93bc392215e95fb2930612683b78dc98be8",
+                      "bytes":  2287283
+                  },
+                  {
+                      "path":  "images/immagini 1/uccello (7).png",
+                      "sha256":  "537923b2821fb7306fce9a3704fee222e792b67d32e99711f27168177708f020",
+                      "bytes":  2342450
+                  },
+                  {
+                      "path":  "images/immagini 1/uova02.png",
+                      "sha256":  "8072eca7c514443bb6ad0568db09b0045f5592227d83495830fe96ec83f31f70",
+                      "bytes":  1013097
+                  },
+                  {
+                      "path":  "images/immagini 1/uva (5).png",
+                      "sha256":  "25817cec7b03fe82c2d825a4b78dc3ecf6ff0eced2364ef05a8a6e28107a8c87",
+                      "bytes":  2986880
+                  },
+                  {
+                      "path":  "images/immagini 1/vasca da bagno.png",
+                      "sha256":  "7b344be9e797b7d73e25a12d5a2a0e56975887fe7735bd0baa8c4cfe0c2af006",
+                      "bytes":  2212524
+                  },
+                  {
+                      "path":  "images/immagini 1/vigili del fuoco (1).png",
+                      "sha256":  "0f1086f35269729c935df699d2afe905379e8c77689d9bec484c5802539cc183",
+                      "bytes":  16580344
+                  },
+                  {
+                      "path":  "images/immagini 1/zaino (1).png",
+                      "sha256":  "d6b727e38e0294844234c443723d92538c38109bbd807476a83be9007b765307",
+                      "bytes":  14550674
+                  },
+                  {
+                      "path":  "images/immagini 1/zebra (1).png",
+                      "sha256":  "271525e8e5b2af3ce7ff69da065c77f57052079d825bf9389234c763c28e24d3",
+                      "bytes":  2720007
+                  },
+                  {
+                      "path":  "images/numeri/1-2.jpg",
+                      "sha256":  "2f85f72e49b3077f296c2988a70e3837d80d02457d28c2e4536d2072aca79083",
+                      "bytes":  13400
+                  },
+                  {
+                      "path":  "images/numeri/2-2.jpg",
+                      "sha256":  "c1593174b390a59fa73ea41dfbf6ab60970636fae5de4fe8b41ab4b23454ac09",
+                      "bytes":  35989
+                  },
+                  {
+                      "path":  "images/numeri/3-2.jpg",
+                      "sha256":  "855347fbdad4a73750a4367994a0d2efd138c9b1d260f9877356276c08d63d23",
+                      "bytes":  34849
+                  },
+                  {
+                      "path":  "images/numeri/4-2.jpg",
+                      "sha256":  "3ee2d47cbef7672444280d5badeaae69605edc08c4040e1a5e998fa026a22a86",
+                      "bytes":  26331
+                  },
+                  {
+                      "path":  "images/numeri/5-2.jpg",
+                      "sha256":  "689ed9bd94f0891e7c4f4512674bef0114489d4e264a321f3f7c84c67ca478b5",
+                      "bytes":  28840
+                  },
+                  {
+                      "path":  "images/numeri/6-2.jpg",
+                      "sha256":  "166f0cd3840220a3004405427159a44f230be15a87ca2c525b5aaa06ce2b3d63",
+                      "bytes":  35980
+                  },
+                  {
+                      "path":  "images/numeri/7-2.jpg",
+                      "sha256":  "13e29dccc163e1a7cdf7fb8bafaf70508f2f1cc488d21181c7dd6ca587a7550a",
+                      "bytes":  26519
+                  },
+                  {
+                      "path":  "images/numeri/8-2.jpg",
+                      "sha256":  "43f245aba6c7436a15d7eab8e5f2c2c1dca9bfbabe90bb6dea53ed57ca59f07b",
+                      "bytes":  45059
+                  },
+                  {
+                      "path":  "images/numeri/9-2.jpg",
+                      "sha256":  "387dde2af1dd1d30553e88ff455c15af23e2132607b5d2b4013868f7e6931e08",
+                      "bytes":  37242
+                  },
+                  {
+                      "path":  "images/oggetti/bicchiere05.png",
+                      "sha256":  "4a2f901f640aef3071bafee27f8eed9e6ea5d46f64ddd674a41c8d5c387fe0eb",
+                      "bytes":  1962729
+                  },
+                  {
+                      "path":  "images/oggetti/bicicletta (5).png",
+                      "sha256":  "fa1d90cf25535ffe4b6f0cf23bfe72663cfa94138af26648854c40e0185252d2",
+                      "bytes":  2187752
+                  },
+                  {
+                      "path":  "images/oggetti/biscotti (3).png",
+                      "sha256":  "2fbf24f5a619f5d3c5fd178ed365925e2891ff73cfd671133a8131576e5d193e",
+                      "bytes":  1756779
+                  },
+                  {
+                      "path":  "images/oggetti/burro (10).png",
+                      "sha256":  "2de88454430abffcb65153d1334d4387218c62c355f339760786b7b94387fe3a",
+                      "bytes":  2228715
+                  },
+                  {
+                      "path":  "images/oggetti/calzini (6).png",
+                      "sha256":  "3974c406724e4322ed010e14924a5ac8194e9b78056ed03c4e543b4396b8fb24",
+                      "bytes":  2015978
+                  },
+                  {
+                      "path":  "images/oggetti/camion (4).png",
+                      "sha256":  "7f05f3865d33bbfabb8b1cc96b31314aa874ae462d10ae4e19b2fdf83cc053c7",
+                      "bytes":  1908777
+                  },
+                  {
+                      "path":  "images/oggetti/cane (1).png",
+                      "sha256":  "9861ca3f313477e85556c92b6c4dd54e3c02c25e99e4310b7d7eed4860890d69",
+                      "bytes":  18889753
+                  },
+                  {
+                      "path":  "images/oggetti/canguro (1).png",
+                      "sha256":  "032559f1f81299f1dbb160c729f5a3b58087f903f7830d8662fc66bb6f6979df",
+                      "bytes":  18387779
+                  },
+                  {
+                      "path":  "images/oggetti/cappello (1).png",
+                      "sha256":  "ebb7d027e111c1679a4e41c7474c5e0c17f10820e66c2bb73fb23415c003856f",
+                      "bytes":  13594554
+                  },
+                  {
+                      "path":  "images/oggetti/chiavi (5).png",
+                      "sha256":  "201c0776d6a4843af9d261085d42f491b3ccde608ebe47d3fe6cd5737b337162",
+                      "bytes":  3103088
+                  },
+                  {
+                      "path":  "images/posate/coltello.jpg",
+                      "sha256":  "36ff43a399fd9985c7fc21399092fe76ac114cf94660e59b63f4a0254d5e0457",
+                      "bytes":  170928
+                  },
+                  {
+                      "path":  "images/posate/cucchiaio.jpg",
+                      "sha256":  "86bb0cda0d933ed89743c4f6317679c731607ad57af18b4b76d86a6bfe77620a",
+                      "bytes":  105477
+                  },
+                  {
+                      "path":  "images/posate/forchetta 01 copia.jpg",
+                      "sha256":  "3af172dedb27a095f83429456faf7d5f13f7fdc7f3e314c954487a1490b65416",
+                      "bytes":  52852
+                  },
+                  {
+                      "path":  "images/vestiti/calzini.png",
+                      "sha256":  "70d29eafade2f5ace2637b0bc9b8abb8f627efb76259937f24fb2de111ca68f6",
+                      "bytes":  2678908
+                  },
+                  {
+                      "path":  "images/vestiti/camicia_2.png",
+                      "sha256":  "3a542456a342b45d669da240c486ffac1767cf7a83ec0de70dcc74c528002f4b",
+                      "bytes":  3040950
+                  },
+                  {
+                      "path":  "images/vestiti/giubbino.png",
+                      "sha256":  "ffe10b55de440102835bcf09f75a66e0d066c6f12c5e6717fd12fcec1cd7eefb",
+                      "bytes":  2022458
+                  },
+                  {
+                      "path":  "images/vestiti/gonna.png",
+                      "sha256":  "b82319568af2c2870e77197d7269ee4a66045dfeaa5ae159fd4af31551f6d706",
+                      "bytes":  2422848
+                  },
+                  {
+                      "path":  "images/vestiti/guanti.png",
+                      "sha256":  "93587f834cdac468eeec4420578463948b34f0e08f41df21215cfff0bb5a2687",
+                      "bytes":  2241715
+                  },
+                  {
+                      "path":  "images/vestiti/maglia.png",
+                      "sha256":  "c4b3e8d144bb035e2746fe5130eb95d88987e4179c7aaa575c5b1578a3868744",
+                      "bytes":  2174260
+                  },
+                  {
+                      "path":  "images/vestiti/maglietta.png",
+                      "sha256":  "92994c8ca220d7513d5a155ef54cd3ec1e1a262d457591955ab6e2ee969fcbd4",
+                      "bytes":  2403000
+                  },
+                  {
+                      "path":  "images/vestiti/mutande.png",
+                      "sha256":  "8174e845dc398ddccc487898c9d7b3194310b8ea1e1b1705ee664cf7edfbc08b",
+                      "bytes":  1687275
+                  },
+                  {
+                      "path":  "images/vestiti/occhiali.png",
+                      "sha256":  "66428b336c853d133469974f401ae14d24519f0a04d2471c6ec89477beb3b115",
+                      "bytes":  2005876
+                  },
+                  {
+                      "path":  "images/vestiti/pantaloni_rettanfolare.png",
+                      "sha256":  "584119654f3ad380182797eca10ac1a44e28bec7abb1a8b892743394cb91d204",
+                      "bytes":  2338441
+                  },
+                  {
+                      "path":  "images/vestiti/pigiama.png",
+                      "sha256":  "096226939308460441df2ca37a4e0bc7b489cea2234caed2167c84976c01d4d8",
+                      "bytes":  2043804
+                  },
+                  {
+                      "path":  "images/vestiti/scarpe.png",
+                      "sha256":  "855e7cb0029f8643c8358ea8157bc593e01a97cd5d6554ec7adf7824142df47d",
+                      "bytes":  2090702
+                  }
+              ]
 }
