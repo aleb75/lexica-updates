@@ -1,10 +1,10 @@
 {
   "builtAt": "",
-  "cards": 89,
+  "cards": 93,
   "catalog": {
-    "bytes": 35961,
+    "bytes": 38155,
     "path": "catalog.json",
-    "sha256": "e4f3883f6348c28ed2d333aea472afad36252cfb9edd43890a965aa5f3612e5e"
+    "sha256": "f6bbc3b051819f649e2b971335610ad2bc798c6645ad4ceb2552b9270a6874be"
   },
   "decks": 7,
   "files": [
@@ -47,6 +47,21 @@
       "bytes": 34009,
       "path": "images/0.jpg",
       "sha256": "39235d5159a6a74894a786ab5365a1e7d8020ee1651d6080ab4b8f2a8dea84dd"
+    },
+    {
+      "bytes": 3274538,
+      "path": "images/02-Oktoberfest-Party-Guide.png",
+      "sha256": "6b5c9bbec395552067f11577a1eb43d52ab6a6808c93e2141058416bbb3f1795"
+    },
+    {
+      "bytes": 3390945,
+      "path": "images/07-Oktoberfest-Party-Guide.png",
+      "sha256": "21a517cf643d6f8cb7f9051f4f9cdc0948762302bb32ebd6fcecac83921293e0"
+    },
+    {
+      "bytes": 583637,
+      "path": "images/08-Oktoberfest-Party-Guide.png",
+      "sha256": "2bd4446045baaecf2584cb4bfc05f25222f187d7cd3949c299a4bbec77494eb6"
     },
     {
       "bytes": 13400,
@@ -92,6 +107,11 @@
       "bytes": 37242,
       "path": "images/9.jpg",
       "sha256": "387dde2af1dd1d30553e88ff455c15af23e2132607b5d2b4013868f7e6931e08"
+    },
+    {
+      "bytes": 335630,
+      "path": "images/9f027ce1e3ad6818763e7ade5dd6e7aa2eb47bd402d48cee93922e2d6957f89e-rimg-w1200-h1200-dcf8f8f8-gmir.jpg",
+      "sha256": "7b71c5bf7a008a7eac2a68ed2520b0638ad27df20795a879152d28d9c6dced1d"
     },
     {
       "bytes": 208286,
@@ -142,6 +162,11 @@
       "bytes": 163457,
       "path": "images/Immagine 2024-08-13 002128.png",
       "sha256": "f9e65bcbed496db80a31e6f605ef9ecb65b1c2f7d67cc27402a5fa200370d4a7"
+    },
+    {
+      "bytes": 271752,
+      "path": "images/Oktoberfest-arriva-a-Brescia.jpg",
+      "sha256": "e08debedeecd8225a66bf430ab8f16912d0a69a19c66f68c5576822ea60fd8de"
     },
     {
       "bytes": 1120360,
@@ -285,8 +310,13 @@
     },
     {
       "bytes": 1642619,
-      "path": "images/arrabbiata donna 3.png",
+      "path": "images/arrabbiata donna 3 (copy).png",
       "sha256": "218eeb18cce1880f54073abedf7ffc2b41d383f661d9826cf448b8dbcf81218d"
+    },
+    {
+      "bytes": 1534316,
+      "path": "images/arrabbiata donna 3.png",
+      "sha256": "b1356f80bcea1596f019efd7eb24bbece157282b58549aecc18e2c1756b38256"
     },
     {
       "bytes": 1257334,
@@ -947,6 +977,16 @@
       "bytes": 1722572,
       "path": "images/gesti/alebra_the_photo_of_a_woman_with_a_thumbs_up_for_a_good_job_3cda882c-acaf-44ae-a03c-f50652fbe532.png",
       "sha256": "516651f5672df0d943717de5ffcd55d4c0d867dc5137f8eb5d544610de417033"
+    },
+    {
+      "bytes": 57773,
+      "path": "images/images 01.jpg",
+      "sha256": "63ff0ce49df99f294a0e85e88fd410e16db8126c9de3e3435e82486b76d9f1a2"
+    },
+    {
+      "bytes": 54475,
+      "path": "images/images 02.jpg",
+      "sha256": "fd511093f672d118f3ad5c41c9f2e536440a34e9fb9e185b685490799d6168d1"
     },
     {
       "bytes": 2040337,
@@ -1858,9 +1898,9 @@
     "posate",
     "vestiti"
   ],
-  "id": "3c821784e59afacbb7b47ee76da418b4f9bd5a09d81b93aafe61cf63ad3d3a97",
-  "images": 367,
+  "id": "84e92d2aef0ae67967e32b2c1dd6a452fd55571b96f6fc96336f7a0b5e2f4484",
+  "images": 375,
   "kind": "lexica-library-index",
-  "sha256": "3c821784e59afacbb7b47ee76da418b4f9bd5a09d81b93aafe61cf63ad3d3a97",
+  "sha256": "84e92d2aef0ae67967e32b2c1dd6a452fd55571b96f6fc96336f7a0b5e2f4484",
   "url": "."
 }
