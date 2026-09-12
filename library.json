@@ -4,7 +4,7 @@
   "catalog": {
     "bytes": 54948,
     "path": "catalog.json",
-    "sha256": "4eeacd75fddaa546e9eacbc3231c90e098d4e3ed5cd3d2c756fe9b5e7173b5d5"
+    "sha256": "270071d22e02fec661d1792f34cf2a9f4d6d16dcbd71ffdee5e5184b26c2c943"
   },
   "decks": 8,
   "files": [
@@ -1929,9 +1929,9 @@
     "rapper",
     "vestiti"
   ],
-  "id": "42860bd0dbb2a67e338bd192a0a3d4c9504d8786be216fe57c59d3111a5f25e1",
+  "id": "eee5ccca1359fa0ded2fe0744cdc8e67f288c81a1765084b8debe45e0c1dddde",
   "images": 381,
   "kind": "lexica-library-index",
-  "sha256": "42860bd0dbb2a67e338bd192a0a3d4c9504d8786be216fe57c59d3111a5f25e1",
+  "sha256": "eee5ccca1359fa0ded2fe0744cdc8e67f288c81a1765084b8debe45e0c1dddde",
   "url": "."
 }
