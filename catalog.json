@@ -1822,6 +1822,99 @@
           "y": 51.9
         }
       ]
+    },
+    {
+      "createdAt": "2026-09-12T16:35:19.654Z",
+      "defaults": {
+        "1f3e6365-9652-48aa-8b9d-b04af36d6b1b": {
+          "text": "capital-bra"
+        },
+        "441eb78e-a108-4af8-9d38-76934ecaa30a": {
+          "imageFile": "rapper/Caro Daur.jpg"
+        },
+        "447e8cbd-f64a-41c6-90f3-7dcb35ed5225": {
+          "text": "Shrin David"
+        },
+        "4d8d1188-8da3-4759-9a21-74a7be513cf6": {
+          "imageFile": "rapper/Shrin David.webp"
+        },
+        "b48dbc8a-1b57-4a5a-93b2-aba12b61ead5": {
+          "imageFile": "rapper/capital-bra.jpg"
+        },
+        "c562d8ee-4a36-4308-8675-93e9f90dd778": {
+          "text": "Caro Daur"
+        }
+      },
+      "id": "ce54dc54-027d-48ad-ac0f-bc2a2fd37915",
+      "name": "New builder",
+      "slots": [
+        {
+          "h": 44.1,
+          "id": "b48dbc8a-1b57-4a5a-93b2-aba12b61ead5",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 36.1,
+          "x": 9.8,
+          "y": 2.5
+        },
+        {
+          "h": 59.9,
+          "id": "441eb78e-a108-4af8-9d38-76934ecaa30a",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 24.4,
+          "x": 71.4,
+          "y": 19.9
+        },
+        {
+          "h": 44.1,
+          "id": "4d8d1188-8da3-4759-9a21-74a7be513cf6",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 36.1,
+          "x": 9.6,
+          "y": 52.9
+        },
+        {
+          "font": "serif",
+          "h": 7.3,
+          "id": "1f3e6365-9652-48aa-8b9d-b04af36d6b1b",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click",
+          "size": 1.4,
+          "w": 14,
+          "x": 48.5,
+          "y": 20.6
+        },
+        {
+          "font": "serif",
+          "h": 6.4,
+          "id": "447e8cbd-f64a-41c6-90f3-7dcb35ed5225",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click2",
+          "size": 1.4,
+          "w": 16.3,
+          "x": 47.9,
+          "y": 70.9
+        },
+        {
+          "font": "serif",
+          "h": 7.9,
+          "id": "c562d8ee-4a36-4308-8675-93e9f90dd778",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click3",
+          "size": 1.4,
+          "w": 18.1,
+          "x": 75.6,
+          "y": 84
+        }
+      ]
     }
   ]
 }
