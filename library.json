@@ -1,12 +1,12 @@
 {
   "builtAt": "",
-  "cards": 104,
+  "cards": 112,
   "catalog": {
-    "bytes": 54948,
+    "bytes": 61955,
     "path": "catalog.json",
-    "sha256": "270071d22e02fec661d1792f34cf2a9f4d6d16dcbd71ffdee5e5184b26c2c943"
+    "sha256": "7810e90548b9d8465c2075fbd7e7ce1b3197cb0a7a9faea1a74edca87e41a9bb"
   },
-  "decks": 8,
+  "decks": 9,
   "files": [
     {
       "bytes": 375684,
@@ -1929,9 +1929,9 @@
     "rapper",
     "vestiti"
   ],
-  "id": "eee5ccca1359fa0ded2fe0744cdc8e67f288c81a1765084b8debe45e0c1dddde",
+  "id": "b80fe810d24d1dc88b4fb98c1d56bcd315b928fac2f5da9f19879e01edea6dec",
   "images": 381,
   "kind": "lexica-library-index",
-  "sha256": "eee5ccca1359fa0ded2fe0744cdc8e67f288c81a1765084b8debe45e0c1dddde",
+  "sha256": "b80fe810d24d1dc88b4fb98c1d56bcd315b928fac2f5da9f19879e01edea6dec",
   "url": "."
 }

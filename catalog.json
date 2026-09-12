@@ -1419,33 +1419,6 @@
       ]
     },
     {
-      "builderId": "lexica.slide",
-      "cardFile": "275477eb-1799-4a64-ae6e-19fac8ffa93e-ca067d6f.png",
-      "createdAt": "2026-09-11T17:23:38.743Z",
-      "fills": {
-        "ca067d6f-ad38-46d3-8198-b83ab18c1649": {
-          "cardFile": "275477eb-1799-4a64-ae6e-19fac8ffa93e-ca067d6f.png",
-          "imageFile": "02-Oktoberfest-Party-Guide.png"
-        }
-      },
-      "id": "275477eb-1799-4a64-ae6e-19fac8ffa93e",
-      "imageFile": "02-Oktoberfest-Party-Guide.png",
-      "kind": "general",
-      "name": "02-Oktoberfest-Party-Guide",
-      "slots": [
-        {
-          "h": 100,
-          "id": "ca067d6f-ad38-46d3-8198-b83ab18c1649",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 100,
-          "x": 0,
-          "y": 0
-        }
-      ]
-    },
-    {
       "cardFile": "b296c74c-78a5-44dc-92e9-bc4b8a4fd2c9.png",
       "createdAt": "2026-09-11T17:39:59.528Z",
       "folder": "acceso e spento",
@@ -1639,6 +1612,258 @@
           "y": 86
         }
       ]
+    },
+    {
+      "builderId": "ce54dc54-027d-48ad-ac0f-bc2a2fd37915",
+      "cardFile": "3fdcb9b7-daa0-466d-8ea6-40b503265e8f-b48dbc8a.jpg",
+      "createdAt": "2026-09-12T16:43:50.190Z",
+      "deckId": "09c102eb-cb46-421f-bd10-a98849e168a4",
+      "fills": {
+        "1f3e6365-9652-48aa-8b9d-b04af36d6b1b": {
+          "text": "capital-bra"
+        },
+        "441eb78e-a108-4af8-9d38-76934ecaa30a": {
+          "cardFile": "3fdcb9b7-daa0-466d-8ea6-40b503265e8f-441eb78e.jpg",
+          "imageFile": "rapper/Caro Daur.jpg"
+        },
+        "447e8cbd-f64a-41c6-90f3-7dcb35ed5225": {
+          "text": "Shrin David"
+        },
+        "4d8d1188-8da3-4759-9a21-74a7be513cf6": {
+          "cardFile": "3fdcb9b7-daa0-466d-8ea6-40b503265e8f-4d8d1188.webp",
+          "imageFile": "rapper/Shrin David.webp"
+        },
+        "b48dbc8a-1b57-4a5a-93b2-aba12b61ead5": {
+          "cardFile": "3fdcb9b7-daa0-466d-8ea6-40b503265e8f-b48dbc8a.jpg",
+          "imageFile": "rapper/capital-bra.jpg"
+        },
+        "c562d8ee-4a36-4308-8675-93e9f90dd778": {
+          "text": "Caro Daur"
+        }
+      },
+      "folder": "rapper",
+      "id": "3fdcb9b7-daa0-466d-8ea6-40b503265e8f",
+      "imageFile": "rapper/capital-bra.jpg",
+      "kind": "general",
+      "name": "capital-bra",
+      "slots": [
+        {
+          "h": 44.1,
+          "id": "b48dbc8a-1b57-4a5a-93b2-aba12b61ead5",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 36.1,
+          "x": 9.8,
+          "y": 2.5
+        },
+        {
+          "h": 59.9,
+          "id": "441eb78e-a108-4af8-9d38-76934ecaa30a",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 24.4,
+          "x": 71.4,
+          "y": 19.9
+        },
+        {
+          "h": 44.1,
+          "id": "4d8d1188-8da3-4759-9a21-74a7be513cf6",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 36.1,
+          "x": 9.6,
+          "y": 52.9
+        },
+        {
+          "font": "serif",
+          "h": 7.3,
+          "id": "1f3e6365-9652-48aa-8b9d-b04af36d6b1b",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click",
+          "size": 1.4,
+          "w": 14,
+          "x": 48.5,
+          "y": 20.6
+        },
+        {
+          "font": "serif",
+          "h": 6.4,
+          "id": "447e8cbd-f64a-41c6-90f3-7dcb35ed5225",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click2",
+          "size": 1.4,
+          "w": 16.3,
+          "x": 47.9,
+          "y": 70.9
+        },
+        {
+          "font": "serif",
+          "h": 7.9,
+          "id": "c562d8ee-4a36-4308-8675-93e9f90dd778",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click3",
+          "size": 1.4,
+          "w": 18.1,
+          "x": 75.6,
+          "y": 84
+        }
+      ]
+    },
+    {
+      "cardFile": "4ba5d7d3-2c7c-46ce-8d22-ad1bccbe7336.png",
+      "createdAt": "2026-09-12T16:47:59.594Z",
+      "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+      "id": "4ba5d7d3-2c7c-46ce-8d22-ad1bccbe7336",
+      "imageFile": "02-Oktoberfest-Party-Guide.png",
+      "name": "Oktoberfest Spezialitäten",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "d5282854-0a27-4452-adbe-c12e15440c99",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Oktoberfest Spezialitäten",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "cardFile": "94419b0a-0c60-42f1-99ba-d14a5b59a158.png",
+      "createdAt": "2026-09-12T16:47:59.594Z",
+      "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+      "id": "94419b0a-0c60-42f1-99ba-d14a5b59a158",
+      "imageFile": "07-Oktoberfest-Party-Guide.png",
+      "name": "Die Leute essen und trinken im Zelt",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "0ace1f72-0492-4bb4-88d8-5986adca1279",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Die Leute essen und trinken im Zelt",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "cardFile": "f14f2589-1a9c-4b44-b696-3978cc52e074.png",
+      "createdAt": "2026-09-12T16:47:59.594Z",
+      "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+      "id": "f14f2589-1a9c-4b44-b696-3978cc52e074",
+      "imageFile": "08-Oktoberfest-Party-Guide.png",
+      "name": "Bier satt haben",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "d62bce91-4f0c-4e51-a4b0-83b8a43ea7cc",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Bier satt haben",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "cardFile": "531651ea-38a4-4d60-9b05-9e38842e9c21.jpg",
+      "createdAt": "2026-09-12T16:47:59.594Z",
+      "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+      "id": "531651ea-38a4-4d60-9b05-9e38842e9c21",
+      "imageFile": "9f027ce1e3ad6818763e7ade5dd6e7aa2eb47bd402d48cee93922e2d6957f89e-rimg-w1200-h1200-dcf8f8f8-gmir.jpg",
+      "name": "9f027ce1e3ad6818763e7ade5dd6e7aa2eb47bd402d48cee93922e2d6957f89e-rimg-w1200-h1200-dcf8f8f8-gmir",
+      "texts": []
+    },
+    {
+      "cardFile": "3f52dc94-3ef3-4852-a642-51e1328cc018.jpg",
+      "createdAt": "2026-09-12T16:47:59.594Z",
+      "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+      "id": "3f52dc94-3ef3-4852-a642-51e1328cc018",
+      "imageFile": "images 01.jpg",
+      "name": "Die Leute stossen an",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "6f88f210-47e4-48f6-b822-a10455602e98",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Die Leute stossen an",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "cardFile": "13d1762e-5673-47f5-848d-7eca52a651d1.jpg",
+      "createdAt": "2026-09-12T16:47:59.594Z",
+      "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+      "id": "13d1762e-5673-47f5-848d-7eca52a651d1",
+      "imageFile": "images 02.jpg",
+      "name": "Oktoberfest Menü",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "dc5b2553-50e4-4edc-9d7f-1abd507b2d76",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Oktoberfest Menü",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "cardFile": "d6869cb8-58a3-4781-ac82-833161b513cb.jpg",
+      "createdAt": "2026-09-12T16:47:59.594Z",
+      "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+      "id": "d6869cb8-58a3-4781-ac82-833161b513cb",
+      "imageFile": "Oktoberfest-arriva-a-Brescia.jpg",
+      "name": "Die Leute stossen an",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "6c286967-de7d-4166-950a-318b36fc2224",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Die Leute stossen an",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "builderId": "lexica.slide",
+      "cardFile": "275477eb-1799-4a64-ae6e-19fac8ffa93e-ca067d6f.png",
+      "createdAt": "2026-09-11T17:23:38.743Z",
+      "fills": {
+        "ca067d6f-ad38-46d3-8198-b83ab18c1649": {
+          "cardFile": "275477eb-1799-4a64-ae6e-19fac8ffa93e-ca067d6f.png",
+          "imageFile": "02-Oktoberfest-Party-Guide.png"
+        }
+      },
+      "id": "275477eb-1799-4a64-ae6e-19fac8ffa93e",
+      "imageFile": "02-Oktoberfest-Party-Guide.png",
+      "kind": "general",
+      "name": "02-Oktoberfest-Party-Guide",
+      "slots": [
+        {
+          "h": 100,
+          "id": "ca067d6f-ad38-46d3-8198-b83ab18c1649",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 100,
+          "x": 0,
+          "y": 0
+        }
+      ]
     }
   ],
   "decks": [
@@ -1705,6 +1930,11 @@
       "createdAt": "2026-09-12T16:31:19.910Z",
       "id": "09c102eb-cb46-421f-bd10-a98849e168a4",
       "name": "rapper"
+    },
+    {
+      "createdAt": "2026-09-12T16:48:49.259Z",
+      "id": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+      "name": "oktoberfest"
     }
   ],
   "cardFolders": [
