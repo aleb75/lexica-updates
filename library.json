@@ -1,12 +1,12 @@
 {
   "builtAt": "",
-  "cards": 93,
+  "cards": 104,
   "catalog": {
-    "bytes": 38155,
+    "bytes": 52543,
     "path": "catalog.json",
-    "sha256": "f6bbc3b051819f649e2b971335610ad2bc798c6645ad4ceb2552b9270a6874be"
+    "sha256": "6d583faae34e2059ba0ac56142142c104deba3d8eca6be7642d1f3339dba3ea5"
   },
-  "decks": 7,
+  "decks": 8,
   "files": [
     {
       "bytes": 375684,
@@ -1784,6 +1784,36 @@
       "sha256": "3af172dedb27a095f83429456faf7d5f13f7fdc7f3e314c954487a1490b65416"
     },
     {
+      "bytes": 28011,
+      "path": "images/rapper/Caro Daur.jpg",
+      "sha256": "8c2481b24b69d8c6cf49842d2e8c9f46641bfd4b9b74a6c3a20c558fb6c575b9"
+    },
+    {
+      "bytes": 23630,
+      "path": "images/rapper/Cro.webp",
+      "sha256": "ae8950e211fc0e40b1c0cc8cd9633386af4de2dc7588b7af753f9d84038939de"
+    },
+    {
+      "bytes": 81779,
+      "path": "images/rapper/Shindi.jpg",
+      "sha256": "02e9d9739277f13a567920d30d9be1a678e431ef12d6591a69ac6c6e55612fc4"
+    },
+    {
+      "bytes": 115840,
+      "path": "images/rapper/Shrin David.webp",
+      "sha256": "bdb2bbd711a1f3e86b0ca29a2b76ee9bd479002b1fb2999506f91291b454d223"
+    },
+    {
+      "bytes": 377096,
+      "path": "images/rapper/Ski-Aggu.jpg",
+      "sha256": "623324b209fd315181b4c384daa69c0bf48fd853fccf449eebbf8dc04742d062"
+    },
+    {
+      "bytes": 576798,
+      "path": "images/rapper/capital-bra.jpg",
+      "sha256": "f765f059c1c36ea1059fd695e0b371389a4f4ce1118a3b55971d2fbcfc38e227"
+    },
+    {
       "bytes": 1198064,
       "path": "images/sopreso bambino 3.png",
       "sha256": "2883b26a916853079990d9c43eac4531d3dd450a9668bf043b9dfad2aefc5410"
@@ -1896,11 +1926,12 @@
     "numeri",
     "oggetti",
     "posate",
+    "rapper",
     "vestiti"
   ],
-  "id": "84e92d2aef0ae67967e32b2c1dd6a452fd55571b96f6fc96336f7a0b5e2f4484",
-  "images": 375,
+  "id": "cb42dc18769e3c8dedbc1071734a07bc4c2cf29f40973c577e2ca978a8894dce",
+  "images": 381,
   "kind": "lexica-library-index",
-  "sha256": "84e92d2aef0ae67967e32b2c1dd6a452fd55571b96f6fc96336f7a0b5e2f4484",
+  "sha256": "cb42dc18769e3c8dedbc1071734a07bc4c2cf29f40973c577e2ca978a8894dce",
   "url": "."
 }
