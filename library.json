@@ -1,10 +1,10 @@
 {
-  "builtAt": "",
+  "builtAt": "2026-09-14T14:52:17.000Z",
   "cards": 112,
   "catalog": {
-    "bytes": 61955,
+    "bytes": 62400,
     "path": "catalog.json",
-    "sha256": "7810e90548b9d8465c2075fbd7e7ce1b3197cb0a7a9faea1a74edca87e41a9bb"
+    "sha256": "c9b237eedc7b2adeba9424ccd302175019cb163b5c7bf2429ae75b36bab6655b"
   },
   "decks": 9,
   "files": [
@@ -1814,6 +1814,26 @@
       "sha256": "f765f059c1c36ea1059fd695e0b371389a4f4ce1118a3b55971d2fbcfc38e227"
     },
     {
+      "bytes": 2502463,
+      "path": "images/ricette/ricetta 2.png",
+      "sha256": "9cbc5f33677e26f0778dfcc9ac99c6bf47cede46f2ffc0130756e9d9418c472c"
+    },
+    {
+      "bytes": 2599584,
+      "path": "images/ricette/ricetta 3.png",
+      "sha256": "c5a8dd446beda8f08226f67a62631e67e2534965c116e14832d5e2334b3bf1af"
+    },
+    {
+      "bytes": 2552662,
+      "path": "images/ricette/ricetta 4.png",
+      "sha256": "c89bbdd37a0860ee35212cfd136db846dd7ed002ed5d03f3e133a37e9e62a3a6"
+    },
+    {
+      "bytes": 2318647,
+      "path": "images/ricette/ricetta.png",
+      "sha256": "5c289974cec9c58e0042408d30bf254060c668aea4afa31ec296496a52680c78"
+    },
+    {
       "bytes": 1198064,
       "path": "images/sopreso bambino 3.png",
       "sha256": "2883b26a916853079990d9c43eac4531d3dd450a9668bf043b9dfad2aefc5410"
@@ -1927,11 +1947,12 @@
     "oggetti",
     "posate",
     "rapper",
+    "ricette",
     "vestiti"
   ],
-  "id": "b80fe810d24d1dc88b4fb98c1d56bcd315b928fac2f5da9f19879e01edea6dec",
-  "images": 381,
+  "id": "200aa94dd9219fa3fed281be3e5fad53b0de826d43cf77d6465c0ead8acd5eb4",
+  "images": 385,
   "kind": "lexica-library-index",
-  "sha256": "b80fe810d24d1dc88b4fb98c1d56bcd315b928fac2f5da9f19879e01edea6dec",
+  "sha256": "200aa94dd9219fa3fed281be3e5fad53b0de826d43cf77d6465c0ead8acd5eb4",
   "url": "."
 }

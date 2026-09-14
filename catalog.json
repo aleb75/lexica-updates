@@ -430,8 +430,7 @@
       "kind": "pair",
       "name": "Brot",
       "otherImageFile": "immagini 1/mela.png",
-      "otherName": "Apfel",
-      "texts": []
+      "otherName": "Apfel"
     },
     {
       "createdAt": "2026-09-06T17:04:50.251Z",
@@ -1740,14 +1739,14 @@
       "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
       "id": "94419b0a-0c60-42f1-99ba-d14a5b59a158",
       "imageFile": "07-Oktoberfest-Party-Guide.png",
-      "name": "Die Leute essen und trinken im Zelt",
+      "name": "Im Bierzelt ist super Stimmung!",
       "texts": [
         {
           "font": "serif",
           "id": "0ace1f72-0492-4bb4-88d8-5986adca1279",
           "reveal": "click",
           "size": 1.8,
-          "text": "Die Leute essen und trinken im Zelt",
+          "text": "Im Bierzelt ist super Stimmung!",
           "x": 50,
           "y": 86
         }
@@ -1759,14 +1758,14 @@
       "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
       "id": "f14f2589-1a9c-4b44-b696-3978cc52e074",
       "imageFile": "08-Oktoberfest-Party-Guide.png",
-      "name": "Bier satt haben",
+      "name": "Die bayerischen Frauen tragen die traditionelle Tracht",
       "texts": [
         {
           "font": "serif",
           "id": "d62bce91-4f0c-4e51-a4b0-83b8a43ea7cc",
           "reveal": "click",
           "size": 1.8,
-          "text": "Bier satt haben",
+          "text": "Die bayerischen Frauen tragen die traditionelle Tracht",
           "x": 50,
           "y": 86
         }
@@ -1779,7 +1778,17 @@
       "id": "531651ea-38a4-4d60-9b05-9e38842e9c21",
       "imageFile": "9f027ce1e3ad6818763e7ade5dd6e7aa2eb47bd402d48cee93922e2d6957f89e-rimg-w1200-h1200-dcf8f8f8-gmir.jpg",
       "name": "9f027ce1e3ad6818763e7ade5dd6e7aa2eb47bd402d48cee93922e2d6957f89e-rimg-w1200-h1200-dcf8f8f8-gmir",
-      "texts": []
+      "texts": [
+        {
+          "font": "serif",
+          "id": "30d9caa8-4028-48b6-b327-6f7a75d483ef",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "9f027ce1e3ad6818763e7ade5dd6e7aa2eb47bd402d48cee93922e2d6957f89e-rimg-w1200-h1200-dcf8f8f8-gmir",
+          "x": 50,
+          "y": 86
+        }
+      ]
     },
     {
       "cardFile": "3f52dc94-3ef3-4852-a642-51e1328cc018.jpg",
@@ -1787,14 +1796,14 @@
       "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
       "id": "3f52dc94-3ef3-4852-a642-51e1328cc018",
       "imageFile": "images 01.jpg",
-      "name": "Die Leute stossen an",
+      "name": "die Leute treffen sich im Zelt und trinken viel Bier",
       "texts": [
         {
           "font": "serif",
           "id": "6f88f210-47e4-48f6-b822-a10455602e98",
           "reveal": "click",
           "size": 1.8,
-          "text": "Die Leute stossen an",
+          "text": "die Leute treffen sich im Zelt und trinken viel Bier",
           "x": 50,
           "y": 86
         }
@@ -1806,14 +1815,14 @@
       "deckId": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
       "id": "13d1762e-5673-47f5-848d-7eca52a651d1",
       "imageFile": "images 02.jpg",
-      "name": "Oktoberfest Menü",
+      "name": "Oktoberfest Speisenkarte",
       "texts": [
         {
           "font": "serif",
           "id": "dc5b2553-50e4-4edc-9d7f-1abd507b2d76",
           "reveal": "click",
           "size": 1.8,
-          "text": "Oktoberfest Menü",
+          "text": "Oktoberfest Speisenkarte",
           "x": 50,
           "y": 86
         }
