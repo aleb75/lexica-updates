@@ -1,12 +1,12 @@
 {
-  "builtAt": "2026-09-14T14:52:17.000Z",
-  "cards": 112,
+  "builtAt": "2026-09-14T14:56:01.000Z",
+  "cards": 116,
   "catalog": {
-    "bytes": 62400,
+    "bytes": 63855,
     "path": "catalog.json",
-    "sha256": "c9b237eedc7b2adeba9424ccd302175019cb163b5c7bf2429ae75b36bab6655b"
+    "sha256": "c9fc06862e36e9edc0aec5f2f4a8099fab9165d8e3db8a13c7ec3b0fd8314c0c"
   },
-  "decks": 9,
+  "decks": 10,
   "files": [
     {
       "bytes": 375684,
@@ -1950,9 +1950,9 @@
     "ricette",
     "vestiti"
   ],
-  "id": "200aa94dd9219fa3fed281be3e5fad53b0de826d43cf77d6465c0ead8acd5eb4",
+  "id": "58a9210d0a79371b921edbd51857cd27a7526c9a5296b4901d7b80535e1b794b",
   "images": 385,
   "kind": "lexica-library-index",
-  "sha256": "200aa94dd9219fa3fed281be3e5fad53b0de826d43cf77d6465c0ead8acd5eb4",
+  "sha256": "58a9210d0a79371b921edbd51857cd27a7526c9a5296b4901d7b80535e1b794b",
   "url": "."
 }

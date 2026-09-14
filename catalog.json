@@ -1873,6 +1873,42 @@
           "y": 0
         }
       ]
+    },
+    {
+      "cardFile": "ba14f390-088a-43fd-b741-9da984327404.png",
+      "createdAt": "2026-09-14T14:54:28.736Z",
+      "deckId": "639f21c8-0704-4ad2-84f7-0db1b2670072",
+      "folder": "ricette",
+      "id": "ba14f390-088a-43fd-b741-9da984327404",
+      "imageFile": "ricette/ricetta 2.png",
+      "name": "ricetta 2"
+    },
+    {
+      "cardFile": "cef598a0-15a7-45c4-93ac-3be19afe15e2.png",
+      "createdAt": "2026-09-14T14:54:28.736Z",
+      "deckId": "639f21c8-0704-4ad2-84f7-0db1b2670072",
+      "folder": "ricette",
+      "id": "cef598a0-15a7-45c4-93ac-3be19afe15e2",
+      "imageFile": "ricette/ricetta 3.png",
+      "name": "ricetta 3"
+    },
+    {
+      "cardFile": "f1aa5d1b-eaf7-4114-a0f0-75f4751d82a1.png",
+      "createdAt": "2026-09-14T14:54:28.736Z",
+      "deckId": "639f21c8-0704-4ad2-84f7-0db1b2670072",
+      "folder": "ricette",
+      "id": "f1aa5d1b-eaf7-4114-a0f0-75f4751d82a1",
+      "imageFile": "ricette/ricetta 4.png",
+      "name": "ricetta 4"
+    },
+    {
+      "cardFile": "663ffcf4-3864-4636-9fc7-7ca282fc35ac.png",
+      "createdAt": "2026-09-14T14:54:28.736Z",
+      "deckId": "639f21c8-0704-4ad2-84f7-0db1b2670072",
+      "folder": "ricette",
+      "id": "663ffcf4-3864-4636-9fc7-7ca282fc35ac",
+      "imageFile": "ricette/ricetta.png",
+      "name": "ricetta"
     }
   ],
   "decks": [
@@ -1944,6 +1980,11 @@
       "createdAt": "2026-09-12T16:48:49.259Z",
       "id": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
       "name": "oktoberfest"
+    },
+    {
+      "createdAt": "2026-09-14T14:55:39.730Z",
+      "id": "639f21c8-0704-4ad2-84f7-0db1b2670072",
+      "name": "ricette"
     }
   ],
   "cardFolders": [
@@ -1954,7 +1995,8 @@
     "immagini 1",
     "numeri",
     "oggetti",
-    "posate"
+    "posate",
+    "ricette"
   ],
   "builders": [
     {
