@@ -1,0 +1,330 @@
+{
+  "builders": [
+    {
+      "createdAt": "2026-09-14T00:28:02.192Z",
+      "defaults": {
+        "0ccf26e9-d893-49c3-bfdc-3d2e98d0eb4b": {
+          "choices": [
+            "lo spazio bianco",
+            "opzione non corretta",
+            "opzione non corretta",
+            "opzione non corretta"
+          ],
+          "correctChoice": 0,
+          "shuffleChoices": true,
+          "text": "\n\nInserire un testo nella finestra di input e usare il carattere \"?\" per generare lo \"spazio bianco\". \n\nSpecificare due o più opzioni .\n\nDopo il clic del mouse o dopo aver premuto la barra spaziatrice \nl'opzione corretta riempirà ⍰"
+        }
+      },
+      "id": "ed64bdb8-a284-41f5-a952-9397ad360a69",
+      "name": "fill-in",
+      "slots": [
+        {
+          "boxFill": "#000000",
+          "boxInk": "#ffffff",
+          "font": "serif",
+          "h": 94.4,
+          "id": "0ccf26e9-d893-49c3-bfdc-3d2e98d0eb4b",
+          "kind": "cloze",
+          "label": "Fill-in",
+          "reveal": "always",
+          "size": 4.2,
+          "w": 88.5,
+          "x": 0,
+          "y": 5.1
+        },
+        {
+          "choiceIndex": 0,
+          "clozeId": "0ccf26e9-d893-49c3-bfdc-3d2e98d0eb4b",
+          "font": "serif",
+          "h": 11.1,
+          "id": "5866ca74-56eb-47fb-923e-d50d4d0fea66",
+          "kind": "clozeChoice",
+          "label": "Option 1",
+          "reveal": "always",
+          "size": 3.5,
+          "w": 14.8,
+          "x": 14.6,
+          "y": 80.1
+        },
+        {
+          "choiceIndex": 1,
+          "clozeId": "0ccf26e9-d893-49c3-bfdc-3d2e98d0eb4b",
+          "font": "serif",
+          "h": 11.1,
+          "id": "a0e5e389-e6d9-4ad1-977e-962a42305c01",
+          "kind": "clozeChoice",
+          "label": "Option 2",
+          "reveal": "always",
+          "size": 3.5,
+          "w": 14.8,
+          "x": 30.4,
+          "y": 80.1
+        },
+        {
+          "choiceIndex": 2,
+          "clozeId": "0ccf26e9-d893-49c3-bfdc-3d2e98d0eb4b",
+          "font": "serif",
+          "h": 11.1,
+          "id": "a1d0f784-355d-4b96-8186-a36edd7c8d79",
+          "kind": "clozeChoice",
+          "label": "Option 3",
+          "reveal": "always",
+          "size": 3.5,
+          "w": 14.8,
+          "x": 46.8,
+          "y": 79.9
+        },
+        {
+          "choiceIndex": 3,
+          "clozeId": "0ccf26e9-d893-49c3-bfdc-3d2e98d0eb4b",
+          "font": "serif",
+          "h": 11.1,
+          "id": "bdf6782a-3eda-4f98-981c-8a4356f65fa9",
+          "kind": "clozeChoice",
+          "label": "Option 4",
+          "reveal": "always",
+          "size": 3.5,
+          "w": 14.8,
+          "x": 62.6,
+          "y": 80
+        },
+        {
+          "h": 9.5,
+          "iconCropL": 0.267,
+          "iconCropR": 0.257,
+          "iconFile": "icona dita alzate 3.png",
+          "iconFill": "#4f174f",
+          "id": "50672f86-ad48-46e6-abce-e1aa2b54ff0f",
+          "kind": "icon",
+          "label": "icona dita alzate 3",
+          "reveal": "always",
+          "w": 4.3,
+          "x": 51.9,
+          "y": 68.2
+        },
+        {
+          "h": 9.5,
+          "iconCropL": 0.267,
+          "iconCropR": 0.257,
+          "iconFile": "icona dita alzate 4.png",
+          "iconFill": "#4f174f",
+          "id": "6d00a2e5-a132-4541-820a-203255bf7c86",
+          "kind": "icon",
+          "label": "icona dita alzate 4",
+          "reveal": "always",
+          "w": 4.3,
+          "x": 68,
+          "y": 68.1
+        },
+        {
+          "h": 9.5,
+          "iconCropL": 0.267,
+          "iconCropR": 0.257,
+          "iconFile": "icona dita alzate 2.png",
+          "iconFill": "#4f174f",
+          "id": "80841a2a-67b5-4cfc-bfda-a547043e361b",
+          "kind": "icon",
+          "label": "icona dita alzate 2",
+          "reveal": "always",
+          "w": 4.3,
+          "x": 35,
+          "y": 68.6
+        },
+        {
+          "h": 9.5,
+          "iconCropL": 0.267,
+          "iconCropR": 0.257,
+          "iconFile": "icona dita alzate 1b.png",
+          "iconFill": "#4f174f",
+          "id": "4d8097ad-a24f-454f-bb13-8b805e2a04a9",
+          "kind": "icon",
+          "label": "icona dita alzate 1b",
+          "reveal": "always",
+          "w": 4.3,
+          "x": 19.7,
+          "y": 68.1
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-09T01:02:58.330Z",
+      "defaults": {
+        "aebfb0db-1df4-49b3-b536-f66d6eac1ee0": {
+          "text": "Verde"
+        }
+      },
+      "id": "8e7c7078-2479-4a7a-bf83-c7f421a6d87d",
+      "name": "New builder",
+      "slots": [
+        {
+          "h": 46.7,
+          "id": "d7457ac0-0ad5-438f-82bc-723d0c5f35f1",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 8.5,
+          "y": 51.5
+        },
+        {
+          "font": "serif",
+          "h": 28.2,
+          "id": "aebfb0db-1df4-49b3-b536-f66d6eac1ee0",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click",
+          "size": 1.8,
+          "w": 19.4,
+          "x": 75.1,
+          "y": 33.7
+        },
+        {
+          "h": 46.7,
+          "id": "c799cec4-3502-40a1-b8a8-99140880c87e",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 8.5,
+          "y": 3.2
+        },
+        {
+          "h": 46.7,
+          "id": "03ac6b6c-b0d8-4d76-ab36-7df4d4b37585",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 38.5,
+          "y": 3.6
+        },
+        {
+          "h": 46.7,
+          "id": "a74349a3-6842-4931-9f09-b6e57e791326",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 38.6,
+          "y": 51.9
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-14T23:18:35.459Z",
+      "defaults": {
+        "f108297e-3c68-4016-ba3b-a540d6f638e5": {
+          "text": "Stock"
+        }
+      },
+      "distractors": [
+        {
+          "id": "d49187f9-f62d-4d82-b443-a0accb9a3706",
+          "images": [
+            "oggetti/bicchiere05.png",
+            "oggetti/biscotti (3).png",
+            "oggetti/burro (10).png",
+            "oggetti/calzini (6).png",
+            "oggetti/camion (4).png",
+            "oggetti/canguro (1).png",
+            "oggetti/cappello (1).png",
+            "oggetti/chiavi (5).png"
+          ]
+        }
+      ],
+      "id": "f1cdd5f2-3040-4a3e-9ca4-858c96a92759",
+      "name": "New builder",
+      "slots": [
+        {
+          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
+          "h": 53.2,
+          "id": "341d9aeb-3ce0-4af7-b31e-a1bcc65f680d",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "switchId": "2b38af0c-1a12-41e4-92e8-741377e81ace",
+          "w": 27.4,
+          "x": 12.1,
+          "y": 22.2,
+          "z": 1
+        },
+        {
+          "font": "serif",
+          "h": 8.6,
+          "id": "f108297e-3c68-4016-ba3b-a540d6f638e5",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "always",
+          "size": 6,
+          "w": 20,
+          "x": 35.5,
+          "y": 6.2,
+          "z": 2
+        },
+        {
+          "distractorId": "d49187f9-f62d-4d82-b443-a0accb9a3706",
+          "h": 53.2,
+          "id": "bfbe154e-74b9-43ec-8c72-7d870029be58",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "switchId": "2b38af0c-1a12-41e4-92e8-741377e81ace",
+          "w": 27.4,
+          "x": 47,
+          "y": 21.5,
+          "z": 0
+        },
+        {
+          "h": 12,
+          "iconCropL": 0.294,
+          "iconCropR": 0.263,
+          "iconFile": "icona dita alzate 1b.png",
+          "id": "d50fbe84-5aee-4429-a956-54979118bc41",
+          "kind": "icon",
+          "label": "icona dita alzate 1b",
+          "reveal": "always",
+          "w": 5.3,
+          "x": 25.2,
+          "y": 78.2,
+          "z": 4
+        },
+        {
+          "h": 12,
+          "iconCropL": 0.294,
+          "iconCropR": 0.263,
+          "iconFile": "icona dita alzate 2.png",
+          "id": "e13578cc-3293-4ffc-a496-57b1ff83b58a",
+          "kind": "icon",
+          "label": "icona dita alzate 2",
+          "reveal": "always",
+          "w": 5.3,
+          "x": 56.7,
+          "y": 79.2,
+          "z": 5
+        },
+        {
+          "arrowColor": "#c43c3c",
+          "arrowHead": 29,
+          "arrowWidth": 10.2,
+          "ax1": 22.2,
+          "ax2": 77.8,
+          "ay1": 10.8,
+          "ay2": 89.2,
+          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
+          "h": 27.8,
+          "id": "89c30c71-092d-4aa1-9f57-7048c5c3888b",
+          "kind": "arrow",
+          "label": "Arrow",
+          "reveal": "click",
+          "w": 13.5,
+          "x": 4.2,
+          "y": 8.2,
+          "z": 6
+        }
+      ]
+    }
+  ],
+  "builtAt": "2026-09-15T02:55:06.000Z",
+  "kind": "lexica-builders",
+  "version": 1
+}
