@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-17T03:21:38.000Z",
+  "builtAt": "2026-09-17T03:21:44.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -479,6 +479,14 @@
       "modified": "2026-09-17T02:41:17.000Z",
       "path": "images/azioni nuove/comprare.png",
       "sha256": "011389e2236db6e0858af01fc300ef4d7817cab62235f04befdaba725750a2e6",
+      "width": 1024
+    },
+    {
+      "bytes": 1445794,
+      "height": 1024,
+      "modified": "2026-09-17T02:41:17.000Z",
+      "path": "images/azioni nuove/dare.png",
+      "sha256": "3eef0f25ea9ca8f3b94a6956da9cfc2f0f35a3520d4c6cf0a3cf59b8b1a2df9c",
       "width": 1024
     },
     {
