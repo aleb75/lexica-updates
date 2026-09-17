@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-17T03:21:25.000Z",
+  "builtAt": "2026-09-17T03:21:32.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -463,6 +463,14 @@
       "modified": "2026-09-17T02:41:17.000Z",
       "path": "images/azioni nuove/aiutare.png",
       "sha256": "ab9c93bca2121be68a56a969b16083a7a389d405963ea5dd6c44ac89ee2f647a",
+      "width": 1024
+    },
+    {
+      "bytes": 1499822,
+      "height": 1024,
+      "modified": "2026-09-17T02:41:17.000Z",
+      "path": "images/azioni nuove/aprire.png",
+      "sha256": "2c1efdd98fc09dc0dd767629dee65b745befff5e444c15b7a9c7e59df38e6239",
       "width": 1024
     },
     {
