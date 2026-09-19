@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T01:43:12.000Z",
+  "builtAt": "2026-09-19T01:43:16.000Z",
   "files": [
     {
       "bytes": 11328,
@@ -23,6 +23,14 @@
       "modified": "2026-09-17T23:43:42.000Z",
       "path": "audio/ai/Wie heißt du.mp3",
       "sha256": "ce19139046ddc958100b471090897fb1cc42cf73f210c11ba4d7a645cffefc45",
+      "width": 0
+    },
+    {
+      "bytes": 20106,
+      "height": 0,
+      "modified": "2026-09-19T01:20:29.000Z",
+      "path": "audio/ai/der Apfel.mp3",
+      "sha256": "0f5769c94ca74f5c3596f71dc576f7efb7716c62311babd9144e71702165bfd4",
       "width": 0
     }
   ],
