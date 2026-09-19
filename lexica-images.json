@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-17T03:21:57.000Z",
+  "builtAt": "2026-09-19T01:25:14.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -200,6 +200,14 @@
       "path": "images/Oktoberfest-arriva-a-Brescia.jpg",
       "sha256": "e08debedeecd8225a66bf430ab8f16912d0a69a19c66f68c5576822ea60fd8de",
       "width": 800
+    },
+    {
+      "bytes": 15248,
+      "height": 1280,
+      "modified": "2026-09-18T23:57:31.000Z",
+      "path": "images/Speaker_Icon.svg.webp",
+      "sha256": "a9b04cdba77caa25e61561826162fea53c72b121f6289716f9da83caac463891",
+      "width": 1280
     },
     {
       "bytes": 1120360,
@@ -3084,6 +3092,7 @@
   ],
   "folders": [
     "acceso e spento",
+    "ai",
     "aperto e chiuso",
     "azioni",
     "azioni nuove",
