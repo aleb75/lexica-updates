@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T01:43:26.000Z",
+  "builtAt": "2026-09-19T01:43:31.000Z",
   "files": [
     {
       "bytes": 11328,
@@ -55,6 +55,14 @@
       "modified": "2026-09-17T23:39:13.000Z",
       "path": "audio/ai/speech.mp3",
       "sha256": "2e91f187a682855e71058f1657c32797e2f9f0409163866058ea8405485c2de7",
+      "width": 0
+    },
+    {
+      "bytes": 17598,
+      "height": 0,
+      "modified": "2026-09-17T23:26:02.000Z",
+      "path": "audio/speech-2.mp3",
+      "sha256": "a0da53279ed551fdd6c174203c78ebad72d4e37910b7a7548a73f57bb78a8aa9",
       "width": 0
     }
   ],
