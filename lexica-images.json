@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T01:25:26.000Z",
+  "builtAt": "2026-09-19T15:59:45.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -328,6 +328,14 @@
       "path": "images/ai/A-simple-red-circle-on-a-white-b.png",
       "sha256": "f96a6661c2aaedbbfdb1fb29346ee144e9804c36139c2e63f76229cdf1a93670",
       "width": 1024
+    },
+    {
+      "bytes": 1016126,
+      "height": 608,
+      "modified": "2026-09-19T15:59:17.000Z",
+      "path": "images/ai/Due-persone-che-si-salutano-dice-2-2-2-2-2.png",
+      "sha256": "7f4fc2d41f8424038228dca38eb17f6474d7e4cd8f3496a7bda9b47a47bd5cda",
+      "width": 1088
     },
     {
       "bytes": 1722572,
