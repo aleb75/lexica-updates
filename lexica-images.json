@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T01:25:14.000Z",
+  "builtAt": "2026-09-19T01:25:18.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -312,6 +312,14 @@
       "path": "images/acceso e spento/torcia elettrica spenta.png",
       "sha256": "c5b1bd9a15950659046bb51485dfc0ee964e596cd95e6716f5ab2518353d3e6f",
       "width": 1024
+    },
+    {
+      "bytes": 996002,
+      "height": 624,
+      "modified": "2026-09-18T23:45:34.000Z",
+      "path": "images/ai/A-man-picking-up-a-book-from-a.png",
+      "sha256": "36a9b4929aec3a13ccfdf8cc50ac81cbee02da3e2d265542b6337f8756d509bf",
+      "width": 1088
     },
     {
       "bytes": 1722572,
