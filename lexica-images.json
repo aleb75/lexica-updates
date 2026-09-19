@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T15:59:56.000Z",
+  "builtAt": "2026-09-19T16:00:02.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -351,6 +351,14 @@
       "modified": "2026-09-19T15:58:15.000Z",
       "path": "images/ai/Due-persone-che-si-salutano-dice-2-2-2.png",
       "sha256": "b919615fc92bc277f3d8fc45661b6cc547fcab12a4c43db5d4cc6c52174ea31d",
+      "width": 1088
+    },
+    {
+      "bytes": 827347,
+      "height": 608,
+      "modified": "2026-09-19T15:57:24.000Z",
+      "path": "images/ai/Due-persone-che-si-salutano-dice-2-2.png",
+      "sha256": "33e929af54be3e251e1e983695f377d7d02c0ceb3263610162064c5a666152b7",
       "width": 1088
     },
     {
