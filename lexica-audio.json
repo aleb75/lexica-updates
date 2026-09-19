@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T01:43:23.000Z",
+  "builtAt": "2026-09-19T01:43:26.000Z",
   "files": [
     {
       "bytes": 11328,
@@ -47,6 +47,14 @@
       "modified": "2026-09-19T01:13:21.000Z",
       "path": "audio/ai/die Katze.mp3",
       "sha256": "7b58fa6dff40b9c5e81709563e7932ff7f7fabe94fa90c6dd927b9677dd78bb3",
+      "width": 0
+    },
+    {
+      "bytes": 15090,
+      "height": 0,
+      "modified": "2026-09-17T23:39:13.000Z",
+      "path": "audio/ai/speech.mp3",
+      "sha256": "2e91f187a682855e71058f1657c32797e2f9f0409163866058ea8405485c2de7",
       "width": 0
     }
   ],
