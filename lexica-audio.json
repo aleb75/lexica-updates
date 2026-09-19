@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T01:43:19.000Z",
+  "builtAt": "2026-09-19T01:43:23.000Z",
   "files": [
     {
       "bytes": 11328,
@@ -39,6 +39,14 @@
       "modified": "2026-09-19T01:18:10.000Z",
       "path": "audio/ai/der Hund.mp3",
       "sha256": "9f44c34bff3f631ebfd25fd4a53a4af10c6ec659e3b31d174881f253daa94a31",
+      "width": 0
+    },
+    {
+      "bytes": 23031,
+      "height": 0,
+      "modified": "2026-09-19T01:13:21.000Z",
+      "path": "audio/ai/die Katze.mp3",
+      "sha256": "7b58fa6dff40b9c5e81709563e7932ff7f7fabe94fa90c6dd927b9677dd78bb3",
       "width": 0
     }
   ],
