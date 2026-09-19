@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T01:43:04.000Z",
+  "builtAt": "2026-09-19T01:43:08.000Z",
   "files": [
     {
       "bytes": 11328,
@@ -7,6 +7,14 @@
       "modified": "2026-09-19T00:06:04.000Z",
       "path": "audio/ai/Freundschaft.mp3",
       "sha256": "e58dd439f67f405b2e95b8a1cad8de41aa12a178d20b52f270d894bf0216e3d2",
+      "width": 0
+    },
+    {
+      "bytes": 10075,
+      "height": 0,
+      "modified": "2026-09-19T00:57:29.000Z",
+      "path": "audio/ai/Glück.mp3",
+      "sha256": "d3e7847ebdf6c0bbac85c09fbbd251cfcc0ace9d0a339e73a02c0c2467e4bf37",
       "width": 0
     }
   ],
