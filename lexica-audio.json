@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T01:43:16.000Z",
+  "builtAt": "2026-09-19T01:43:19.000Z",
   "files": [
     {
       "bytes": 11328,
@@ -31,6 +31,14 @@
       "modified": "2026-09-19T01:20:29.000Z",
       "path": "audio/ai/der Apfel.mp3",
       "sha256": "0f5769c94ca74f5c3596f71dc576f7efb7716c62311babd9144e71702165bfd4",
+      "width": 0
+    },
+    {
+      "bytes": 31808,
+      "height": 0,
+      "modified": "2026-09-19T01:18:10.000Z",
+      "path": "audio/ai/der Hund.mp3",
+      "sha256": "9f44c34bff3f631ebfd25fd4a53a4af10c6ec659e3b31d174881f253daa94a31",
       "width": 0
     }
   ],
