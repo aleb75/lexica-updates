@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T01:25:18.000Z",
+  "builtAt": "2026-09-19T01:25:26.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -320,6 +320,14 @@
       "path": "images/ai/A-man-picking-up-a-book-from-a.png",
       "sha256": "36a9b4929aec3a13ccfdf8cc50ac81cbee02da3e2d265542b6337f8756d509bf",
       "width": 1088
+    },
+    {
+      "bytes": 709255,
+      "height": 1024,
+      "modified": "2026-09-18T23:12:08.000Z",
+      "path": "images/ai/A-simple-red-circle-on-a-white-b.png",
+      "sha256": "f96a6661c2aaedbbfdb1fb29346ee144e9804c36139c2e63f76229cdf1a93670",
+      "width": 1024
     },
     {
       "bytes": 1722572,
