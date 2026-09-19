@@ -1,18 +1,30 @@
 {
   "builders": [
     {
-      "createdAt": "2026-09-14T00:28:02.192Z",
+      "createdAt": "2026-09-18T01:51:39.669Z",
       "defaults": {
         "0ccf26e9-d893-49c3-bfdc-3d2e98d0eb4b": {
           "choices": [
-            "lo spazio bianco",
-            "opzione non corretta",
-            "opzione non corretta",
-            "opzione non corretta"
+            "am",
+            "be",
+            "are",
+            "can"
           ],
           "correctChoice": 0,
           "shuffleChoices": true,
-          "text": "\n\nInserire un testo nella finestra di input e usare il carattere \"?\" per generare lo \"spazio bianco\". \n\nSpecificare due o più opzioni .\n\nDopo il clic del mouse o dopo aver premuto la barra spaziatrice \nl'opzione corretta riempirà ⍰"
+          "text": "They ⍰ happy."
+        },
+        "5866ca74-56eb-47fb-923e-d50d4d0fea66": {
+          "text": "am"
+        },
+        "a0e5e389-e6d9-4ad1-977e-962a42305c01": {
+          "text": "is"
+        },
+        "a1d0f784-355d-4b96-8186-a36edd7c8d79": {
+          "text": "are"
+        },
+        "bdf6782a-3eda-4f98-981c-8a4356f65fa9": {
+          "text": "be"
         }
       },
       "id": "ed64bdb8-a284-41f5-a952-9397ad360a69",
@@ -42,6 +54,7 @@
           "label": "Option 1",
           "reveal": "always",
           "size": 3.5,
+          "switchId": "22a81091-858e-4efc-ad60-2ccb4c4fad69",
           "w": 14.8,
           "x": 14.6,
           "y": 80.1
@@ -56,6 +69,7 @@
           "label": "Option 2",
           "reveal": "always",
           "size": 3.5,
+          "switchId": "22a81091-858e-4efc-ad60-2ccb4c4fad69",
           "w": 14.8,
           "x": 30.4,
           "y": 80.1
@@ -70,6 +84,7 @@
           "label": "Option 3",
           "reveal": "always",
           "size": 3.5,
+          "switchId": "22a81091-858e-4efc-ad60-2ccb4c4fad69",
           "w": 14.8,
           "x": 46.8,
           "y": 79.9
@@ -84,6 +99,7 @@
           "label": "Option 4",
           "reveal": "always",
           "size": 3.5,
+          "switchId": "22a81091-858e-4efc-ad60-2ccb4c4fad69",
           "w": 14.8,
           "x": 62.6,
           "y": 80
@@ -150,11 +166,12 @@
       "createdAt": "2026-09-09T01:02:58.330Z",
       "defaults": {
         "aebfb0db-1df4-49b3-b536-f66d6eac1ee0": {
-          "text": "Verde"
+          "text": "Buch"
         }
       },
+      "guide": "**Purpose:** Identify a simple object using four pictures and its name in the requested language. > > **Picture placement:** This builder’s saved arrow already points to **image slot 4, the bottom-right picture**. Always place the correct picture there. Put three different, unambiguous distractors in image slots 1–3. Do not move the arrow or randomize the correct answer’s position. > > **Slot numbering:** Count only image slots, in the order returned by the builder—not text, arrow, or icon slots. The correct picture must be the **fourth image supplied**. > > **Text:** Replace the contents of the **Text** box with the name of the object shown in image slot 4, in the requested language. Changing the card’s title is not a substitute for filling the Text box. For German beginner nouns, include the definite article, e.g. “der Hut.” > > **Translations:** No translation is required unless explicitly requested. Do not preserve sample text or inherited translations. If unexpected text appears, check the Text box’s translation fields separately from its main text. > > **Check:** Confirm that the fourth image matches the Text box and that no unwanted template text or translation remains. If a field cannot be inspected or cleared, report that limitation rather than claiming it was corrected.",
       "id": "8e7c7078-2479-4a7a-bf83-c7f421a6d87d",
-      "name": "New builder",
+      "name": "identification with 4 images",
       "slots": [
         {
           "h": 46.7,
@@ -162,6 +179,7 @@
           "kind": "image",
           "label": "Picture",
           "reveal": "always",
+          "switchId": "4b1534df-f408-4920-bed2-8cb9a68961c9",
           "w": 28.7,
           "x": 8.5,
           "y": 51.5
@@ -172,11 +190,11 @@
           "id": "aebfb0db-1df4-49b3-b536-f66d6eac1ee0",
           "kind": "text",
           "label": "Text",
-          "reveal": "click",
-          "size": 1.8,
+          "reveal": "always",
+          "size": 5.2,
           "w": 19.4,
-          "x": 75.1,
-          "y": 33.7
+          "x": 68.3,
+          "y": 36
         },
         {
           "h": 46.7,
@@ -184,6 +202,7 @@
           "kind": "image",
           "label": "Picture",
           "reveal": "always",
+          "switchId": "4b1534df-f408-4920-bed2-8cb9a68961c9",
           "w": 28.7,
           "x": 8.5,
           "y": 3.2
@@ -194,19 +213,98 @@
           "kind": "image",
           "label": "Picture",
           "reveal": "always",
+          "switchId": "4b1534df-f408-4920-bed2-8cb9a68961c9",
           "w": 28.7,
           "x": 38.5,
           "y": 3.6
         },
         {
+          "groupId": "32fd92c2-c140-4884-b8cc-af5ab88ed1bc",
           "h": 46.7,
           "id": "a74349a3-6842-4931-9f09-b6e57e791326",
           "kind": "image",
           "label": "Picture",
           "reveal": "always",
+          "switchId": "4b1534df-f408-4920-bed2-8cb9a68961c9",
           "w": 28.7,
           "x": 38.6,
           "y": 51.9
+        },
+        {
+          "arrowColor": "#c43c3c",
+          "arrowHead": 30,
+          "arrowWidth": 4.8,
+          "ax1": 80.8,
+          "ax2": 19.2,
+          "ay1": 9.9,
+          "ay2": 90.1,
+          "groupId": "32fd92c2-c140-4884-b8cc-af5ab88ed1bc",
+          "h": 30.2,
+          "id": "881d7f47-9d86-451c-ad76-f14939a34548",
+          "kind": "arrow",
+          "label": "Arrow",
+          "reveal": "click",
+          "w": 15.6,
+          "x": 57.6,
+          "y": 38.7
+        },
+        {
+          "h": 9,
+          "iconCropL": 0.266,
+          "iconCropR": 0.273,
+          "iconFile": "icona dita alzate 1b.png",
+          "iconFill": "#fff5f5",
+          "iconStroke": "#ff0000",
+          "id": "ef26ead6-12e0-46b0-865b-f44e4ca77b0e",
+          "kind": "icon",
+          "label": "icona dita alzate 1b",
+          "reveal": "always",
+          "w": 3.3,
+          "x": 33.3,
+          "y": 39.9
+        },
+        {
+          "h": 9,
+          "iconCropL": 0.266,
+          "iconCropR": 0.273,
+          "iconFile": "icona dita alzate 2.png",
+          "iconFill": "#fafafa",
+          "iconStroke": "#fe0606",
+          "id": "6d10154d-16a7-423d-ab02-4cd0ac8ca752",
+          "kind": "icon",
+          "label": "icona dita alzate 2",
+          "reveal": "always",
+          "w": 3.3,
+          "x": 63.1,
+          "y": 40.6
+        },
+        {
+          "h": 9,
+          "iconCropL": 0.266,
+          "iconCropR": 0.273,
+          "iconFile": "icona dita alzate 3.png",
+          "iconStroke": "#ff0000",
+          "id": "aec41fb4-e316-47e2-afd2-822038a7fd98",
+          "kind": "icon",
+          "label": "icona dita alzate 3",
+          "reveal": "always",
+          "w": 3.3,
+          "x": 32.9,
+          "y": 88.4
+        },
+        {
+          "h": 9,
+          "iconCropL": 0.266,
+          "iconCropR": 0.273,
+          "iconFile": "icona dita alzate 4.png",
+          "iconStroke": "#ff0000",
+          "id": "a2789c54-2be4-4865-8ebe-c815f19af903",
+          "kind": "icon",
+          "label": "icona dita alzate 4",
+          "reveal": "always",
+          "w": 3.3,
+          "x": 63.2,
+          "y": 89.3
         }
       ]
     },
@@ -322,9 +420,259 @@
           "z": 6
         }
       ]
+    },
+    {
+      "createdAt": "2026-09-18T20:00:00.000Z",
+      "defaults": {
+        "a11c4e80-2d3f-4b91-8c17-6e5a9d2f0b44": {
+          "text": "il gatto"
+        },
+        "b22d5f91-3e40-4ca2-9d28-7f6b0e31c155": {
+          "text": "die Katze"
+        }
+      },
+      "guide": "Purpose: show an Italian word first. After the learner left-clicks anywhere on the card, show the German translation. Keep both boxes visible.\n\nItalian box: always visible. Write the Italian word or short phrase. For nouns include the article, e.g. il gatto.\n\nGerman box: appears on the first click. Write the German translation. For nouns include the article, e.g. die Katze.\n\nNo pictures. When adding cards, send images as [].",
+      "id": "7c3e9a12-4b8f-4d21-9e6a-2f1c8d0a5b73",
+      "name": "Italian to German",
+      "slots": [
+        {
+          "font": "serif",
+          "h": 28,
+          "id": "a11c4e80-2d3f-4b91-8c17-6e5a9d2f0b44",
+          "kind": "text",
+          "label": "Italian",
+          "reveal": "always",
+          "size": 5.2,
+          "w": 76,
+          "x": 12,
+          "y": 18,
+          "z": 1
+        },
+        {
+          "font": "serif",
+          "h": 28,
+          "id": "b22d5f91-3e40-4ca2-9d28-7f6b0e31c155",
+          "kind": "text",
+          "label": "German",
+          "reveal": "click",
+          "size": 5.2,
+          "w": 76,
+          "x": 12,
+          "y": 54,
+          "z": 2
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-12T16:35:19.654Z",
+      "defaults": {
+        "1f3e6365-9652-48aa-8b9d-b04af36d6b1b": {
+          "text": "capital-bra"
+        },
+        "447e8cbd-f64a-41c6-90f3-7dcb35ed5225": {
+          "text": "Shrin David"
+        },
+        "c562d8ee-4a36-4308-8675-93e9f90dd778": {
+          "text": "Caro Daur"
+        }
+      },
+      "id": "ce54dc54-027d-48ad-ac0f-bc2a2fd37915",
+      "name": "New builder",
+      "slots": [
+        {
+          "h": 44.1,
+          "id": "b48dbc8a-1b57-4a5a-93b2-aba12b61ead5",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 36.1,
+          "x": 9.8,
+          "y": 2.5
+        },
+        {
+          "h": 59.9,
+          "id": "441eb78e-a108-4af8-9d38-76934ecaa30a",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 24.4,
+          "x": 71.4,
+          "y": 19.9
+        },
+        {
+          "h": 44.1,
+          "id": "4d8d1188-8da3-4759-9a21-74a7be513cf6",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 36.1,
+          "x": 9.6,
+          "y": 52.9
+        },
+        {
+          "font": "serif",
+          "h": 7.3,
+          "id": "1f3e6365-9652-48aa-8b9d-b04af36d6b1b",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click",
+          "size": 1.4,
+          "w": 14,
+          "x": 48.5,
+          "y": 20.6
+        },
+        {
+          "font": "serif",
+          "h": 6.4,
+          "id": "447e8cbd-f64a-41c6-90f3-7dcb35ed5225",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click2",
+          "size": 1.4,
+          "w": 16.3,
+          "x": 47.9,
+          "y": 70.9
+        },
+        {
+          "font": "serif",
+          "h": 7.9,
+          "id": "c562d8ee-4a36-4308-8675-93e9f90dd778",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click3",
+          "size": 1.4,
+          "w": 18.1,
+          "x": 75.6,
+          "y": 84
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-09T01:02:48.995Z",
+      "id": "f3cd7439-2213-4e1f-9a34-716c52de1611",
+      "name": "New builder",
+      "slots": [
+        {
+          "h": 52,
+          "id": "e13d9824-f387-4bce-bb19-1b66ecef6527",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 42,
+          "x": 8,
+          "y": 10
+        },
+        {
+          "font": "serif",
+          "h": 22,
+          "id": "969e173a-0c9b-470e-9e98-e53be8fa7b49",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click",
+          "size": 1.8,
+          "w": 38,
+          "x": 54,
+          "y": 16
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-19T00:17:11.001Z",
+      "defaults": {
+        "40664373-aa84-441e-ad92-d8ada1d87231": {
+          "text": "Glück"
+        },
+        "d9da77e2-7103-4302-8c54-f7f38e9c31f3": {
+          "text": "Ascoltate e Ripetete"
+        },
+        "f849c991-7d45-4bc8-865e-c8a718274920": {
+          "text": "Felicità"
+        }
+      },
+      "guide": "Use this builder for listening to and repeating a word, then revealing its written form and Italian translation. **Preserve the existing layout, speaker icon, and reveal sequence.** - Keep the initial instruction exactly as **“Ascolta e ripeti”**. Do not translate or replace it. - The **speaker icon must be the only image**. Keep it unchanged; do not add a picture of the chosen word. **Fill the card as follows:** 1. Choose a word suitable for the learner’s level in the requested spoken language. 2. Generate audio pronouncing that word in its original language. For a German noun, include its definite article, e.g. **“das Haus”**. 3. Put the exact spoken word, including its article if used, in the **first text box**. 4. Put the **Italian translation** in the **second text box**, e.g. **“la casa”**. Do not use an example sentence or a definition. **Reveal sequence:** - **Initially:** the existing speaker icon and **“Ascolta e ripeti”**. - **First click:** the audio control. - **Second click:** the word in the spoken language. - **Third click:** its Italian translation. When adding the card, give it a name and leave replacement images empty (`images: []`) to preserve the builder’s existing speaker icon. Do not add extra text or change the builder’s design.",
+      "id": "0048eecb-b153-45bf-b090-ed12229cd533",
+      "name": "Ripetizione parole",
+      "slots": [
+        {
+          "boxFill": "#a8c2ff",
+          "h": 21.8,
+          "id": "df8b85fe-18b2-4c30-bc5a-809f0022a119",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 14.1,
+          "x": 41.4,
+          "y": 44.7
+        },
+        {
+          "font": "serif",
+          "h": 13.9,
+          "id": "d9da77e2-7103-4302-8c54-f7f38e9c31f3",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "always",
+          "size": 6,
+          "w": 24.8,
+          "x": 35.7,
+          "y": 14.5
+        },
+        {
+          "audioHidden": true,
+          "audioRate": 0.7,
+          "audioTapReplay": true,
+          "h": 21.4,
+          "id": "a46fa252-a94d-4b83-a41b-5817a954fd99",
+          "kind": "audio",
+          "label": "Sound",
+          "reveal": "click",
+          "w": 14.8,
+          "x": 41.2,
+          "y": 44.9
+        },
+        {
+          "font": "serif",
+          "h": 12.6,
+          "id": "40664373-aa84-441e-ad92-d8ada1d87231",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click2",
+          "size": 6,
+          "w": 12.6,
+          "x": 42.2,
+          "y": 76.1
+        },
+        {
+          "font": "serif",
+          "h": 12.6,
+          "id": "f849c991-7d45-4bc8-865e-c8a718274920",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click3",
+          "size": 6,
+          "w": 12.6,
+          "x": 62.7,
+          "y": 75.3
+        },
+        {
+          "arrowColor": "#c43c3c",
+          "arrowHead": 19,
+          "ax1": 12.5,
+          "ax2": 87.5,
+          "ay1": 37.5,
+          "ay2": 37.5,
+          "h": 6.6,
+          "id": "2e2b709e-3c6b-4132-8e0e-02efaed3ec3c",
+          "kind": "arrow",
+          "label": "Arrow",
+          "reveal": "click3",
+          "w": 8.2,
+          "x": 54.3,
+          "y": 79.5
+        }
+      ]
     }
   ],
-  "builtAt": "2026-09-15T02:55:06.000Z",
+  "builtAt": "2026-09-19T01:39:54.000Z",
   "kind": "lexica-builders",
   "version": 1
 }
