@@ -1,0 +1,101 @@
+{
+  "builtAt": "2026-09-20T17:07:13.000Z",
+  "decks": [
+    {
+      "cardOrder": [
+        "1e031b2d-afd4-4cd9-8460-6fc81fdffb96",
+        "b74253d1-9e88-4ef1-a40d-72ca89f099d9",
+        "1ed8e6d9-5623-4f92-ba5f-ba8bc53127c5",
+        "fec27848-35bb-4400-a980-a4da72efba44",
+        "84548971-2e2c-49db-9eff-07e5dd17c8a2",
+        "b67b6411-291b-4916-99c7-1f8f9939ed6c",
+        "cf2807a5-8e65-4a36-8b28-dd8a55905a55",
+        "788e7a69-a54f-43dc-b507-0a75e566da66",
+        "57123ba2-acb5-4335-8b25-3dcd2e78366f",
+        "5d4619cb-02eb-43c1-8cfc-4b53d705fd05",
+        "07b85de1-e76c-43dc-a3b9-359ee974c1ea",
+        "a8cfb76a-9109-4b47-b190-7a8626a74f41",
+        "e9aa39fc-1d7f-4f82-97ff-3a4d2b94e463",
+        "92625c80-ca67-45f5-b0c3-e43afb487ea6",
+        "8dca34e6-ea6c-4f07-acb8-ea29e152298d",
+        "0e87baee-3cbb-4603-910e-7a78abf8cf81",
+        "2ed59c70-9906-48b3-897e-2bfbb8815cce",
+        "83f03996-f9b1-45ad-98f9-4eb137b19898",
+        "3b645a46-b630-4210-97a4-d4993431f4cc",
+        "1f230a15-5d3e-4d16-82f2-399a8a678b12",
+        "4bb9887e-9589-4614-bf3a-9154b8ffc175"
+      ],
+      "createdAt": "2026-09-06T16:56:30.693Z",
+      "id": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "name": "tedesco",
+      "play": "order"
+    },
+    {
+      "createdAt": "2026-09-05T02:41:14.298Z",
+      "id": "55835f24-a0a4-4eda-ba03-eb93a82c856c",
+      "name": "varie"
+    },
+    {
+      "createdAt": "2026-09-05T02:41:48.202Z",
+      "id": "ae56bc9d-21f1-4489-a5b6-efe8b7a2b635",
+      "name": "var 2"
+    },
+    {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "id": "a291fe96-f435-4e01-9047-66a7bed87256",
+      "name": "oggetti"
+    },
+    {
+      "createdAt": "2026-09-06T23:03:14.622Z",
+      "id": "896edced-74c8-4862-861f-a463ad85d3c2",
+      "name": "other computer"
+    },
+    {
+      "createdAt": "2026-09-06T23:52:22.719Z",
+      "id": "726a0a93-2b32-4169-8fa4-53678c5635c2",
+      "name": "numeri"
+    },
+    {
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "id": "7165a11b-0347-40bd-bbc0-48a1a38f2a70",
+      "name": "testing"
+    },
+    {
+      "createdAt": "2026-09-12T16:31:19.910Z",
+      "id": "09c102eb-cb46-421f-bd10-a98849e168a4",
+      "name": "rapper"
+    },
+    {
+      "createdAt": "2026-09-12T16:48:49.259Z",
+      "id": "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+      "name": "oktoberfest"
+    },
+    {
+      "createdAt": "2026-09-14T16:31:47.232Z",
+      "id": "0a76d9f1-a017-4e3d-bc18-a886b2e6051b",
+      "name": "slide"
+    },
+    {
+      "createdAt": "2026-09-14T16:32:40.043Z",
+      "id": "d4b747b8-0be8-413f-a126-d95c7fda8daa",
+      "name": "ricetta"
+    },
+    {
+      "createdAt": "2026-09-14T16:39:12.698Z",
+      "id": "931eaaff-6ce2-424f-8195-054b2f20cab5",
+      "name": "social"
+    },
+    {
+      "createdAt": "2026-09-14T16:42:48.643Z",
+      "id": "bec1e236-f950-4a83-9eb2-e5b3ba4439d7",
+      "name": "prova sociale"
+    },
+    {
+      "createdAt": "2026-09-20T16:46:22.971Z",
+      "id": "13ee9a38-398b-4004-852d-4e558c7a0c8f",
+      "name": "saluti"
+    }
+  ],
+  "kind": "lexica-decks",
+  "version": 1
+}
