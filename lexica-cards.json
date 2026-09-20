@@ -1,0 +1,229 @@
+{
+  "builtAt": "2026-09-20T16:09:54.000Z",
+  "cards": [
+    {
+      "builderId": "9463b2e5-e366-4aff-9876-77d5e801d432",
+      "cardFile": "9463b2e5-e366-4aff-9876-77d5e801d432.png",
+      "createdAt": "2026-09-19T16:01:10.156Z",
+      "fills": {
+        "5a6b1825-dd29-4999-abe1-759ceb5560e4": {
+          "cardFile": "9463b2e5-e366-4aff-9876-77d5e801d432.png",
+          "imageFile": "ai/Due-persone-che-si-salutano-dice-2-2-2-2-2.png"
+        },
+        "da0fe5dc-7fb7-49af-9cfe-388884463562": {
+          "text": "Buon mattino",
+          "translateLang": "de",
+          "translateText": "Guten Morgen"
+        }
+      },
+      "folder": "ai",
+      "id": "9463b2e5-e366-4aff-9876-77d5e801d432",
+      "imageFile": "ai/Due-persone-che-si-salutano-dice-2-2-2-2-2.png",
+      "kind": "general",
+      "name": "Due persone che si salutano dice",
+      "slots": [
+        {
+          "h": 100,
+          "id": "5a6b1825-dd29-4999-abe1-759ceb5560e4",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 100,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "serif",
+          "h": 13.1,
+          "id": "da0fe5dc-7fb7-49af-9cfe-388884463562",
+          "kind": "text",
+          "label": "Due persone che si salutano dice",
+          "reveal": "click",
+          "size": 1.8,
+          "w": 18.8,
+          "x": 41.3,
+          "y": 1.3
+        }
+      ],
+      "texts": [
+        {
+          "font": "serif",
+          "id": "da0fe5dc-7fb7-49af-9cfe-388884463562",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Due persone che si salutano dice",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "builderId": "27f3aacc-d0bd-42e0-8a37-bf15bdead57e",
+      "cardFile": "27f3aacc-d0bd-42e0-8a37-bf15bdead57e.png",
+      "createdAt": "2026-09-19T16:01:10.156Z",
+      "fills": {
+        "324538fb-16a9-4ee3-85d2-32426e7eaada": {
+          "cardFile": "27f3aacc-d0bd-42e0-8a37-bf15bdead57e.png",
+          "imageFile": "ai/Due-persone-che-si-salutano-dice-2-2.png"
+        },
+        "a382b233-4cac-4cd0-9564-65b19aaec104": {
+          "text": "Buonanotte",
+          "translateLang": "de",
+          "translateText": "Gute Nacht"
+        }
+      },
+      "folder": "ai",
+      "id": "27f3aacc-d0bd-42e0-8a37-bf15bdead57e",
+      "imageFile": "ai/Due-persone-che-si-salutano-dice-2-2.png",
+      "kind": "general",
+      "name": "Due persone che si salutano dice",
+      "slots": [
+        {
+          "h": 100,
+          "id": "324538fb-16a9-4ee3-85d2-32426e7eaada",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 100,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "serif",
+          "h": 11.3,
+          "id": "a382b233-4cac-4cd0-9564-65b19aaec104",
+          "kind": "text",
+          "label": "Due persone che si salutano dice",
+          "reveal": "click",
+          "size": 3.7,
+          "w": 15.5,
+          "x": 39.7,
+          "y": 4.6
+        }
+      ],
+      "texts": [
+        {
+          "font": "serif",
+          "id": "a382b233-4cac-4cd0-9564-65b19aaec104",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Due persone che si salutano dice",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "builderId": "18f071a3-947a-4a2d-a17f-e017cc50c971",
+      "cardFile": "18f071a3-947a-4a2d-a17f-e017cc50c971.png",
+      "createdAt": "2026-09-19T16:01:10.156Z",
+      "fills": {
+        "214d4fbd-c065-4c75-8894-b398d0d4ef44": {
+          "cardFile": "18f071a3-947a-4a2d-a17f-e017cc50c971.png",
+          "imageFile": "ai/Due-persone-che-si-salutano-dice-2.png"
+        },
+        "8b3cb018-c040-4e93-9ddd-01967e349da2": {
+          "text": "Buonasera"
+        }
+      },
+      "folder": "ai",
+      "id": "18f071a3-947a-4a2d-a17f-e017cc50c971",
+      "imageFile": "ai/Due-persone-che-si-salutano-dice-2.png",
+      "kind": "general",
+      "name": "Due persone che si salutano dice",
+      "slots": [
+        {
+          "h": 100,
+          "id": "214d4fbd-c065-4c75-8894-b398d0d4ef44",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 100,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "serif",
+          "h": 9.9,
+          "id": "8b3cb018-c040-4e93-9ddd-01967e349da2",
+          "kind": "text",
+          "label": "Due persone che si salutano dice",
+          "reveal": "click",
+          "size": 4.8,
+          "w": 20.4,
+          "x": 41.1,
+          "y": 72.8
+        }
+      ],
+      "texts": [
+        {
+          "font": "serif",
+          "id": "8b3cb018-c040-4e93-9ddd-01967e349da2",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Due persone che si salutano dice",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "builderId": "f36dd8cd-ddbd-478c-bd11-0a8643c30d44",
+      "cardFile": "f36dd8cd-ddbd-478c-bd11-0a8643c30d44.png",
+      "createdAt": "2026-09-19T16:01:10.156Z",
+      "fills": {
+        "06d2a5fc-a12c-47ff-8de2-3da807465ff7": {
+          "cardFile": "f36dd8cd-ddbd-478c-bd11-0a8643c30d44.png",
+          "imageFile": "ai/Due-persone-che-si-salutano-dice.png"
+        },
+        "81be35ba-3fe0-443e-8042-fe49cf97dcad": {
+          "text": "Buongiorno",
+          "translateLang": "de",
+          "translateText": "Guten Tag"
+        }
+      },
+      "folder": "ai",
+      "id": "f36dd8cd-ddbd-478c-bd11-0a8643c30d44",
+      "imageFile": "ai/Due-persone-che-si-salutano-dice.png",
+      "kind": "general",
+      "name": "Due persone che si salutano dice",
+      "slots": [
+        {
+          "h": 100,
+          "id": "06d2a5fc-a12c-47ff-8de2-3da807465ff7",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 100,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "serif",
+          "h": 14.4,
+          "id": "81be35ba-3fe0-443e-8042-fe49cf97dcad",
+          "kind": "text",
+          "label": "Due persone che si salutano dice",
+          "reveal": "click",
+          "size": 4,
+          "w": 10.3,
+          "x": 39.9,
+          "y": 5.6
+        }
+      ],
+      "texts": [
+        {
+          "font": "serif",
+          "id": "81be35ba-3fe0-443e-8042-fe49cf97dcad",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Due persone che si salutano dice",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    }
+  ],
+  "kind": "lexica-cards",
+  "version": 1
+}
