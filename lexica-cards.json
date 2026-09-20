@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-20T16:09:54.000Z",
+  "builtAt": "2026-09-20T21:01:09.000Z",
   "cards": [
     {
       "builderId": "9463b2e5-e366-4aff-9876-77d5e801d432",
@@ -218,6 +218,406 @@
           "reveal": "click",
           "size": 1.8,
           "text": "Due persone che si salutano dice",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-03T01:26:46.007Z",
+      "folder": "immagini 1",
+      "id": "e577e180-9062-4c4b-8799-674b0dfd1864",
+      "imageFile": "immagini 1/e577e180-9062-4c4b-8799-674b0dfd1864.png",
+      "name": "orange",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "188f52b4-e61f-44ec-915e-8b528a9d7549",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Orange",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:13:16.324Z",
+      "folder": "immagini 1",
+      "id": "44a85b14-6aee-4d9c-8598-5451168825d5",
+      "imageFile": "immagini 1/aereo (11).png",
+      "name": "aereo",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "39d79f49-1399-4f8a-b52f-a516642fed74",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Flugzeug",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:13:16.324Z",
+      "folder": "immagini 1",
+      "id": "4d034db3-1762-4cd9-be75-3649d2e516cb",
+      "imageFile": "immagini 1/altalena (3).png",
+      "name": "altalena",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "25e80611-5e4c-47d6-8569-d04edbf703ca",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Schaukel",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:13:16.324Z",
+      "folder": "immagini 1",
+      "id": "1f7feec2-b5ee-4b8d-9988-94121dc7894b",
+      "imageFile": "immagini 1/arancio (6).png",
+      "name": "arancio",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "aed29d6e-1a1c-4a29-8213-cb0b4ca97e02",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Orange",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:24:45.280Z",
+      "folder": "immagini 1",
+      "id": "acc4eddd-1df6-414e-8168-7099c5c74f3c",
+      "imageFile": "immagini 1/asciugamano (5).png",
+      "name": "asciugamano",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "f1cbd20f-c792-4de2-9b4f-20d30ede7d00",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Handtuch",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:24:45.280Z",
+      "folder": "immagini 1",
+      "id": "6292fcc2-3285-46bd-acab-fff39a27ac29",
+      "imageFile": "immagini 1/aspirapolvere (8).png",
+      "name": "aspirapolvere",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "e46a7f6e-6a5a-43a1-b399-9f4d7f1377ec",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Staubsäuger",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:24:45.280Z",
+      "folder": "immagini 1",
+      "id": "b022b190-dfc1-4835-97c0-4eafa4a80377",
+      "imageFile": "immagini 1/autobus.png",
+      "name": "autobus",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "877a31c2-e61e-4a53-83ae-d806f234f642",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Bus",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:41:14.298Z",
+      "folder": "immagini 1",
+      "id": "a6ab32ba-8042-48d1-9e80-15dabe6c65e1",
+      "imageFile": "immagini 1/bagno (3).png",
+      "name": "bagno",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "9fd71141-b629-488f-bfbf-c8226b63b3bd",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "WC",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:41:14.298Z",
+      "folder": "immagini 1",
+      "id": "c6e2975f-9ac3-4c66-ab8f-b97edec713e3",
+      "imageFile": "immagini 1/bambola (2).png",
+      "name": "bambola",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "94093869-90ec-4a99-859f-cfa853fb0152",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Puppe",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:41:14.298Z",
+      "folder": "immagini 1",
+      "id": "d0f244ff-c38f-4fa0-b867-17c0264a6e94",
+      "imageFile": "immagini 1/banane (2).png",
+      "name": "banane",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "e60c7410-350c-4897-9789-27c5552e8014",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Bananen",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:41:48.202Z",
+      "folder": "immagini 1",
+      "id": "09c25adb-524c-49bd-9980-1ec3041c1e47",
+      "imageFile": "immagini 1/biscotti (3).png",
+      "name": "biscotti",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "95205150-c553-403d-a003-599f50179395",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Kekse",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-05T02:41:48.202Z",
+      "folder": "immagini 1",
+      "id": "863e3d09-b10a-4022-8387-f63cc502b4ed",
+      "imageFile": "immagini 1/bolle (4).png",
+      "label": {
+        "x": 68.37650544459466,
+        "y": 31.544940839113178
+      },
+      "name": "bollicine",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "3fcfe4e8-5d67-467d-8cc9-e9d90d7c1f07",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Seifenblase",
+          "x": 68.37650544459466,
+          "y": 31.544940839113178
+        }
+      ]
+    },
+    {
+      "cardFile": "d0a112c3-d8d1-4e79-8ed7-afb3e6b28d70.png",
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "folder": "immagini 1",
+      "id": "d0a112c3-d8d1-4e79-8ed7-afb3e6b28d70",
+      "imageFile": "immagini 1/barca.png",
+      "name": "barca",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "b8a08a4a-4888-4277-91b8-6581e034ab26",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Segelschiff",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "cardFile": "6d8f1865-1331-48e0-8741-133835034640.png",
+      "createdAt": "2026-09-07T01:53:20.978Z",
+      "folder": "immagini 1",
+      "id": "6d8f1865-1331-48e0-8741-133835034640",
+      "imageFile": "immagini 1/bicchiere05.png",
+      "name": "bicchiere",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "60eb319f-3903-419f-bf28-954f974c8b9d",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Glas Wasser mit Zitrone",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "cardFile": "3b41b649-1007-4002-8c92-e8899f09c6a8.png",
+      "createdAt": "2026-09-07T12:53:31.652Z",
+      "folder": "immagini 1",
+      "id": "3b41b649-1007-4002-8c92-e8899f09c6a8",
+      "imageFile": "immagini 1/burro (10).png",
+      "name": "burro (10)",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "c6965394-09d9-4333-aa11-96d09f417540",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Butter",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-06T16:48:49.320Z",
+      "folder": "immagini 1",
+      "id": "fdae93bc-7c55-4fbc-93ad-a6c5b8fd4de2",
+      "imageFile": "immagini 1/coniglio (1).png",
+      "name": "coniglio (1)",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "e5c92f5f-5791-4a4c-bfe3-8f2274c9e910",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Kaninchen",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-06T16:59:01.417Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "folder": "immagini 1",
+      "id": "1e031b2d-afd4-4cd9-8460-6fc81fdffb96",
+      "imageFile": "immagini 1/mela.png",
+      "label": {
+        "x": 18.777590357357347,
+        "y": 12.230213082951607
+      },
+      "name": "Apfel",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "dec25eb0-96c1-4240-b8c6-bd3bbc19bd37",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Apfel",
+          "x": 18.777590357357347,
+          "y": 12.230213082951607
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-06T17:02:51.231Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "folder": "immagini 1",
+      "id": "788e7a69-a54f-43dc-b507-0a75e566da66",
+      "imageFile": "immagini 1/pane (3).png",
+      "kind": "pair",
+      "name": "???",
+      "otherImageFile": "immagini 1/mela.png",
+      "otherName": "???"
+    },
+    {
+      "cardFile": "0e87baee-3cbb-4603-910e-7a78abf8cf81.png",
+      "createdAt": "2026-09-07T13:06:54.638Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "folder": "immagini 1",
+      "id": "0e87baee-3cbb-4603-910e-7a78abf8cf81",
+      "imageFile": "immagini 1/cane (1).png",
+      "name": "cane",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "58f10590-f091-449a-a4cc-581b14c91eee",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Hund",
+          "x": 50,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "cardFile": "2ed59c70-9906-48b3-897e-2bfbb8815cce.jpg",
+      "createdAt": "2026-09-07T13:11:20.573Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "folder": "immagini 1",
+      "id": "2ed59c70-9906-48b3-897e-2bfbb8815cce",
+      "imageFile": "immagini 1/panino.jpg",
+      "label": {
+        "x": 20.24691702101357,
+        "y": 14.696635388388838
+      },
+      "name": "panino",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "3a2886a4-42af-4847-a90e-81faffbb6286",
+          "reveal": "click",
+          "size": 1.8,
+          "text": "Hamburger",
+          "x": 20.24691702101357,
+          "y": 14.696635388388838
+        }
+      ]
+    },
+    {
+      "cardFile": "5d4619cb-02eb-43c1-8cfc-4b53d705fd05.png",
+      "createdAt": "2026-09-07T12:48:44.313Z",
+      "deckId": "2e4291ef-cec4-46d6-aa11-665f50c12277",
+      "folder": "immagini 1",
+      "id": "5d4619cb-02eb-43c1-8cfc-4b53d705fd05",
+      "imageFile": "immagini 1/burro (10).png",
+      "name": "burro (10)"
+    },
+    {
+      "cardFile": "667f434d-7b2c-4f08-82ec-3252f7abfb4d.png",
+      "createdAt": "2026-09-08T15:35:19.774Z",
+      "folder": "immagini 1",
+      "id": "667f434d-7b2c-4f08-82ec-3252f7abfb4d",
+      "imageFile": "immagini 1/burro (10).png",
+      "name": "Butter",
+      "texts": [
+        {
+          "font": "serif",
+          "id": "b2db9d99-5a78-48da-a082-d956cc89756a",
+          "size": 1.8,
+          "text": "Butter",
           "x": 50,
           "y": 86
         }
