@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T16:00:17.000Z",
+  "builtAt": "2026-09-21T15:06:49.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -200,6 +200,14 @@
       "path": "images/Oktoberfest-arriva-a-Brescia.jpg",
       "sha256": "e08debedeecd8225a66bf430ab8f16912d0a69a19c66f68c5576822ea60fd8de",
       "width": 800
+    },
+    {
+      "bytes": 333485,
+      "height": 2339,
+      "modified": "2026-09-21T15:06:33.000Z",
+      "path": "images/Schweinshaxe mit Bier.jpg",
+      "sha256": "84e7edb191b1417f7cc3c57c8fdb61856343ed15bb1e550a103bd55c3d6ea500",
+      "width": 1654
     },
     {
       "bytes": 15248,
