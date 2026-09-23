@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-09-21T15:06:49.000Z",
+  "builtAt": "2026-09-23T10:14:29.000Z",
   "files": [
     {
       "bytes": 34009,
       "height": 790,
-      "modified": "2026-09-09T23:34:46.000Z",
+      "modified": "2026-09-08T15:58:19.000Z",
       "path": "images/0.jpg",
       "sha256": "39235d5159a6a74894a786ab5365a1e7d8020ee1651d6080ab4b8f2a8dea84dd",
       "width": 833
@@ -3169,6 +3169,7 @@
     "azioni",
     "azioni nuove",
     "colori",
+    "dog",
     "emozioni",
     "frutta",
     "gesti",
