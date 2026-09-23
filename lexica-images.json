@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-23T10:14:35.000Z",
+  "builtAt": "2026-09-23T10:14:45.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -20,7 +20,7 @@
     {
       "bytes": 3390945,
       "height": 1000,
-      "modified": "2026-09-13T01:42:17.000Z",
+      "modified": "2026-09-10T12:55:23.000Z",
       "path": "images/07-Oktoberfest-Party-Guide.png",
       "sha256": "21a517cf643d6f8cb7f9051f4f9cdc0948762302bb32ebd6fcecac83921293e0",
       "width": 1500
