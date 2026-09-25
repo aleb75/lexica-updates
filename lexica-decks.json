@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-20T17:07:13.000Z",
+  "builtAt": "2026-09-25T13:36:47.000Z",
   "decks": [
     {
       "cardOrder": [
@@ -94,6 +94,31 @@
       "createdAt": "2026-09-20T16:46:22.971Z",
       "id": "13ee9a38-398b-4004-852d-4e558c7a0c8f",
       "name": "saluti"
+    },
+    {
+      "createdAt": "2026-09-17T02:54:34.122Z",
+      "id": "731327ce-c475-4f87-992d-8ccafe8143d0",
+      "name": "DA CONTROLLARE Alltagshandlungen – azioni nuove"
+    },
+    {
+      "cardOrder": [
+        "f05048ef-55d0-45b6-ba92-d86edbe74baf",
+        "a8e9bb39-5f00-4454-8d5a-938ec92916b8",
+        "09615767-5f27-4dfd-b75a-beb040373512",
+        "df7c4b27-d6ae-41d8-ae90-3707546d37ed",
+        "4c415cad-7bb7-4cd3-98a9-5dc22d882430",
+        "dd2b83a3-c5ea-4dbc-b404-94b3a300efc1",
+        "022dbe01-dfb1-49fe-93ca-364bdf7a07c7",
+        "25d20707-37d6-4f2d-adee-ed9921afd588",
+        "98495586-9a34-45cf-aa5b-c608f27e137e",
+        "0b4aa8d7-d7ff-4099-b859-c2fd6dbc60ec",
+        "43f334b6-122a-42cd-a0dc-5763c8803453",
+        "db3e54fa-813f-442c-8daf-151439d7f7a5"
+      ],
+      "createdAt": "2026-09-17T03:32:39.203Z",
+      "id": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
+      "name": "Azioni quotidiane — Tedesco base per italiani",
+      "play": "order"
     }
   ],
   "kind": "lexica-decks",
