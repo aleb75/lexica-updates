@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-26T02:40:04.000Z",
+  "builtAt": "2026-09-26T02:40:09.000Z",
   "files": [
     {
       "bytes": 909139,
@@ -75,11 +75,11 @@
     },
     {
       "bytes": 518507,
-      "height": 0,
-      "modified": "",
+      "height": 1254,
+      "modified": "2026-09-09T02:42:33.000Z",
       "path": "icons/icona mano chiusa.png",
       "sha256": "3e9695fcb841c8789f71b598089b0fa7f313f6793dc0b61dd10b5827aca518d0",
-      "width": 0
+      "width": 1254
     }
   ],
   "folders": [
