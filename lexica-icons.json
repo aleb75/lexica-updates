@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-26T02:39:22.000Z",
+  "builtAt": "2026-09-26T02:39:27.000Z",
   "files": [
     {
       "bytes": 909139,
@@ -7,6 +7,14 @@
       "modified": "2026-09-26T02:38:45.000Z",
       "path": "icons/ai/A-stylized-icon-of-a-face-with-t-2.png",
       "sha256": "b4580cb9b31f669b93bd781fbca43813267b5e451fde861eb92065a21aa2b1ca",
+      "width": 1024
+    },
+    {
+      "bytes": 896202,
+      "height": 1024,
+      "modified": "2026-09-26T02:37:35.000Z",
+      "path": "icons/ai/A-stylized-icon-of-a-face-with-t.png",
+      "sha256": "75c1054ca2a285cdab39b1f2136a0c3127e636db6edb22fd036d96c990996453",
       "width": 1024
     },
     {
