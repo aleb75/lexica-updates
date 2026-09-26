@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-26T02:39:37.000Z",
+  "builtAt": "2026-09-26T02:39:41.000Z",
   "files": [
     {
       "bytes": 909139,
@@ -43,11 +43,11 @@
     },
     {
       "bytes": 460297,
-      "height": 0,
-      "modified": "",
+      "height": 1254,
+      "modified": "2026-09-09T02:42:33.000Z",
       "path": "icons/icona dita alzate 2.png",
       "sha256": "8b662942100c4cbfbdfa233e8c237dd7be0d0a34a68ac879d142b2a70e5f6c0a",
-      "width": 0
+      "width": 1254
     },
     {
       "bytes": 486986,
