@@ -1,43 +1,82 @@
 {
-  "builtAt": "2026-09-15T03:21:14.000Z",
+  "builtAt": "2026-09-26T02:39:22.000Z",
   "files": [
     {
+      "bytes": 909139,
+      "height": 1024,
+      "modified": "2026-09-26T02:38:45.000Z",
+      "path": "icons/ai/A-stylized-icon-of-a-face-with-t-2.png",
+      "sha256": "b4580cb9b31f669b93bd781fbca43813267b5e451fde861eb92065a21aa2b1ca",
+      "width": 1024
+    },
+    {
       "bytes": 375684,
+      "height": 0,
+      "modified": "",
       "path": "icons/bocca parlare.png",
-      "sha256": "1213e93598aa28e06e237049a262585ad2a5737536aa7817df43d3edddf08998"
+      "sha256": "1213e93598aa28e06e237049a262585ad2a5737536aa7817df43d3edddf08998",
+      "width": 0
+    },
+    {
+      "bytes": 656645,
+      "height": 1254,
+      "modified": "2026-09-18T22:50:08.000Z",
+      "path": "icons/icona dita alzate 1.png",
+      "sha256": "0933766c8cb5d56d3c893b1805ecf852d346da498449787a297fd5472576b724",
+      "width": 1254
     },
     {
       "bytes": 309677,
+      "height": 0,
+      "modified": "",
       "path": "icons/icona dita alzate 1b.png",
-      "sha256": "d8d1ad12b6bbf5481603dcddae5b07d7bca4f3d80fe436e97ca3b1bffc5bb73c"
+      "sha256": "d8d1ad12b6bbf5481603dcddae5b07d7bca4f3d80fe436e97ca3b1bffc5bb73c",
+      "width": 0
     },
     {
       "bytes": 460297,
+      "height": 0,
+      "modified": "",
       "path": "icons/icona dita alzate 2.png",
-      "sha256": "8b662942100c4cbfbdfa233e8c237dd7be0d0a34a68ac879d142b2a70e5f6c0a"
+      "sha256": "8b662942100c4cbfbdfa233e8c237dd7be0d0a34a68ac879d142b2a70e5f6c0a",
+      "width": 0
     },
     {
       "bytes": 486986,
+      "height": 0,
+      "modified": "",
       "path": "icons/icona dita alzate 3.png",
-      "sha256": "9c57c8e6532dd8fea3f653e25e1720a3369fa291bb67e46fccee2b6a0a1de2d0"
+      "sha256": "9c57c8e6532dd8fea3f653e25e1720a3369fa291bb67e46fccee2b6a0a1de2d0",
+      "width": 0
     },
     {
       "bytes": 546676,
+      "height": 0,
+      "modified": "",
       "path": "icons/icona dita alzate 4.png",
-      "sha256": "6f01be0b8a644c4275c36466e765ae8b777ab406a939643d941c54255c1368c1"
+      "sha256": "6f01be0b8a644c4275c36466e765ae8b777ab406a939643d941c54255c1368c1",
+      "width": 0
     },
     {
       "bytes": 627118,
+      "height": 0,
+      "modified": "",
       "path": "icons/icona mano aperta.png",
-      "sha256": "a08997390d964e8b63cd498850c00beec41254e2b096c221a0c8d2e170466b98"
+      "sha256": "a08997390d964e8b63cd498850c00beec41254e2b096c221a0c8d2e170466b98",
+      "width": 0
     },
     {
       "bytes": 518507,
+      "height": 0,
+      "modified": "",
       "path": "icons/icona mano chiusa.png",
-      "sha256": "3e9695fcb841c8789f71b598089b0fa7f313f6793dc0b61dd10b5827aca518d0"
+      "sha256": "3e9695fcb841c8789f71b598089b0fa7f313f6793dc0b61dd10b5827aca518d0",
+      "width": 0
     }
   ],
-  "folders": [],
+  "folders": [
+    "ai"
+  ],
   "kind": "lexica-icons",
   "version": 1
 }
