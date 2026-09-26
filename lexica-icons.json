@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-26T02:39:27.000Z",
+  "builtAt": "2026-09-26T02:39:32.000Z",
   "files": [
     {
       "bytes": 909139,
@@ -19,11 +19,11 @@
     },
     {
       "bytes": 375684,
-      "height": 0,
-      "modified": "",
+      "height": 1254,
+      "modified": "2026-09-09T02:42:33.000Z",
       "path": "icons/bocca parlare.png",
       "sha256": "1213e93598aa28e06e237049a262585ad2a5737536aa7817df43d3edddf08998",
-      "width": 0
+      "width": 1254
     },
     {
       "bytes": 656645,
