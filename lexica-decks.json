@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-27T18:39:27.000Z",
+  "builtAt": "2026-09-29T18:54:14.000Z",
   "decks": [
     {
       "cardOrder": [
@@ -102,16 +102,11 @@
     },
     {
       "cardOrder": [
-        "f05048ef-55d0-45b6-ba92-d86edbe74baf",
         "a8e9bb39-5f00-4454-8d5a-938ec92916b8",
-        "09615767-5f27-4dfd-b75a-beb040373512",
-        "df7c4b27-d6ae-41d8-ae90-3707546d37ed",
-        "4c415cad-7bb7-4cd3-98a9-5dc22d882430",
         "dd2b83a3-c5ea-4dbc-b404-94b3a300efc1",
         "022dbe01-dfb1-49fe-93ca-364bdf7a07c7",
         "25d20707-37d6-4f2d-adee-ed9921afd588",
         "98495586-9a34-45cf-aa5b-c608f27e137e",
-        "0b4aa8d7-d7ff-4099-b859-c2fd6dbc60ec",
         "43f334b6-122a-42cd-a0dc-5763c8803453",
         "db3e54fa-813f-442c-8daf-151439d7f7a5"
       ],
@@ -199,6 +194,16 @@
       "createdAt": "2026-09-27T17:09:41.126Z",
       "id": "e1027e16-9b2d-4dc2-87e6-731494f58b01",
       "name": "Lebensmittel – Cibi in tedesco"
+    },
+    {
+      "createdAt": "2026-09-26T02:27:26.973Z",
+      "id": "c1c6d41b-31a8-45f4-aead-9ccd1da136d9",
+      "name": "Drei Adjektive: heiß, kalt, müde"
+    },
+    {
+      "createdAt": "2026-09-27T17:00:04.418Z",
+      "id": "6ad49ac9-7b19-4490-8948-a039ec9756d7",
+      "name": "Tedesco 2"
     }
   ],
   "kind": "lexica-decks",
