@@ -4111,14 +4111,14 @@
       "folder": "azioni nuove",
       "id": "4c415cad-7bb7-4cd3-98a9-5dc22d882430",
       "imageFile": "azioni nuove/aiutare.png",
-      "name": "helfen",
+      "name": "helfen = aiutare\nIch helfe = Io aiuto",
       "texts": [
         {
           "font": "serif",
           "id": "376743b5-2aee-4ff6-a6d5-fa5e23e2be05",
           "reveal": "click",
           "size": 1.8,
-          "text": "helfen = aiutare\nIch helfe. = Io aiuto.",
+          "text": "helfen = aiutare\nIch helfe = Io aiuto",
           "x": 50,
           "y": 86
         }
@@ -4131,16 +4131,16 @@
       "folder": "azioni nuove",
       "id": "f05048ef-55d0-45b6-ba92-d86edbe74baf",
       "imageFile": "azioni nuove/aprire.png",
-      "name": "öffnen",
+      "name": "öffnen = aprire\nIch öffne die Tür = Apro la porta",
       "texts": [
         {
           "font": "serif",
           "id": "153a222e-2bb4-4154-859a-bbb46a00e5af",
           "reveal": "click",
           "size": 1.8,
-          "text": "öffnen = aprire\nIch öffne die Tür. = Apro la porta.",
-          "x": 50,
-          "y": 86
+          "text": "öffnen = aprire\nIch öffne die Tür = Apro la porta",
+          "x": 13.779161135850018,
+          "y": 76.54354753983706
         }
       ]
     },
@@ -4151,16 +4151,16 @@
       "folder": "azioni nuove",
       "id": "09615767-5f27-4dfd-b75a-beb040373512",
       "imageFile": "azioni nuove/comprare.png",
-      "name": "kaufen",
+      "name": "kaufen = comprare\nIch kaufe etwas = Compro qualcosa",
       "texts": [
         {
           "font": "serif",
           "id": "25bb6cf3-970a-47b9-a38a-c9bda0da7eee",
           "reveal": "click",
-          "size": 1.8,
-          "text": "kaufen = comprare\nIch kaufe etwas. = Compro qualcosa.",
-          "x": 50,
-          "y": 86
+          "size": 1.4,
+          "text": "kaufen = comprare\nIch kaufe etwas = Compro qualcosa",
+          "x": 31.44634240893517,
+          "y": 88.11431338961351
         }
       ]
     },
@@ -4171,16 +4171,16 @@
       "folder": "azioni nuove",
       "id": "98495586-9a34-45cf-aa5b-c608f27e137e",
       "imageFile": "azioni nuove/dare.png",
-      "name": "geben",
+      "name": "geben = dare\nIch gebe dir etwas = Ti do qualcosa",
       "texts": [
         {
           "font": "serif",
           "id": "54dd3dd8-6341-48fa-a40e-2f1a752ef59c",
           "reveal": "click",
           "size": 1.8,
-          "text": "geben = dare\nIch gebe dir etwas. = Ti do qualcosa.",
-          "x": 50,
-          "y": 86
+          "text": "geben = dare\nIch gebe dir etwas = Ti do qualcosa",
+          "x": 17.262835228239208,
+          "y": 86.87014542693855
         }
       ]
     },
@@ -4191,16 +4191,16 @@
       "folder": "azioni nuove",
       "id": "0b4aa8d7-d7ff-4099-b859-c2fd6dbc60ec",
       "imageFile": "azioni nuove/parlare.png",
-      "name": "sprechen",
+      "name": "sprechen = parlare\nIch spreche Deutsch = Parlo tedesco",
       "texts": [
         {
           "font": "serif",
           "id": "ff7c97f4-54c7-4e6f-9554-8764e61d5e6a",
           "reveal": "click",
           "size": 1.8,
-          "text": "sprechen = parlare\nIch spreche Deutsch. = Parlo tedesco.",
-          "x": 50,
-          "y": 86
+          "text": "sprechen = parlare\nIch spreche Deutsch = Parlo tedesco",
+          "x": 20.373255134926612,
+          "y": 86.49689124123677
         }
       ]
     },
@@ -4211,16 +4211,16 @@
       "folder": "azioni nuove",
       "id": "df7c4b27-d6ae-41d8-ae90-3707546d37ed",
       "imageFile": "azioni nuove/ringraziare.png",
-      "name": "danken",
+      "name": "danken = ringraziare\nIch danke dir = Ti ringrazio",
       "texts": [
         {
           "font": "serif",
           "id": "eac30df6-be1e-43fc-89ff-28e989adcd10",
           "reveal": "click",
           "size": 1.8,
-          "text": "danken = ringraziare\nIch danke dir. = Ti ringrazio.",
-          "x": 50,
-          "y": 86
+          "text": "danken = ringraziare\nIch danke dir = Ti ringrazio",
+          "x": 12.659408070992905,
+          "y": 86.24806144560107
         }
       ]
     },
@@ -4232,16 +4232,7 @@
       "distractors": [
         {
           "id": "d49187f9-f62d-4d82-b443-a0accb9a3706",
-          "images": [
-            "oggetti/bicchiere05.png",
-            "oggetti/biscotti (3).png",
-            "oggetti/burro (10).png",
-            "oggetti/calzini (6).png",
-            "oggetti/camion (4).png",
-            "oggetti/canguro (1).png",
-            "oggetti/cappello (1).png",
-            "oggetti/chiavi (5).png"
-          ]
+          "images": []
         }
       ],
       "fills": {
@@ -4254,9 +4245,10 @@
           "imageFile": "azioni nuove/parlare.png"
         },
         "f108297e-3c68-4016-ba3b-a540d6f638e5": {
-          "text": "helfen\nQuale immagine? Alza 1 o 2 dita seguendo le icone."
+          "text": "Helfen\n"
         }
       },
+      "folder": "azioni nuove",
       "id": "43f334b6-122a-42cd-a0dc-5763c8803453",
       "imageFile": "azioni nuove/aiutare.png",
       "kind": "general",
@@ -4282,10 +4274,10 @@
           "kind": "text",
           "label": "Text",
           "reveal": "always",
-          "size": 6,
+          "size": 2.2,
           "w": 20,
-          "x": 35.5,
-          "y": 6.2,
+          "x": 34.8,
+          "y": 2.7,
           "z": 2
         },
         {
@@ -4358,16 +4350,7 @@
       "distractors": [
         {
           "id": "d49187f9-f62d-4d82-b443-a0accb9a3706",
-          "images": [
-            "oggetti/bicchiere05.png",
-            "oggetti/biscotti (3).png",
-            "oggetti/burro (10).png",
-            "oggetti/calzini (6).png",
-            "oggetti/camion (4).png",
-            "oggetti/canguro (1).png",
-            "oggetti/cappello (1).png",
-            "oggetti/chiavi (5).png"
-          ]
+          "images": []
         }
       ],
       "fills": {
@@ -4380,16 +4363,16 @@
           "imageFile": "azioni nuove/aprire.png"
         },
         "f108297e-3c68-4016-ba3b-a540d6f638e5": {
-          "text": "öffnen\nQuale immagine? Alza 1 o 2 dita seguendo le icone."
+          "text": "öffnen"
         }
       },
+      "folder": "azioni nuove",
       "id": "a8e9bb39-5f00-4454-8d5a-938ec92916b8",
       "imageFile": "azioni nuove/dare.png",
       "kind": "general",
       "name": "Riconosci — öffnen",
       "slots": [
         {
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
           "h": 53.2,
           "id": "341d9aeb-3ce0-4af7-b31e-a1bcc65f680d",
           "kind": "image",
@@ -4408,7 +4391,7 @@
           "kind": "text",
           "label": "Text",
           "reveal": "always",
-          "size": 6,
+          "size": 2.5,
           "w": 20,
           "x": 35.5,
           "y": 6.2,
@@ -4416,6 +4399,7 @@
         },
         {
           "distractorId": "d49187f9-f62d-4d82-b443-a0accb9a3706",
+          "groupId": "253eceb8-aa5f-4ab7-8a8e-8b3578701d75",
           "h": 53.2,
           "id": "bfbe154e-74b9-43ec-8c72-7d870029be58",
           "kind": "image",
@@ -4423,8 +4407,8 @@
           "reveal": "always",
           "switchId": "2b38af0c-1a12-41e4-92e8-741377e81ace",
           "w": 27.4,
-          "x": 47,
-          "y": 21.5,
+          "x": 46,
+          "y": 22.1,
           "z": 0
         },
         {
@@ -4459,19 +4443,19 @@
           "arrowColor": "#c43c3c",
           "arrowHead": 29,
           "arrowWidth": 10.2,
-          "ax1": 22.2,
-          "ax2": 77.8,
-          "ay1": 10.8,
-          "ay2": 89.2,
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
-          "h": 27.8,
+          "ax1": 76.9,
+          "ax2": 23.1,
+          "ay1": 11.4,
+          "ay2": 88.6,
+          "groupId": "253eceb8-aa5f-4ab7-8a8e-8b3578701d75",
+          "h": 26.4,
           "id": "89c30c71-092d-4aa1-9f57-7048c5c3888b",
           "kind": "arrow",
           "label": "Arrow",
           "reveal": "click",
-          "w": 13.5,
-          "x": 4.2,
-          "y": 8.2,
+          "w": 13,
+          "x": 57.7,
+          "y": 4.3,
           "z": 6
         }
       ]
@@ -4484,38 +4468,29 @@
       "distractors": [
         {
           "id": "d49187f9-f62d-4d82-b443-a0accb9a3706",
-          "images": [
-            "oggetti/bicchiere05.png",
-            "oggetti/biscotti (3).png",
-            "oggetti/burro (10).png",
-            "oggetti/calzini (6).png",
-            "oggetti/camion (4).png",
-            "oggetti/canguro (1).png",
-            "oggetti/cappello (1).png",
-            "oggetti/chiavi (5).png"
-          ]
+          "images": []
         }
       ],
       "fills": {
         "341d9aeb-3ce0-4af7-b31e-a1bcc65f680d": {
           "cardFile": "db3e54fa-813f-442c-8daf-151439d7f7a5-341d9aeb.png",
-          "imageFile": "azioni nuove/comprare.png"
+          "imageFile": "azioni nuove/aprire.png"
         },
         "bfbe154e-74b9-43ec-8c72-7d870029be58": {
           "cardFile": "db3e54fa-813f-442c-8daf-151439d7f7a5-bfbe154e.png",
           "imageFile": "azioni nuove/ringraziare.png"
         },
         "f108297e-3c68-4016-ba3b-a540d6f638e5": {
-          "text": "kaufen\nQuale immagine? Alza 1 o 2 dita seguendo le icone."
+          "text": "danken"
         }
       },
+      "folder": "azioni nuove",
       "id": "db3e54fa-813f-442c-8daf-151439d7f7a5",
-      "imageFile": "azioni nuove/comprare.png",
+      "imageFile": "azioni nuove/aprire.png",
       "kind": "general",
       "name": "Riconosci — kaufen",
       "slots": [
         {
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
           "h": 53.2,
           "id": "341d9aeb-3ce0-4af7-b31e-a1bcc65f680d",
           "kind": "image",
@@ -4534,7 +4509,7 @@
           "kind": "text",
           "label": "Text",
           "reveal": "always",
-          "size": 6,
+          "size": 2.8,
           "w": 20,
           "x": 35.5,
           "y": 6.2,
@@ -4542,6 +4517,7 @@
         },
         {
           "distractorId": "d49187f9-f62d-4d82-b443-a0accb9a3706",
+          "groupId": "a7b2d58f-614c-4550-881f-b07d84ddd344",
           "h": 53.2,
           "id": "bfbe154e-74b9-43ec-8c72-7d870029be58",
           "kind": "image",
@@ -4585,19 +4561,19 @@
           "arrowColor": "#c43c3c",
           "arrowHead": 29,
           "arrowWidth": 10.2,
-          "ax1": 22.2,
-          "ax2": 77.8,
+          "ax1": 82.7,
+          "ax2": 17.3,
           "ay1": 10.8,
           "ay2": 89.2,
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
-          "h": 27.8,
+          "groupId": "a7b2d58f-614c-4550-881f-b07d84ddd344",
+          "h": 27.9,
           "id": "89c30c71-092d-4aa1-9f57-7048c5c3888b",
           "kind": "arrow",
           "label": "Arrow",
           "reveal": "click",
-          "w": 13.5,
-          "x": 4.2,
-          "y": 8.2,
+          "w": 17.3,
+          "x": 57.5,
+          "y": 7.8,
           "z": 6
         }
       ]
@@ -4610,16 +4586,7 @@
       "distractors": [
         {
           "id": "d49187f9-f62d-4d82-b443-a0accb9a3706",
-          "images": [
-            "oggetti/bicchiere05.png",
-            "oggetti/biscotti (3).png",
-            "oggetti/burro (10).png",
-            "oggetti/calzini (6).png",
-            "oggetti/camion (4).png",
-            "oggetti/canguro (1).png",
-            "oggetti/cappello (1).png",
-            "oggetti/chiavi (5).png"
-          ]
+          "images": []
         }
       ],
       "fills": {
@@ -4632,16 +4599,16 @@
           "imageFile": "azioni nuove/dare.png"
         },
         "f108297e-3c68-4016-ba3b-a540d6f638e5": {
-          "text": "geben\nQuale immagine? Alza 1 o 2 dita seguendo le icone."
+          "text": "geben"
         }
       },
+      "folder": "azioni nuove",
       "id": "25d20707-37d6-4f2d-adee-ed9921afd588",
       "imageFile": "azioni nuove/comprare.png",
       "kind": "general",
       "name": "Riconosci — geben",
       "slots": [
         {
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
           "h": 53.2,
           "id": "341d9aeb-3ce0-4af7-b31e-a1bcc65f680d",
           "kind": "image",
@@ -4649,8 +4616,8 @@
           "reveal": "always",
           "switchId": "2b38af0c-1a12-41e4-92e8-741377e81ace",
           "w": 27.4,
-          "x": 12.1,
-          "y": 22.2,
+          "x": 12,
+          "y": 22.3,
           "z": 1
         },
         {
@@ -4660,7 +4627,7 @@
           "kind": "text",
           "label": "Text",
           "reveal": "always",
-          "size": 6,
+          "size": 2.5,
           "w": 20,
           "x": 35.5,
           "y": 6.2,
@@ -4668,6 +4635,7 @@
         },
         {
           "distractorId": "d49187f9-f62d-4d82-b443-a0accb9a3706",
+          "groupId": "4006d072-0812-440d-a1fb-c8e2f6de01ce",
           "h": 53.2,
           "id": "bfbe154e-74b9-43ec-8c72-7d870029be58",
           "kind": "image",
@@ -4711,19 +4679,19 @@
           "arrowColor": "#c43c3c",
           "arrowHead": 29,
           "arrowWidth": 10.2,
-          "ax1": 22.2,
-          "ax2": 77.8,
-          "ay1": 10.8,
-          "ay2": 89.2,
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
-          "h": 27.8,
+          "ax1": 83.1,
+          "ax2": 16.9,
+          "ay1": 10.9,
+          "ay2": 89.1,
+          "groupId": "4006d072-0812-440d-a1fb-c8e2f6de01ce",
+          "h": 27.5,
           "id": "89c30c71-092d-4aa1-9f57-7048c5c3888b",
           "kind": "arrow",
           "label": "Arrow",
           "reveal": "click",
-          "w": 13.5,
-          "x": 4.2,
-          "y": 8.2,
+          "w": 17.7,
+          "x": 59.1,
+          "y": 11.8,
           "z": 6
         }
       ]
@@ -4736,16 +4704,7 @@
       "distractors": [
         {
           "id": "d49187f9-f62d-4d82-b443-a0accb9a3706",
-          "images": [
-            "oggetti/bicchiere05.png",
-            "oggetti/biscotti (3).png",
-            "oggetti/burro (10).png",
-            "oggetti/calzini (6).png",
-            "oggetti/camion (4).png",
-            "oggetti/canguro (1).png",
-            "oggetti/cappello (1).png",
-            "oggetti/chiavi (5).png"
-          ]
+          "images": []
         }
       ],
       "fills": {
@@ -4758,16 +4717,17 @@
           "imageFile": "azioni nuove/aprire.png"
         },
         "f108297e-3c68-4016-ba3b-a540d6f638e5": {
-          "text": "sprechen\nQuale immagine? Alza 1 o 2 dita seguendo le icone."
+          "text": "sprechen"
         }
       },
+      "folder": "azioni nuove",
       "id": "022dbe01-dfb1-49fe-93ca-364bdf7a07c7",
       "imageFile": "azioni nuove/parlare.png",
       "kind": "general",
       "name": "Riconosci — sprechen",
       "slots": [
         {
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
+          "groupId": "2e294aba-80e1-436c-9e9e-99aec11d1121",
           "h": 53.2,
           "id": "341d9aeb-3ce0-4af7-b31e-a1bcc65f680d",
           "kind": "image",
@@ -4786,10 +4746,10 @@
           "kind": "text",
           "label": "Text",
           "reveal": "always",
-          "size": 6,
+          "size": 2.6,
           "w": 20,
-          "x": 35.5,
-          "y": 6.2,
+          "x": 35.4,
+          "y": 6.1,
           "z": 2
         },
         {
@@ -4837,19 +4797,19 @@
           "arrowColor": "#c43c3c",
           "arrowHead": 29,
           "arrowWidth": 10.2,
-          "ax1": 22.2,
-          "ax2": 77.8,
-          "ay1": 10.8,
-          "ay2": 89.2,
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
-          "h": 27.8,
+          "ax1": 79,
+          "ax2": 21,
+          "ay1": 11.6,
+          "ay2": 88.4,
+          "groupId": "2e294aba-80e1-436c-9e9e-99aec11d1121",
+          "h": 25.9,
           "id": "89c30c71-092d-4aa1-9f57-7048c5c3888b",
           "kind": "arrow",
           "label": "Arrow",
           "reveal": "click",
-          "w": 13.5,
-          "x": 4.2,
-          "y": 8.2,
+          "w": 14.3,
+          "x": 23.1,
+          "y": 16.3,
           "z": 6
         }
       ]
@@ -4862,16 +4822,7 @@
       "distractors": [
         {
           "id": "d49187f9-f62d-4d82-b443-a0accb9a3706",
-          "images": [
-            "oggetti/bicchiere05.png",
-            "oggetti/biscotti (3).png",
-            "oggetti/burro (10).png",
-            "oggetti/calzini (6).png",
-            "oggetti/camion (4).png",
-            "oggetti/canguro (1).png",
-            "oggetti/cappello (1).png",
-            "oggetti/chiavi (5).png"
-          ]
+          "images": []
         }
       ],
       "fills": {
@@ -4884,16 +4835,16 @@
           "imageFile": "azioni nuove/ringraziare.png"
         },
         "f108297e-3c68-4016-ba3b-a540d6f638e5": {
-          "text": "danken\nQuale immagine? Alza 1 o 2 dita seguendo le icone."
+          "text": "danken"
         }
       },
+      "folder": "azioni nuove",
       "id": "dd2b83a3-c5ea-4dbc-b404-94b3a300efc1",
       "imageFile": "azioni nuove/aiutare.png",
       "kind": "general",
       "name": "Riconosci — danken",
       "slots": [
         {
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
           "h": 53.2,
           "id": "341d9aeb-3ce0-4af7-b31e-a1bcc65f680d",
           "kind": "image",
@@ -4912,7 +4863,7 @@
           "kind": "text",
           "label": "Text",
           "reveal": "always",
-          "size": 6,
+          "size": 2.2,
           "w": 20,
           "x": 35.5,
           "y": 6.2,
@@ -4963,232 +4914,19 @@
           "arrowColor": "#c43c3c",
           "arrowHead": 29,
           "arrowWidth": 10.2,
-          "ax1": 22.2,
-          "ax2": 77.8,
-          "ay1": 10.8,
-          "ay2": 89.2,
-          "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
-          "h": 27.8,
+          "ax1": 78.7,
+          "ax2": 21.3,
+          "ay1": 10.5,
+          "ay2": 89.5,
+          "h": 28.6,
           "id": "89c30c71-092d-4aa1-9f57-7048c5c3888b",
           "kind": "arrow",
           "label": "Arrow",
           "reveal": "click",
-          "w": 13.5,
-          "x": 4.2,
-          "y": 8.2,
+          "w": 14.1,
+          "x": 59.2,
+          "y": 6.7,
           "z": 6
-        }
-      ]
-    },
-    {
-      "cardFile": "91669fe6-9694-478b-bc18-b2400aea6855-a.png",
-      "createdAt": "2026-09-17T03:33:03.502Z",
-      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
-      "folder": "azioni nuove",
-      "id": "91669fe6-9694-478b-bc18-b2400aea6855",
-      "imageFile": "azioni nuove/aiutare.png",
-      "kind": "pair",
-      "name": "helfen",
-      "otherCardFile": "91669fe6-9694-478b-bc18-b2400aea6855-b.png",
-      "otherImageFile": "azioni nuove/ringraziare.png",
-      "otherName": "danken",
-      "prompt": "Aiutare e ringraziare: nomina le due azioni in tedesco. Poi ripeti: Ich helfe dir. — Ich danke dir."
-    },
-    {
-      "cardFile": "d10c6f4b-4b57-4a86-8505-e5e987164c3a-a.png",
-      "createdAt": "2026-09-17T03:33:03.502Z",
-      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
-      "folder": "azioni nuove",
-      "id": "d10c6f4b-4b57-4a86-8505-e5e987164c3a",
-      "imageFile": "azioni nuove/comprare.png",
-      "kind": "pair",
-      "name": "kaufen",
-      "otherCardFile": "d10c6f4b-4b57-4a86-8505-e5e987164c3a-b.png",
-      "otherImageFile": "azioni nuove/dare.png",
-      "otherName": "geben",
-      "prompt": "Comprare e dare: nomina le due azioni in tedesco. Poi ripeti: Ich kaufe etwas. — Ich gebe dir etwas."
-    },
-    {
-      "cardFile": "f735761f-e4cf-4f52-9017-5b8a7bbafdd6-a.png",
-      "createdAt": "2026-09-17T03:33:03.502Z",
-      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
-      "folder": "azioni nuove",
-      "id": "f735761f-e4cf-4f52-9017-5b8a7bbafdd6",
-      "imageFile": "azioni nuove/aprire.png",
-      "kind": "pair",
-      "name": "öffnen",
-      "otherCardFile": "f735761f-e4cf-4f52-9017-5b8a7bbafdd6-b.png",
-      "otherImageFile": "azioni nuove/parlare.png",
-      "otherName": "sprechen",
-      "prompt": "Aprire la porta e parlare: nomina le due azioni in tedesco. Poi ripeti: Ich öffne die Tür. — Ich spreche Deutsch."
-    },
-    {
-      "builderId": "8e7c7078-2479-4a7a-bf83-c7f421a6d87d",
-      "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-d7457ac0.png",
-      "createdAt": "2026-09-17T03:33:11.347Z",
-      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
-      "fills": {
-        "03ac6b6c-b0d8-4d76-ab36-7df4d4b37585": {
-          "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-03ac6b6c.png",
-          "imageFile": "azioni nuove/comprare.png"
-        },
-        "a74349a3-6842-4931-9f09-b6e57e791326": {
-          "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-a74349a3.png",
-          "imageFile": "azioni nuove/dare.png"
-        },
-        "aebfb0db-1df4-49b3-b536-f66d6eac1ee0": {
-          "text": "Was machst du?\nNomina tutte e quattro le azioni in tedesco."
-        },
-        "c799cec4-3502-40a1-b8a8-99140880c87e": {
-          "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-c799cec4.png",
-          "imageFile": "azioni nuove/aprire.png"
-        },
-        "d7457ac0-0ad5-438f-82bc-723d0c5f35f1": {
-          "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-d7457ac0.png",
-          "imageFile": "azioni nuove/aiutare.png"
-        }
-      },
-      "id": "00084840-898d-40ab-8638-cfaf14eacdff",
-      "imageFile": "azioni nuove/aiutare.png",
-      "kind": "general",
-      "name": "Quattro azioni — ripasso 1",
-      "slots": [
-        {
-          "h": 46.7,
-          "id": "d7457ac0-0ad5-438f-82bc-723d0c5f35f1",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 28.7,
-          "x": 8.5,
-          "y": 51.5
-        },
-        {
-          "font": "serif",
-          "h": 28.2,
-          "id": "aebfb0db-1df4-49b3-b536-f66d6eac1ee0",
-          "kind": "text",
-          "label": "Text",
-          "reveal": "click",
-          "size": 1.8,
-          "w": 19.4,
-          "x": 75.1,
-          "y": 33.7
-        },
-        {
-          "h": 46.7,
-          "id": "c799cec4-3502-40a1-b8a8-99140880c87e",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 28.7,
-          "x": 8.5,
-          "y": 3.2
-        },
-        {
-          "h": 46.7,
-          "id": "03ac6b6c-b0d8-4d76-ab36-7df4d4b37585",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 28.7,
-          "x": 38.5,
-          "y": 3.6
-        },
-        {
-          "h": 46.7,
-          "id": "a74349a3-6842-4931-9f09-b6e57e791326",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 28.7,
-          "x": 38.6,
-          "y": 51.9
-        }
-      ]
-    },
-    {
-      "builderId": "8e7c7078-2479-4a7a-bf83-c7f421a6d87d",
-      "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-d7457ac0.png",
-      "createdAt": "2026-09-17T03:33:11.424Z",
-      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
-      "fills": {
-        "03ac6b6c-b0d8-4d76-ab36-7df4d4b37585": {
-          "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-03ac6b6c.png",
-          "imageFile": "azioni nuove/aiutare.png"
-        },
-        "a74349a3-6842-4931-9f09-b6e57e791326": {
-          "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-a74349a3.png",
-          "imageFile": "azioni nuove/dare.png"
-        },
-        "aebfb0db-1df4-49b3-b536-f66d6eac1ee0": {
-          "text": "Was machst du?\nPer ogni immagine, prova una frase con «Ich …»."
-        },
-        "c799cec4-3502-40a1-b8a8-99140880c87e": {
-          "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-c799cec4.png",
-          "imageFile": "azioni nuove/ringraziare.png"
-        },
-        "d7457ac0-0ad5-438f-82bc-723d0c5f35f1": {
-          "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-d7457ac0.png",
-          "imageFile": "azioni nuove/parlare.png"
-        }
-      },
-      "id": "474a7f75-7287-4cda-a2c5-8487dd3777a8",
-      "imageFile": "azioni nuove/parlare.png",
-      "kind": "general",
-      "name": "Quattro azioni — ripasso 2",
-      "slots": [
-        {
-          "h": 46.7,
-          "id": "d7457ac0-0ad5-438f-82bc-723d0c5f35f1",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 28.7,
-          "x": 8.5,
-          "y": 51.5
-        },
-        {
-          "font": "serif",
-          "h": 28.2,
-          "id": "aebfb0db-1df4-49b3-b536-f66d6eac1ee0",
-          "kind": "text",
-          "label": "Text",
-          "reveal": "click",
-          "size": 1.8,
-          "w": 19.4,
-          "x": 75.1,
-          "y": 33.7
-        },
-        {
-          "h": 46.7,
-          "id": "c799cec4-3502-40a1-b8a8-99140880c87e",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 28.7,
-          "x": 8.5,
-          "y": 3.2
-        },
-        {
-          "h": 46.7,
-          "id": "03ac6b6c-b0d8-4d76-ab36-7df4d4b37585",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 28.7,
-          "x": 38.5,
-          "y": 3.6
-        },
-        {
-          "h": 46.7,
-          "id": "a74349a3-6842-4931-9f09-b6e57e791326",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 28.7,
-          "x": 38.6,
-          "y": 51.9
         }
       ]
     },
@@ -9619,6 +9357,218 @@
           "y": 79.5
         }
       ]
+    },
+    {
+      "cardFile": "91669fe6-9694-478b-bc18-b2400aea6855-a.png",
+      "createdAt": "2026-09-17T03:33:03.502Z",
+      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
+      "folder": "azioni nuove",
+      "id": "91669fe6-9694-478b-bc18-b2400aea6855",
+      "imageFile": "azioni nuove/aiutare.png",
+      "kind": "pair",
+      "name": "helfen",
+      "otherCardFile": "91669fe6-9694-478b-bc18-b2400aea6855-b.png",
+      "otherImageFile": "azioni nuove/ringraziare.png",
+      "otherName": "danken",
+      "prompt": "Aiutare e ringraziare: nomina le due azioni in tedesco. Poi ripeti: Ich helfe dir. — Ich danke dir."
+    },
+    {
+      "cardFile": "d10c6f4b-4b57-4a86-8505-e5e987164c3a-a.png",
+      "createdAt": "2026-09-17T03:33:03.502Z",
+      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
+      "folder": "azioni nuove",
+      "id": "d10c6f4b-4b57-4a86-8505-e5e987164c3a",
+      "imageFile": "azioni nuove/comprare.png",
+      "kind": "pair",
+      "name": "kaufen",
+      "otherCardFile": "d10c6f4b-4b57-4a86-8505-e5e987164c3a-b.png",
+      "otherImageFile": "azioni nuove/dare.png",
+      "otherName": "geben",
+      "prompt": "Comprare e dare: nomina le due azioni in tedesco. Poi ripeti: Ich kaufe etwas. — Ich gebe dir etwas."
+    },
+    {
+      "cardFile": "f735761f-e4cf-4f52-9017-5b8a7bbafdd6-a.png",
+      "createdAt": "2026-09-17T03:33:03.502Z",
+      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
+      "folder": "azioni nuove",
+      "id": "f735761f-e4cf-4f52-9017-5b8a7bbafdd6",
+      "imageFile": "azioni nuove/aprire.png",
+      "kind": "pair",
+      "name": "öffnen",
+      "otherCardFile": "f735761f-e4cf-4f52-9017-5b8a7bbafdd6-b.png",
+      "otherImageFile": "azioni nuove/parlare.png",
+      "otherName": "sprechen",
+      "prompt": "Aprire la porta e parlare: nomina le due azioni in tedesco. Poi ripeti: Ich öffne die Tür. — Ich spreche Deutsch."
+    },
+    {
+      "builderId": "8e7c7078-2479-4a7a-bf83-c7f421a6d87d",
+      "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-d7457ac0.png",
+      "createdAt": "2026-09-17T03:33:11.347Z",
+      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
+      "fills": {
+        "03ac6b6c-b0d8-4d76-ab36-7df4d4b37585": {
+          "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-03ac6b6c.png",
+          "imageFile": "azioni nuove/comprare.png"
+        },
+        "a74349a3-6842-4931-9f09-b6e57e791326": {
+          "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-a74349a3.png",
+          "imageFile": "azioni nuove/dare.png"
+        },
+        "aebfb0db-1df4-49b3-b536-f66d6eac1ee0": {
+          "text": "Was machst du?\nNomina tutte e quattro le azioni in tedesco."
+        },
+        "c799cec4-3502-40a1-b8a8-99140880c87e": {
+          "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-c799cec4.png",
+          "imageFile": "azioni nuove/aprire.png"
+        },
+        "d7457ac0-0ad5-438f-82bc-723d0c5f35f1": {
+          "cardFile": "00084840-898d-40ab-8638-cfaf14eacdff-d7457ac0.png",
+          "imageFile": "azioni nuove/aiutare.png"
+        }
+      },
+      "id": "00084840-898d-40ab-8638-cfaf14eacdff",
+      "imageFile": "azioni nuove/aiutare.png",
+      "kind": "general",
+      "name": "Quattro azioni — ripasso 1",
+      "slots": [
+        {
+          "h": 46.7,
+          "id": "d7457ac0-0ad5-438f-82bc-723d0c5f35f1",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 8.5,
+          "y": 51.5
+        },
+        {
+          "font": "serif",
+          "h": 28.2,
+          "id": "aebfb0db-1df4-49b3-b536-f66d6eac1ee0",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click",
+          "size": 1.8,
+          "w": 19.4,
+          "x": 75.1,
+          "y": 33.7
+        },
+        {
+          "h": 46.7,
+          "id": "c799cec4-3502-40a1-b8a8-99140880c87e",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 8.5,
+          "y": 3.2
+        },
+        {
+          "h": 46.7,
+          "id": "03ac6b6c-b0d8-4d76-ab36-7df4d4b37585",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 38.5,
+          "y": 3.6
+        },
+        {
+          "h": 46.7,
+          "id": "a74349a3-6842-4931-9f09-b6e57e791326",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 38.6,
+          "y": 51.9
+        }
+      ]
+    },
+    {
+      "builderId": "8e7c7078-2479-4a7a-bf83-c7f421a6d87d",
+      "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-d7457ac0.png",
+      "createdAt": "2026-09-17T03:33:11.424Z",
+      "deckId": "7246300f-e62d-4fc5-ba8b-91249057fc3f",
+      "fills": {
+        "03ac6b6c-b0d8-4d76-ab36-7df4d4b37585": {
+          "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-03ac6b6c.png",
+          "imageFile": "azioni nuove/aiutare.png"
+        },
+        "a74349a3-6842-4931-9f09-b6e57e791326": {
+          "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-a74349a3.png",
+          "imageFile": "azioni nuove/dare.png"
+        },
+        "aebfb0db-1df4-49b3-b536-f66d6eac1ee0": {
+          "text": "Was machst du?\nPer ogni immagine, prova una frase con «Ich …»."
+        },
+        "c799cec4-3502-40a1-b8a8-99140880c87e": {
+          "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-c799cec4.png",
+          "imageFile": "azioni nuove/ringraziare.png"
+        },
+        "d7457ac0-0ad5-438f-82bc-723d0c5f35f1": {
+          "cardFile": "474a7f75-7287-4cda-a2c5-8487dd3777a8-d7457ac0.png",
+          "imageFile": "azioni nuove/parlare.png"
+        }
+      },
+      "id": "474a7f75-7287-4cda-a2c5-8487dd3777a8",
+      "imageFile": "azioni nuove/parlare.png",
+      "kind": "general",
+      "name": "Quattro azioni — ripasso 2",
+      "slots": [
+        {
+          "h": 46.7,
+          "id": "d7457ac0-0ad5-438f-82bc-723d0c5f35f1",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 8.5,
+          "y": 51.5
+        },
+        {
+          "font": "serif",
+          "h": 28.2,
+          "id": "aebfb0db-1df4-49b3-b536-f66d6eac1ee0",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click",
+          "size": 1.8,
+          "w": 19.4,
+          "x": 75.1,
+          "y": 33.7
+        },
+        {
+          "h": 46.7,
+          "id": "c799cec4-3502-40a1-b8a8-99140880c87e",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 8.5,
+          "y": 3.2
+        },
+        {
+          "h": 46.7,
+          "id": "03ac6b6c-b0d8-4d76-ab36-7df4d4b37585",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 38.5,
+          "y": 3.6
+        },
+        {
+          "h": 46.7,
+          "id": "a74349a3-6842-4931-9f09-b6e57e791326",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 28.7,
+          "x": 38.6,
+          "y": 51.9
+        }
+      ]
     }
   ],
   "decks": [
@@ -9725,7 +9675,7 @@
     {
       "createdAt": "2026-09-17T02:54:34.122Z",
       "id": "731327ce-c475-4f87-992d-8ccafe8143d0",
-      "name": "Alltagshandlungen – azioni nuove"
+      "name": "DA CONTROLLARE Alltagshandlungen – azioni nuove"
     },
     {
       "cardOrder": [
@@ -9796,7 +9746,9 @@
   "cardFolders": [
     "acceso e spento",
     "ai",
+    "aperto e chiuso",
     "azioni",
+    "azioni nuove",
     "azioni/prova sociale",
     "emozioni",
     "general cards",
@@ -9807,10 +9759,8 @@
     "posate",
     "rapper",
     "ricette",
-    "vestiti",
-    "aperto e chiuso",
-    "azioni nuove",
-    "Ripetizioni"
+    "Ripetizioni",
+    "vestiti"
   ],
   "builders": [
     {

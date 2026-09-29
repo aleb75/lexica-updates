@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-09-23T10:16:03.000Z",
+  "builtAt": "2026-09-29T07:06:50.000Z",
   "cards": 212,
   "catalog": {
-    "bytes": 310821,
+    "bytes": 309078,
     "path": "catalog.json",
-    "sha256": "c9ee9cbaf575c1b771550160295375d81d4a83701f89b9834699339b315df29c"
+    "sha256": "49a17118391046ea0d069c7bd1532df10b4cabc5fa41d7a60375026e42817089"
   },
   "decks": 25,
   "files": [
@@ -91,7 +91,7 @@
     {
       "bytes": 656645,
       "height": 1254,
-      "modified": "2026-09-18T22:50:08.000Z",
+      "modified": "2026-09-23T10:17:24.000Z",
       "path": "icons/icona dita alzate 1.png",
       "sha256": "0933766c8cb5d56d3c893b1805ecf852d346da498449787a297fd5472576b724",
       "width": 1254
@@ -3372,9 +3372,9 @@
     "ricette",
     "vestiti"
   ],
-  "id": "f64fa98bf7fc298b32bb0431a9de93d16cd118eb2e730ccefd9709085381949c",
+  "id": "57157cfa7a5271d30a03ac3b6761012021c82234ee79aae06fdde3937ba9fe42",
   "images": 418,
   "kind": "lexica-library-index",
-  "sha256": "f64fa98bf7fc298b32bb0431a9de93d16cd118eb2e730ccefd9709085381949c",
+  "sha256": "57157cfa7a5271d30a03ac3b6761012021c82234ee79aae06fdde3937ba9fe42",
   "url": "."
 }
