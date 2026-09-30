@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T17:58:05.000Z",
+  "builtAt": "2026-09-30T17:58:14.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -527,6 +527,14 @@
       "modified": "2026-09-27T17:09:54.000Z",
       "path": "images/ai/das Fleisch.png",
       "sha256": "d9fd0cd112ab81eb7bdca64285fe64d47689eeaafccc97f75a0a529723c5e0c3",
+      "width": 1024
+    },
+    {
+      "bytes": 1725966,
+      "height": 1024,
+      "modified": "2026-09-27T17:10:07.000Z",
+      "path": "images/ai/das Gemüse.png",
+      "sha256": "cb842f4b40d3193681e87389fd9cbb23af7b3694d0d06fb73a198b65e3630a73",
       "width": 1024
     },
     {
