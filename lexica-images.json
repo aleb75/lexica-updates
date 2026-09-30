@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T17:58:14.000Z",
+  "builtAt": "2026-09-30T17:58:22.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -535,6 +535,14 @@
       "modified": "2026-09-27T17:10:07.000Z",
       "path": "images/ai/das Gemüse.png",
       "sha256": "cb842f4b40d3193681e87389fd9cbb23af7b3694d0d06fb73a198b65e3630a73",
+      "width": 1024
+    },
+    {
+      "bytes": 1489299,
+      "height": 1024,
+      "modified": "2026-09-27T17:10:31.000Z",
+      "path": "images/ai/das Obst.png",
+      "sha256": "02925f5bc1a33a4ca2dc5faabe17aa13a6f383111dda8be1c856326834810914",
       "width": 1024
     },
     {
