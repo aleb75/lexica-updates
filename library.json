@@ -1,12 +1,12 @@
 {
-  "builtAt": "2026-09-29T07:06:50.000Z",
+  "builtAt": "2026-09-30T16:21:25.000Z",
   "cards": 212,
   "catalog": {
-    "bytes": 309078,
+    "bytes": 310204,
     "path": "catalog.json",
-    "sha256": "49a17118391046ea0d069c7bd1532df10b4cabc5fa41d7a60375026e42817089"
+    "sha256": "2b1468058317cd55df1b6c8513283c3cd657fdf798391d30bf315baf8d9fcda5"
   },
-  "decks": 25,
+  "decks": 27,
   "files": [
     {
       "bytes": 11328,
@@ -79,6 +79,22 @@
       "path": "audio/speech.mp3",
       "sha256": "1517e8a6a62161214369c687e72d693b4e8275bb21930997d20fad2a5f467979",
       "width": 0
+    },
+    {
+      "bytes": 909139,
+      "height": 1024,
+      "modified": "2026-09-29T18:47:38.000Z",
+      "path": "icons/ai/A-stylized-icon-of-a-face-with-t-2.png",
+      "sha256": "",
+      "width": 1024
+    },
+    {
+      "bytes": 896202,
+      "height": 1024,
+      "modified": "2026-09-29T18:47:39.000Z",
+      "path": "icons/ai/A-stylized-icon-of-a-face-with-t.png",
+      "sha256": "",
+      "width": 1024
     },
     {
       "bytes": 375684,
@@ -3372,9 +3388,9 @@
     "ricette",
     "vestiti"
   ],
-  "id": "57157cfa7a5271d30a03ac3b6761012021c82234ee79aae06fdde3937ba9fe42",
-  "images": 418,
+  "id": "e4c8a254a216b6b23fc8a4e87af22fc6b71b7ace0a61fd8866f5aff54996d300",
+  "images": 420,
   "kind": "lexica-library-index",
-  "sha256": "57157cfa7a5271d30a03ac3b6761012021c82234ee79aae06fdde3937ba9fe42",
+  "sha256": "e4c8a254a216b6b23fc8a4e87af22fc6b71b7ace0a61fd8866f5aff54996d300",
   "url": "."
 }

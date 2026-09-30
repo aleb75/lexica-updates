@@ -9733,14 +9733,49 @@
       "name": "Italian to German — Beginner"
     },
     {
+      "cardOrder": [
+        "ba14f390-088a-43fd-b741-9da984327404",
+        "cef598a0-15a7-45c4-93ac-3be19afe15e2",
+        "f1aa5d1b-eaf7-4114-a0f0-75f4751d82a1",
+        "663ffcf4-3864-4636-9fc7-7ca282fc35ac"
+      ],
       "createdAt": "2026-09-14T14:55:39.730Z",
       "id": "639f21c8-0704-4ad2-84f7-0db1b2670072",
-      "name": "ricette"
+      "name": "ricette",
+      "play": "random"
     },
     {
+      "cardOrder": [
+        "381f3a88-3107-49b1-bbd5-40480a8d5dca",
+        "ad5be479-7abf-4739-8044-8ab7b7363f3f",
+        "e91c56ed-a509-4308-baa0-1030e6993f64"
+      ],
       "createdAt": "2026-09-19T01:13:21.965Z",
       "id": "7dc91f82-84b7-4c96-bce1-ca2f8367ad87",
-      "name": "German Beginner — Ripetizione parole"
+      "name": "German Beginner — Ripetizione parole",
+      "play": "random"
+    },
+    {
+      "createdAt": "2026-09-21T23:26:32.524Z",
+      "id": "c8024d39-cbca-4d66-83de-989b5f98d717",
+      "joinIds": [
+        "d7cc0fc5-fc05-41f0-86f5-96bae5926173",
+        "09c102eb-cb46-421f-bd10-a98849e168a4"
+      ],
+      "name": "oktoberfest + rapper",
+      "play": "random",
+      "ratioDistractors": 3,
+      "ratioTargets": 1,
+      "targetIds": [
+        "3f52dc94-3ef3-4852-a642-51e1328cc018",
+        "94419b0a-0c60-42f1-99ba-d14a5b59a158",
+        "531651ea-38a4-4d60-9b05-9e38842e9c21"
+      ]
+    },
+    {
+      "createdAt": "2026-09-27T17:09:41.126Z",
+      "id": "e1027e16-9b2d-4dc2-87e6-731494f58b01",
+      "name": "Lebensmittel – Cibi in tedesco"
     }
   ],
   "cardFolders": [
@@ -10003,7 +10038,7 @@
             "are",
             "can"
           ],
-          "correctChoice": 2,
+          "correctChoice": 0,
           "shuffleChoices": true,
           "text": "They ⍰ happy."
         },
