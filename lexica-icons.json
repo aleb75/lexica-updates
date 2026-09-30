@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T17:53:07.000Z",
+  "builtAt": "2026-09-30T17:53:15.000Z",
   "files": [
     {
       "bytes": 849990,
@@ -7,6 +7,14 @@
       "modified": "2026-09-26T22:15:22.000Z",
       "path": "icons/ai/A-simple-icon-depicting-hands-ra-2.png",
       "sha256": "cf494a2efab7ca15017203d5dfed114e093270ed9ffa6df88bd1c2b8753ac492",
+      "width": 1024
+    },
+    {
+      "bytes": 778010,
+      "height": 1024,
+      "modified": "2026-09-26T20:17:17.000Z",
+      "path": "icons/ai/A-simple-icon-depicting-hands-ra.png",
+      "sha256": "7482c6c0456720adce9f43820387ce1d185c9cc85e960469a1ca2b37a346a382",
       "width": 1024
     },
     {
