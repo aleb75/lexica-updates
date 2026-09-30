@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T17:56:18.000Z",
+  "builtAt": "2026-09-30T17:56:25.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -408,6 +408,14 @@
       "path": "images/ai/Due-persone-che-si-salutano-dice.png",
       "sha256": "dcfa5231a5e9f770d22746f7a7d566a985cf3bda248d4c3a5648ac0b5290a3c4",
       "width": 1088
+    },
+    {
+      "bytes": 876560,
+      "height": 1024,
+      "modified": "2026-09-26T22:32:23.000Z",
+      "path": "images/ai/Single-square-beginner-vocabular-10.png",
+      "sha256": "df64a75bc32d3731f0d11728109ffac8b49bcab0ab44adbbba1c4188a09e0c8d",
+      "width": 1024
     },
     {
       "bytes": 1722572,
