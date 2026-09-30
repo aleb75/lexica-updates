@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T17:57:30.000Z",
+  "builtAt": "2026-09-30T17:57:36.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -487,6 +487,14 @@
       "modified": "2026-09-26T22:31:55.000Z",
       "path": "images/ai/Single-square-beginner-vocabular-8.png",
       "sha256": "c262218dc89802c677b7cfcdad5992ce1de453de309ece94a1d8b83b8e605624",
+      "width": 1024
+    },
+    {
+      "bytes": 873730,
+      "height": 1024,
+      "modified": "2026-09-26T22:32:10.000Z",
+      "path": "images/ai/Single-square-beginner-vocabular-9.png",
+      "sha256": "1d57ab784439cc2b166021cb779ac41a94824e19b33246d80ab40e8d0440c4d0",
       "width": 1024
     },
     {
