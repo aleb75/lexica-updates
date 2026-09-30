@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T17:57:48.000Z",
+  "builtAt": "2026-09-30T17:57:56.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -511,6 +511,14 @@
       "modified": "2026-09-27T17:10:46.000Z",
       "path": "images/ai/das Brot.png",
       "sha256": "770a6b21b8267c4335578b8cc246a5d1fd4b826316c19c439c8fb9ad2c159573",
+      "width": 1024
+    },
+    {
+      "bytes": 1298483,
+      "height": 1024,
+      "modified": "2026-09-27T17:10:18.000Z",
+      "path": "images/ai/das Eis.png",
+      "sha256": "99268939e291867ef7ce239eaf19069171f4c3faf1ff908d0fbae1906fc36622",
       "width": 1024
     },
     {
