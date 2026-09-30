@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T17:55:54.000Z",
+  "builtAt": "2026-09-30T17:56:02.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -335,6 +335,14 @@
       "modified": "2026-09-18T23:12:08.000Z",
       "path": "images/ai/A-simple-red-circle-on-a-white-b.png",
       "sha256": "f96a6661c2aaedbbfdb1fb29346ee144e9804c36139c2e63f76229cdf1a93670",
+      "width": 1024
+    },
+    {
+      "bytes": 1643327,
+      "height": 1024,
+      "modified": "2026-09-26T02:27:54.000Z",
+      "path": "images/ai/Create-a-clear-beginner-language-2.png",
+      "sha256": "d8101b5280e358634eba3a8441d957def4c9ee42066957cf4e0413a24ee4a161",
       "width": 1024
     },
     {
