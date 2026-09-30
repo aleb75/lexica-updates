@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T17:57:42.000Z",
+  "builtAt": "2026-09-30T17:57:48.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -503,6 +503,14 @@
       "modified": "2026-09-26T22:30:27.000Z",
       "path": "images/ai/Single-square-beginner-vocabular.png",
       "sha256": "80c42d9aeefa21d9cc57abe75737344e0364d75d1c10a32c7651ee687c4cae2b",
+      "width": 1024
+    },
+    {
+      "bytes": 1719314,
+      "height": 1024,
+      "modified": "2026-09-27T17:10:46.000Z",
+      "path": "images/ai/das Brot.png",
+      "sha256": "770a6b21b8267c4335578b8cc246a5d1fd4b826316c19c439c8fb9ad2c159573",
       "width": 1024
     },
     {
