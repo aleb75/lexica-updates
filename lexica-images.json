@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T17:57:56.000Z",
+  "builtAt": "2026-09-30T17:58:05.000Z",
   "files": [
     {
       "bytes": 34009,
@@ -519,6 +519,14 @@
       "modified": "2026-09-27T17:10:18.000Z",
       "path": "images/ai/das Eis.png",
       "sha256": "99268939e291867ef7ce239eaf19069171f4c3faf1ff908d0fbae1906fc36622",
+      "width": 1024
+    },
+    {
+      "bytes": 1560629,
+      "height": 1024,
+      "modified": "2026-09-27T17:09:54.000Z",
+      "path": "images/ai/das Fleisch.png",
+      "sha256": "d9fd0cd112ab81eb7bdca64285fe64d47689eeaafccc97f75a0a529723c5e0c3",
       "width": 1024
     },
     {
