@@ -85,7 +85,7 @@
       "height": 1024,
       "modified": "2026-09-29T18:47:38.000Z",
       "path": "icons/ai/A-stylized-icon-of-a-face-with-t-2.png",
-      "sha256": "",
+      "sha256": "b4580cb9b31f669b93bd781fbca43813267b5e451fde861eb92065a21aa2b1ca",
       "width": 1024
     },
     {
@@ -93,7 +93,7 @@
       "height": 1024,
       "modified": "2026-09-29T18:47:39.000Z",
       "path": "icons/ai/A-stylized-icon-of-a-face-with-t.png",
-      "sha256": "",
+      "sha256": "75c1054ca2a285cdab39b1f2136a0c3127e636db6edb22fd036d96c990996453",
       "width": 1024
     },
     {
@@ -365,7 +365,7 @@
       "height": 2339,
       "modified": "2026-09-22T18:55:07.000Z",
       "path": "images/Schweinshaxe mit Bier.jpg",
-      "sha256": "",
+      "sha256": "84e7edb191b1417f7cc3c57c8fdb61856343ed15bb1e550a103bd55c3d6ea500",
       "width": 1654
     },
     {
@@ -3388,7 +3388,7 @@
     "ricette",
     "vestiti"
   ],
-  "id": "e4c8a254a216b6b23fc8a4e87af22fc6b71b7ace0a61fd8866f5aff54996d300",
+  "id": "171b2799f97490d487f6ec5856d032402b672216a0e78d24b844044f18b18073",
   "images": 420,
   "kind": "lexica-library-index",
   "sha256": "e4c8a254a216b6b23fc8a4e87af22fc6b71b7ace0a61fd8866f5aff54996d300",
