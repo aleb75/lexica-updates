@@ -9776,6 +9776,16 @@
       "createdAt": "2026-09-27T17:09:41.126Z",
       "id": "e1027e16-9b2d-4dc2-87e6-731494f58b01",
       "name": "Lebensmittel – Cibi in tedesco"
+    },
+    {
+      "createdAt": "2026-09-26T02:27:26.973Z",
+      "id": "c1c6d41b-31a8-45f4-aead-9ccd1da136d9",
+      "name": "Drei Adjektive: heiß, kalt, müde"
+    },
+    {
+      "createdAt": "2026-09-27T17:00:04.418Z",
+      "id": "6ad49ac9-7b19-4490-8948-a039ec9756d7",
+      "name": "Tedesco 2"
     }
   ],
   "cardFolders": [
@@ -9812,7 +9822,7 @@
         }
       },
       "id": "ce54dc54-027d-48ad-ac0f-bc2a2fd37915",
-      "name": "New builder",
+      "name": "rappers",
       "slots": [
         {
           "h": 44.1,
@@ -10213,7 +10223,7 @@
         }
       ],
       "id": "f1cdd5f2-3040-4a3e-9ca4-858c96a92759",
-      "name": "New builder",
+      "name": "identificazione 2 immagini",
       "slots": [
         {
           "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
@@ -10346,35 +10356,6 @@
       ]
     },
     {
-      "createdAt": "2026-09-09T01:02:48.995Z",
-      "id": "f3cd7439-2213-4e1f-9a34-716c52de1611",
-      "name": "New builder",
-      "slots": [
-        {
-          "h": 52,
-          "id": "e13d9824-f387-4bce-bb19-1b66ecef6527",
-          "kind": "image",
-          "label": "Picture",
-          "reveal": "always",
-          "w": 42,
-          "x": 8,
-          "y": 10
-        },
-        {
-          "font": "serif",
-          "h": 22,
-          "id": "969e173a-0c9b-470e-9e98-e53be8fa7b49",
-          "kind": "text",
-          "label": "Text",
-          "reveal": "click",
-          "size": 1.8,
-          "w": 38,
-          "x": 54,
-          "y": 16
-        }
-      ]
-    },
-    {
       "createdAt": "2026-09-19T00:17:11.001Z",
       "defaults": {
         "40664373-aa84-441e-ad92-d8ada1d87231": {
@@ -10481,7 +10462,7 @@
         }
       },
       "id": "ae12242a-bbe3-494c-85e4-06d1894cfd03",
-      "name": "New builder3",
+      "name": "carta singola",
       "slots": [
         {
           "h": 100,
@@ -10495,15 +10476,44 @@
         },
         {
           "font": "serif",
-          "h": 7.6,
+          "h": 7.9,
           "id": "d54ba224-0f36-4782-bce3-5b7959d5771d",
           "kind": "text",
           "label": "mi-fai-un-immagine-che-rappresen",
           "reveal": "click",
           "size": 1.8,
-          "w": 48.3,
-          "x": 25.9,
-          "y": 74.9
+          "w": 14.4,
+          "x": 42.8,
+          "y": 74.8
+        }
+      ]
+    },
+    {
+      "createdAt": "2026-09-09T01:02:48.995Z",
+      "id": "f3cd7439-2213-4e1f-9a34-716c52de1611",
+      "name": "New builder",
+      "slots": [
+        {
+          "h": 52,
+          "id": "e13d9824-f387-4bce-bb19-1b66ecef6527",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 42,
+          "x": 8,
+          "y": 10
+        },
+        {
+          "font": "serif",
+          "h": 22,
+          "id": "969e173a-0c9b-470e-9e98-e53be8fa7b49",
+          "kind": "text",
+          "label": "Text",
+          "reveal": "click",
+          "size": 1.8,
+          "w": 38,
+          "x": 54,
+          "y": 16
         }
       ]
     },
