@@ -331,7 +331,7 @@
         }
       ],
       "id": "f1cdd5f2-3040-4a3e-9ca4-858c96a92759",
-      "name": "New builder",
+      "name": "identificazione 2 immagini",
       "slots": [
         {
           "groupId": "dc6642fd-38fb-4b58-9d91-e310f3400dea",
@@ -477,7 +477,7 @@
         }
       },
       "id": "ce54dc54-027d-48ad-ac0f-bc2a2fd37915",
-      "name": "New builder",
+      "name": "rappers",
       "slots": [
         {
           "h": 44.1,
@@ -670,9 +670,43 @@
           "y": 79.5
         }
       ]
+    },
+    {
+      "createdAt": "2026-09-20T16:57:54.502Z",
+      "defaults": {
+        "d54ba224-0f36-4782-bce3-5b7959d5771d": {
+          "text": "Rad fahren"
+        }
+      },
+      "id": "ae12242a-bbe3-494c-85e4-06d1894cfd03",
+      "name": "carta singola",
+      "slots": [
+        {
+          "h": 100,
+          "id": "bf34b8ca-61cc-45df-8a8b-6839f38382a6",
+          "kind": "image",
+          "label": "Picture",
+          "reveal": "always",
+          "w": 100,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "serif",
+          "h": 7.9,
+          "id": "d54ba224-0f36-4782-bce3-5b7959d5771d",
+          "kind": "text",
+          "label": "mi-fai-un-immagine-che-rappresen",
+          "reveal": "click",
+          "size": 1.8,
+          "w": 14.4,
+          "x": 42.8,
+          "y": 74.8
+        }
+      ]
     }
   ],
-  "builtAt": "2026-09-19T01:39:54.000Z",
+  "builtAt": "2026-10-05T12:32:28.000Z",
   "kind": "lexica-builders",
   "version": 1
 }
